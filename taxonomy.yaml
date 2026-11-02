@@ -1,0 +1,45 @@
+# Taxonomie fixe des thèmes du radar.
+# Sans LLM, un thème est attribué quand un mot-clé apparaît dans le titre ou le
+# résumé (insensible à la casse, mots entiers). Avec un LLM, le modèle choisit
+# parmi ces mêmes identifiants : la liste reste la référence unique.
+
+tags:
+  llm:
+    label: Modèles de langage
+    keywords: [llm, "language model", gpt, claude, gemini, llama, mistral, qwen, deepseek, transformer, "foundation model", tokenizer]
+  agents:
+    label: Agents
+    keywords: [agent, agents, agentic, "tool use", "computer use", mcp, "function calling", autonomous]
+  multimodal:
+    label: Multimodal
+    keywords: [multimodal, vision, image, video, audio, speech, "text-to-image", diffusion, vlm]
+  open-source:
+    label: Open source
+    keywords: [open source, open-source, "open weights", "open-weight", apache, "hugging face"]
+  safety:
+    label: Sûreté et alignement
+    keywords: [safety, alignment, interpretability, jailbreak, "red team", "red teaming", misuse, guardrail, evals]
+  regulation:
+    label: Régulation et politique
+    keywords: ["ai act", regulation, regulator, policy, law, copyright, lawsuit, cnil, "executive order", governance, compliance]
+  infra:
+    label: Infra et calcul
+    keywords: [gpu, gpus, nvidia, tpu, chip, chips, datacenter, "data center", inference, compute, cluster, energy, quantization]
+  mlops:
+    label: MLOps et plateforme IA
+    keywords: [mlops, llmops, deployment, serving, "fine-tuning", finetuning, benchmark, evaluation, observability, pipeline, kubernetes]
+  rag:
+    label: RAG et recherche
+    keywords: [rag, retrieval, embedding, embeddings, "vector database", "semantic search", reranking]
+  code:
+    label: IA pour le code
+    keywords: [coding, "code generation", copilot, programming, developer, software engineering]
+  robotics:
+    label: Robotique
+    keywords: [robot, robots, robotics, humanoid, embodied, autonomous driving]
+  business:
+    label: Business et marché
+    keywords: [funding, raises, acquisition, acquires, valuation, revenue, partnership, ipo, startup, pricing, enterprise]
+  science:
+    label: IA pour la science
+    keywords: [protein, biology, drug, chemistry, materials, physics, climate, weather, medical, health]

@@ -1,0 +1,123 @@
+# Sources collectées chaque jour par le pipeline.
+#
+# Champs communs :
+#   id        identifiant court et unique (utilisé dans les données)
+#   name      nom affiché dans l'app
+#   type      rss | arxiv | hf_daily | hn
+#   category  news | research | community   (onglet de l'app)
+#   weight    1 à 5 — poids de la source dans le score d'importance
+#   enabled   true | false
+#
+# Une source en échec (site indisponible, URL changée) est journalisée
+# puis ignorée : elle ne bloque jamais le reste de la collecte.
+
+settings:
+  window_hours: 48        # n'accepte que les éléments publiés dans cette fenêtre
+  timezone: Europe/Paris  # fuseau utilisé pour dater le "jour" du radar
+  max_items_per_source: 30
+
+sources:
+  # --- Labs et éditeurs (flux officiels) ---------------------------------
+  - id: openai
+    name: OpenAI News
+    type: rss
+    url: https://openai.com/news/rss.xml
+    category: news
+    weight: 5
+    enabled: true
+
+  - id: deepmind
+    name: Google DeepMind Blog
+    type: rss
+    url: https://deepmind.google/blog/rss.xml
+    category: news
+    weight: 5
+    enabled: true
+
+  - id: anthropic
+    # Anthropic ne publie pas de flux RSS officiel : flux communautaire
+    # généré à partir de anthropic.com/news (projet Olshansk/rss-feeds).
+    name: Anthropic
+    type: rss
+    url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+    category: news
+    weight: 5
+    enabled: true
+
+  - id: mistral
+    name: Mistral AI News
+    type: rss
+    url: https://mistral.ai/news/rss
+    category: news
+    weight: 4
+    enabled: true
+
+  - id: huggingface-blog
+    name: Hugging Face Blog
+    type: rss
+    url: https://huggingface.co/blog/feed.xml
+    category: news
+    weight: 4
+    enabled: true
+
+  # --- Médias spécialisés -----------------------------------------------
+  - id: mit-tech-review-ai
+    name: MIT Technology Review — IA
+    type: rss
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    category: news
+    weight: 4
+    enabled: true
+
+  - id: mit-news-ai
+    name: MIT News — IA
+    type: rss
+    url: https://news.mit.edu/rss/topic/artificial-intelligence2
+    category: news
+    weight: 3
+    enabled: true
+
+  - id: the-decoder
+    name: The Decoder
+    type: rss
+    url: https://the-decoder.com/feed/
+    category: news
+    weight: 3
+    enabled: true
+
+  - id: marktechpost
+    name: MarkTechPost
+    type: rss
+    url: https://www.marktechpost.com/feed/
+    category: news
+    weight: 2
+    enabled: true
+
+  # --- Recherche ----------------------------------------------------------
+  - id: hf-daily-papers
+    name: Hugging Face Daily Papers
+    type: hf_daily
+    url: https://huggingface.co/api/daily_papers
+    category: research
+    weight: 4
+    limit: 30
+    enabled: true
+
+  - id: arxiv
+    name: arXiv (cs.AI, cs.CL, cs.LG)
+    type: arxiv
+    categories: [cs.AI, cs.CL, cs.LG]
+    max_results: 40
+    category: research
+    weight: 2
+    enabled: true
+
+  # --- Communauté ----------------------------------------------------------
+  - id: hacker-news
+    name: Hacker News
+    type: hn
+    queries: [LLM, OpenAI, Anthropic, Claude, Gemini, Mistral, "AI agents"]
+    min_points: 80
+    category: community
+    weight: 3
+    enabled: true

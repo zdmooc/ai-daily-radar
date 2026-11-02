@@ -1,0 +1,87 @@
+name: Radar quotidien
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # chaque jour à 05:17 UTC (≈ 6h17 l'hiver, 7h17 l'été à Paris)
+  workflow_dispatch:
+    inputs:
+      window_hours:
+        description: "Fenêtre de collecte en heures (vide = valeur de sources.yaml ; 168 pour remplir une semaine)"
+        required: false
+  push:
+    branches: [main]
+    paths: ["app/**", "pipeline/**", "sources.yaml", "taxonomy.yaml", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m pytest -q
+
+      # La collecte ne tourne que sur le planning ou le lancement manuel :
+      # un simple push de code redéploie l'app avec les données existantes.
+      - name: Collecte et enrichissement
+        if: github.event_name != 'push'
+        env:
+          RADAR_LLM_PROVIDER: ${{ vars.RADAR_LLM_PROVIDER || 'none' }}
+          RADAR_LLM_MODEL: ${{ vars.RADAR_LLM_MODEL }}
+          RADAR_LLM_BASE_URL: ${{ vars.RADAR_LLM_BASE_URL }}
+          RADAR_LLM_MAX_ITEMS: ${{ vars.RADAR_LLM_MAX_ITEMS || '40' }}
+          RADAR_LLM_API_KEY: ${{ secrets.RADAR_LLM_API_KEY }}
+          WINDOW_HOURS: ${{ github.event.inputs.window_hours }}
+        run: |
+          if [[ "$WINDOW_HOURS" =~ ^[0-9]+$ ]]; then
+            python -m pipeline.run --window-hours "$WINDOW_HOURS"
+          else
+            python -m pipeline.run
+          fi
+
+      - name: Enregistrer les données dans le dépôt
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app/data
+          if git diff --cached --quiet; then
+            echo "Aucune nouvelle donnée."
+          else
+            git commit -m "data: radar du $(TZ=Europe/Paris date +%F)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: app
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
