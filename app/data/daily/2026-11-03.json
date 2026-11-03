@@ -24,6 +24,29 @@
    "id": "de4cf53f9db9"
   },
   {
+   "title": "Agentic cheminformatics with Google Antigravity",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "source_id": "deepmind",
+   "source_name": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-11-03T17:01:49+00:00",
+   "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "science"
+   ],
+   "score": 60,
+   "id": "adafdd4764cb"
+  },
+  {
    "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
    "url": "https://huggingface.co/papers/2610.40191",
    "source_id": "hf-daily-papers",
@@ -332,6 +355,28 @@
    ],
    "score": 55,
    "id": "08b710f1e780"
+  },
+  {
+   "title": "How Cisco defends at machine speed with OpenAI",
+   "url": "https://openai.com/index/cisco-cyber",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-03T08:00:00+00:00",
+   "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 55,
+   "id": "a2357e701f02"
   },
   {
    "title": "Introducing the Grid Protectors Program",
@@ -909,6 +954,26 @@
    "id": "a7e0c8fc4182"
   },
   {
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-03T12:00:00+00:00",
+   "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "26c6032e1d26"
+  },
+  {
    "title": "How “reverse game theory” could keep AI agents in check",
    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
    "source_id": "mit-tech-review-ai",
@@ -932,6 +997,26 @@
    ],
    "score": 50,
    "id": "a312adbc2b5e"
+  },
+  {
+   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-03T00:00:00+00:00",
+   "excerpt": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "3d509e27bae2"
   },
   {
    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
@@ -1641,6 +1726,26 @@
    "id": "a3f03f926aa0"
   },
   {
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "url": "https://news.ycombinator.com/item?id=50352757",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-03T14:53:41+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50352757",
+   "engagement": 380,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 45,
+   "id": "605a80a50559"
+  },
+  {
    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
    "source_id": "mit-tech-review-ai",
@@ -1816,6 +1921,46 @@
    "id": "bf524c98082b"
   },
   {
+   "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+   "url": "https://flipper.net/pages/flipper-one",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-03T19:32:13+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50356994",
+   "engagement": 108,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "a010bae6b2ed"
+  },
+  {
+   "title": "Gitbook Breached",
+   "url": "https://news.ycombinator.com/item?id=50354336",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-03T16:45:49+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50354336",
+   "engagement": 121,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "ee9a96438970"
+  },
+  {
    "title": "Revolut moves to self-hosted GLM",
    "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
    "source_id": "hacker-news",
@@ -1834,6 +1979,26 @@
    "tags": [],
    "score": 42,
    "id": "5dc6ba520824"
+  },
+  {
+   "title": "LLMs are not superhuman at reading and writing neural network weights",
+   "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-02T22:26:53+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50344861",
+   "engagement": 133,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "ed56c906ca53"
   },
   {
    "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
@@ -1877,6 +2042,72 @@
    "tags": [],
    "score": 41,
    "id": "c8a2aa37f429"
+  },
+  {
+   "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+   "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T20:15:45+00:00",
+   "excerpt": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances. A newer internal model scores significantly higher on OpenAI's engineering benchmark, though the company isn't sharing details. The article OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals",
+    "code"
+   ],
+   "score": 40,
+   "id": "e658516312f2"
+  },
+  {
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-03T17:15:21+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 40,
+   "id": "a55665cf4895"
+  },
+  {
+   "title": "Palette: teaching a small model to build decks in your design language",
+   "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-03T16:35:36+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 40,
+   "id": "bc4177032a04"
   },
   {
    "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
@@ -1923,6 +2154,26 @@
    "tags": [],
    "score": 40,
    "id": "fec0e46ceba4"
+  },
+  {
+   "title": "CWE-bench v2: More coverage, quality, and transparency",
+   "url": "https://huggingface.co/blog/cwe-bench",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-03T00:00:00+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 40,
+   "id": "20954e3ac0ff"
   },
   {
    "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
@@ -2200,6 +2451,54 @@
    "id": "858dd928576d"
   },
   {
+   "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+   "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T19:41:43+00:00",
+   "excerpt": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 months. Claims about what models can't do expire fastest. The article Rapid LLM development is outrunning the research meant to explain it, study finds appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "dbaf904290f1"
+  },
+  {
+   "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
+   "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T16:51:18+00:00",
+   "excerpt": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time for the first time. The article AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 35,
+   "id": "38644115ef6a"
+  },
+  {
    "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
    "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
    "source_id": "the-decoder",
@@ -2390,6 +2689,50 @@
    ],
    "score": 35,
    "id": "9e57b3c7cb0d"
+  },
+  {
+   "title": "Building connections across the research infrastructure",
+   "url": "https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103",
+   "source_id": "mit-news-ai",
+   "source_name": "MIT News — IA",
+   "category": "news",
+   "published": "2026-11-03T19:30:00+00:00",
+   "excerpt": "MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.",
+   "authors": [
+    "MIT.nano"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "12feaf67ddae"
+  },
+  {
+   "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
+   "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T15:03:02+00:00",
+   "excerpt": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies. Driscoll drove AI projects inside the Army, is a close ally of Vice President JD Vance, and yet maintains good relationships with both parties in Congress - which could prove valuable as midterms approach. The article OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "4f6a289f54e3"
   },
   {
    "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
@@ -3632,6 +3975,6 @@
    "id": "4f8f69a7413f"
   }
  ],
- "generated_at": "2026-11-03T12:46:37.713645+00:00",
+ "generated_at": "2026-11-03T21:15:09.572581+00:00",
  "llm": "none"
 }
