@@ -21,13 +21,13 @@ tags:
     keywords: [safety, alignment, interpretability, jailbreak, "red team", "red teaming", misuse, guardrail, evals]
   regulation:
     label: Régulation et politique
-    keywords: ["ai act", regulation, regulator, policy, law, copyright, lawsuit, cnil, "executive order", governance, compliance]
+    keywords: ["ai act", regulation, regulator, regulators, "ai policy", "public policy", legislation, copyright, lawsuit, cnil, "executive order", governance, compliance, antitrust]
   infra:
     label: Infra et calcul
     keywords: [gpu, gpus, nvidia, tpu, chip, chips, datacenter, "data center", inference, compute, cluster, energy, quantization]
   mlops:
     label: MLOps et plateforme IA
-    keywords: [mlops, llmops, deployment, serving, "fine-tuning", finetuning, benchmark, evaluation, observability, pipeline, kubernetes]
+    keywords: [mlops, llmops, deployment, serving, "fine-tuning", finetuning, observability, kubernetes, "ai platform", "model serving", "inference server"]
   rag:
     label: RAG et recherche
     keywords: [rag, retrieval, embedding, embeddings, "vector database", "semantic search", reranking]
@@ -43,3 +43,6 @@ tags:
   science:
     label: IA pour la science
     keywords: [protein, biology, drug, chemistry, materials, physics, climate, weather, medical, health]
+  evals:
+    label: Évaluation et benchmarks
+    keywords: [benchmark, benchmarks, benchmarking, evaluation, leaderboard, "test set"]

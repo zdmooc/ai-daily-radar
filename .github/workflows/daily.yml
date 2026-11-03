@@ -2,7 +2,8 @@ name: Radar quotidien
 
 on:
   schedule:
-    - cron: "17 5 * * *"   # chaque jour à 05:17 UTC (≈ 6h17 l'hiver, 7h17 l'été à Paris)
+    - cron: "17 5 * * *"    # matin : 05:17 UTC (≈ 6h17 l'hiver, 7h17 l'été à Paris)
+    - cron: "43 15 * * *"   # après-midi : complète le jour (et rattrape un passage manqué)
   workflow_dispatch:
     inputs:
       window_hours:
