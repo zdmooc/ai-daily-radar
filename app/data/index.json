@@ -1,0 +1,39 @@
+{
+ "generated_at": "2026-11-03T08:48:44.583456+00:00",
+ "llm": "none",
+ "days": [
+  {
+   "date": "2026-11-03",
+   "count": 134
+  }
+ ],
+ "tags": {
+  "llm": "Modèles de langage",
+  "agents": "Agents",
+  "multimodal": "Multimodal",
+  "open-source": "Open source",
+  "safety": "Sûreté et alignement",
+  "regulation": "Régulation et politique",
+  "infra": "Infra et calcul",
+  "mlops": "MLOps et plateforme IA",
+  "rag": "RAG et recherche",
+  "code": "IA pour le code",
+  "robotics": "Robotique",
+  "business": "Business et marché",
+  "science": "IA pour la science"
+ },
+ "sources": {
+  "openai": "ok (1348)",
+  "deepmind": "ok (100)",
+  "anthropic": "ok (286)",
+  "mistral": "ok (93)",
+  "huggingface-blog": "ok (895)",
+  "mit-tech-review-ai": "ok (10)",
+  "mit-news-ai": "ok (50)",
+  "the-decoder": "ok (10)",
+  "marktechpost": "ok (10)",
+  "hf-daily-papers": "ok (30)",
+  "arxiv": "ok (40)",
+  "hacker-news": "ok (14)"
+ }
+}
