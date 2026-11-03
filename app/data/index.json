@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-03T08:48:44.583456+00:00",
+ "generated_at": "2026-11-03T12:46:37.713645+00:00",
  "llm": "none",
  "days": [
   {
    "date": "2026-11-03",
-   "count": 134
+   "count": 146
   }
  ],
  "tags": {
@@ -20,10 +20,11 @@
   "code": "IA pour le code",
   "robotics": "Robotique",
   "business": "Business et marché",
-  "science": "IA pour la science"
+  "science": "IA pour la science",
+  "evals": "Évaluation et benchmarks"
  },
  "sources": {
-  "openai": "ok (1348)",
+  "openai": "ok (1349)",
   "deepmind": "ok (100)",
   "anthropic": "ok (286)",
   "mistral": "ok (93)",
@@ -34,6 +35,6 @@
   "marktechpost": "ok (10)",
   "hf-daily-papers": "ok (30)",
   "arxiv": "ok (40)",
-  "hacker-news": "ok (14)"
+  "hacker-news": "ok (15)"
  }
 }

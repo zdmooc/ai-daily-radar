@@ -312,6 +312,28 @@
    "id": "420c7409c05b"
   },
   {
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "url": "https://openai.com/index/heimstaden",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-03T08:00:00+00:00",
+   "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 55,
+   "id": "08b710f1e780"
+  },
+  {
    "title": "Introducing the Grid Protectors Program",
    "url": "https://openai.com/index/grid-protectors-program",
    "source_id": "openai",
@@ -773,6 +795,33 @@
    "id": "db6d5d8b281d"
   },
   {
+   "title": "PhotoGuider: Composition-Aware Cropping and 360^{circ} View Framing with Explainable Photographic Assessments",
+   "url": "https://huggingface.co/papers/2611.02897",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-01T19:00:00+00:00",
+   "excerpt": "Traditional image cropping assumes the photograph already contains the composition worth keeping, and asks only where to crop. A full 360^{circ} scene offers no such guarantee: the viewing direction in a scene has to be discovered before anything can be framed. We present PhotoGuider, a measure-then-frame method that answers both questions with compact learned scorers over one shared set of composition-aware features. The designed features are extracted using foundation and task-specific vision models and structured into four photographic tokens: Subject, Composition, Aesthetics, and…",
+   "authors": [
+    "Yuan-Kang Lee",
+    "Kuan-Lin Chen",
+    "Chia-Che Chang",
+    "Yu-Lun Liu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.02897",
+   "discussion_url": null,
+   "engagement": 18,
+   "also_in": [],
+   "arxiv_id": "2611.02897",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 52,
+   "id": "92e2a68cbda1"
+  },
+  {
    "title": "Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments",
    "url": "https://huggingface.co/papers/2611.02928",
    "source_id": "hf-daily-papers",
@@ -828,6 +877,61 @@
    ],
    "score": 51,
    "id": "a3b2b0181188"
+  },
+  {
+   "title": "LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents",
+   "url": "https://huggingface.co/papers/2611.02332",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-01T19:00:00+00:00",
+   "excerpt": "Tool-using language-model agents often execute actions that their domain policies forbid. We present LeanGuard, a runtime that checks every proposed tool call against a policy written in Lean4 before the call reaches the environment. Policies combine state predicates with scoped past-time temporal operators over the execution history, evaluation is fail-closed, and the decision procedure is proved equivalent to a LeanLTL semantics. A denied call can be corrected in two ways. With feedback, the agent receives the violated rule and a hint; with proof-guided repair, Lean metaprogramming searches…",
+   "authors": [
+    "Sreehari Sankar",
+    "Debargha Ganguly",
+    "Vikash Singh",
+    "Mohsen Hariri",
+    "Weicong Chen",
+    "Yanyan Zhang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.02332",
+   "discussion_url": null,
+   "engagement": 1,
+   "also_in": [],
+   "arxiv_id": "2611.02332",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "evals"
+   ],
+   "score": 51,
+   "id": "a7e0c8fc4182"
+  },
+  {
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-03T10:43:41+00:00",
+   "excerpt": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+   "authors": [
+    "Amit Katwala"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "safety"
+   ],
+   "score": 50,
+   "id": "a312adbc2b5e"
   },
   {
    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
@@ -1012,6 +1116,34 @@
    "tags": [],
    "score": 50,
    "id": "ff138f709a7e"
+  },
+  {
+   "title": "Can Coding Agents Sustain Continual Evolution without Forgetting?",
+   "url": "https://huggingface.co/papers/2611.03219",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-01T19:00:00+00:00",
+   "excerpt": "Recently, harness self-evolution has emerged as an important paradigm for improving agent performance. Prior studies show that evolving the agent harness can effectively enhance agent capabilities without modifying the foundation model's parameters. We find that existing approaches largely study agent evolution on a single task. In practice, coding agents may need to handle multiple task types over time. Whether an agent harness can continuously evolve across multiple tasks without suffering from catastrophic forgetting remains an important open question. In this paper, we investigate this…",
+   "authors": [
+    "Shangziqi Zhao",
+    "Yitong Zhang",
+    "Jia Li"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.03219",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.03219",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "code",
+    "llm"
+   ],
+   "score": 50,
+   "id": "075b60417bbb"
   },
   {
    "title": "Speeding up planning decisions with AI",
@@ -1451,6 +1583,35 @@
    "id": "16a04cf8b747"
   },
   {
+   "title": "TaoMate-FVSR:Audio-Guided Facial Video Restoration",
+   "url": "https://huggingface.co/papers/2611.03393",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-01T19:00:00+00:00",
+   "excerpt": "AI-generated videos often depict people within detailed scenes while leaving their small facial regions poorly resolved. Visual super-resolution can sharpen these regions without resolving whether the recovered lips and teeth agree with the spoken audio. We present an audio-guided facial video restoration framework that addresses this ambiguity within a reference-guided video flow model. Source--noise mixing initializes reconstruction from a partially preserved observation, and structured reference injection separates appearance anchors from continuous motion context. Training combines…",
+   "authors": [
+    "Xinyang Li",
+    "Zeran Xu",
+    "Qijun Gan",
+    "Chenwei Zhang",
+    "Meiguang Jin",
+    "Junfeng Ma"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.03393",
+   "discussion_url": null,
+   "engagement": 1,
+   "also_in": [],
+   "arxiv_id": "2611.03393",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 46,
+   "id": "7e167aacaaa7"
+  },
+  {
    "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
    "url": "https://huggingface.co/papers/2610.40901",
    "source_id": "hf-daily-papers",
@@ -1655,6 +1816,26 @@
    "id": "bf524c98082b"
   },
   {
+   "title": "Revolut moves to self-hosted GLM",
+   "url": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-03T09:53:59+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50350004",
+   "engagement": 127,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "5dc6ba520824"
+  },
+  {
    "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
    "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
    "source_id": "hacker-news",
@@ -1696,6 +1877,32 @@
    "tags": [],
    "score": 41,
    "id": "c8a2aa37f429"
+  },
+  {
+   "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+   "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T09:48:08+00:00",
+   "excerpt": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "multimodal",
+    "code"
+   ],
+   "score": 40,
+   "id": "e719412cea10"
   },
   {
    "title": "Transformers Model Integration Contracts",
@@ -1993,6 +2200,78 @@
    "id": "858dd928576d"
   },
   {
+   "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+   "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T12:35:49+00:00",
+   "excerpt": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropic's Message Threads cut time to first token by 35 percent for long conversations appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 35,
+   "id": "a0651322c060"
+  },
+  {
+   "title": "Nvidia pushes cloud customers to cut back on China business",
+   "url": "https://the-decoder.com/nvidia-pushes-cloud-customers-to-cut-back-on-china-business/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T12:22:12+00:00",
+   "excerpt": "Nvidia has told some cloud customers to take on less business from Chinese companies. The article Nvidia pushes cloud customers to cut back on China business appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 35,
+   "id": "688c80b44425"
+  },
+  {
+   "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
+   "url": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T11:47:37+00:00",
+   "excerpt": "Huawei is telling customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market. Smugglers are exploiting a loophole in U.S. export rules by bundling HBM with low-end processors, shipping them through Hong Kong, and separating the chips on site. Prices for smuggled HBM3E memory have surged to around $4,000 per unit in just one year. The article Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 35,
+   "id": "42d633464c8d"
+  },
+  {
    "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
    "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
    "source_id": "the-decoder",
@@ -2111,6 +2390,28 @@
    ],
    "score": 35,
    "id": "9e57b3c7cb0d"
+  },
+  {
+   "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+   "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-03T10:42:44+00:00",
+   "excerpt": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "e08e60cdcace"
   },
   {
    "title": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
@@ -3331,6 +3632,6 @@
    "id": "4f8f69a7413f"
   }
  ],
- "generated_at": "2026-11-03T08:48:44.583456+00:00",
+ "generated_at": "2026-11-03T12:46:37.713645+00:00",
  "llm": "none"
 }
