@@ -2,6 +2,28 @@
  "date": "2026-11-04",
  "items": [
   {
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-04T14:30:00+00:00",
+   "excerpt": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50366863",
+   "engagement": 115,
+   "also_in": [
+    "Hacker News"
+   ],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 67,
+   "id": "3a06f84c0f51"
+  },
+  {
    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
    "url": "https://huggingface.co/papers/2611.05377",
    "source_id": "hf-daily-papers",
@@ -212,6 +234,28 @@
    "id": "98251712159b"
   },
   {
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-04T07:00:00+00:00",
+   "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 55,
+   "id": "75679f5aa60b"
+  },
+  {
    "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
    "url": "https://huggingface.co/papers/2611.04814",
    "source_id": "hf-daily-papers",
@@ -300,6 +344,31 @@
    "id": "ee2f430606ab"
   },
   {
+   "title": "Securing the agentic enterprise with data lineage",
+   "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-04T13:00:00+00:00",
+   "excerpt": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
+   "authors": [
+    "MIT Technology Review Insights"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "business"
+   ],
+   "score": 50,
+   "id": "416b7eba9f32"
+  },
+  {
    "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
    "url": "https://huggingface.co/papers/2611.05163",
    "source_id": "hf-daily-papers",
@@ -325,6 +394,28 @@
    ],
    "score": 49,
    "id": "db5e57e81ddc"
+  },
+  {
+   "title": "Progress on provable inference for large language models",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-04T17:17:46+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50368626",
+   "engagement": 142,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 47,
+   "id": "7b93706aafff"
   },
   {
    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
@@ -439,6 +530,30 @@
    "id": "418fa0f9b511"
   },
   {
+   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-04T18:50:55+00:00",
+   "excerpt": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
+   "authors": [
+    "James O'Donnell"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 45,
+   "id": "31bba1eca5b3"
+  },
+  {
    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
    "url": "https://hackertv.org",
    "source_id": "hacker-news",
@@ -513,6 +628,26 @@
    "id": "3bec1d4a16ff"
   },
   {
+   "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-04T17:55:29+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50369146",
+   "engagement": 118,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "be94897db306"
+  },
+  {
    "title": "Giant canyon on Mars is still tectonically active",
    "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
    "source_id": "hacker-news",
@@ -571,6 +706,173 @@
    "tags": [],
    "score": 41,
    "id": "9968f772fa14"
+  },
+  {
+   "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+   "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-04T19:03:55+00:00",
+   "excerpt": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compliance warning. The article Anthropic's text watermark is easy to bypass on several older Claude models appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "regulation"
+   ],
+   "score": 40,
+   "id": "5b5716463f41"
+  },
+  {
+   "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+   "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-04T18:41:03+00:00",
+   "excerpt": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure for developers and AI agents working side by side. The article OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "code",
+    "business"
+   ],
+   "score": 40,
+   "id": "0265afc2f651"
+  },
+  {
+   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-04T17:50:10+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 40,
+   "id": "5afc49da7bd4"
+  },
+  {
+   "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+   "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-04T16:42:52+00:00",
+   "excerpt": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissioning projects. The article New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source",
+    "evals",
+    "agents"
+   ],
+   "score": 40,
+   "id": "a52195bc6cc7"
+  },
+  {
+   "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+   "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-04T19:44:20+00:00",
+   "excerpt": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to keep characters recognizable across frames, making flipbook-style animation possible. According to OpenAI, users now generate more than four billion images per week. The article ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 35,
+   "id": "0436dfb29a58"
+  },
+  {
+   "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+   "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-04T15:44:44+00:00",
+   "excerpt": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The approach could fundamentally simplify AI optimization but still hits clear limits. The article GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "9034e2a19b38"
+  },
+  {
+   "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+   "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-04T15:23:49+00:00",
+   "excerpt": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic's new prototype proves which model wrote an AI response without exposing its weights appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "2daf1cdb3aee"
   },
   {
    "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
@@ -1468,6 +1770,6 @@
    "id": "8197bfe2b2e9"
   }
  ],
- "generated_at": "2026-11-04T12:59:05.559821+00:00",
+ "generated_at": "2026-11-04T21:29:03.481631+00:00",
  "llm": "none"
 }
