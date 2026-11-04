@@ -1,7 +1,11 @@
 {
- "generated_at": "2026-11-03T21:15:09.572581+00:00",
+ "generated_at": "2026-11-04T12:59:05.559821+00:00",
  "llm": "none",
  "days": [
+  {
+   "date": "2026-11-04",
+   "count": 56
+  },
   {
    "date": "2026-11-03",
    "count": 162
@@ -24,7 +28,7 @@
   "evals": "Évaluation et benchmarks"
  },
  "sources": {
-  "openai": "ok (1352)",
+  "openai": "ok (1354)",
   "deepmind": "ok (100)",
   "anthropic": "ok (286)",
   "mistral": "ok (93)",
@@ -35,6 +39,6 @@
   "marktechpost": "ok (10)",
   "hf-daily-papers": "ok (30)",
   "arxiv": "ok (40)",
-  "hacker-news": "ok (16)"
+  "hacker-news": "ok (23)"
  }
 }
