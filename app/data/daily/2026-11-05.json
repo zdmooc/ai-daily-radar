@@ -83,6 +83,29 @@
    "id": "f9784a9ca794"
   },
   {
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-05T09:00:00+00:00",
+   "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "agents"
+   ],
+   "score": 60,
+   "id": "53c56afbaf05"
+  },
+  {
    "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
    "url": "https://huggingface.co/papers/2611.06918",
    "source_id": "hf-daily-papers",
@@ -227,6 +250,28 @@
    "id": "b31383435735"
   },
   {
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "source_id": "deepmind",
+   "source_name": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-11-05T17:05:16+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 55,
+   "id": "003a6dd08e36"
+  },
+  {
    "title": "Setting a new standard for responsible AI infrastructure",
    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
    "source_id": "openai",
@@ -247,6 +292,29 @@
    ],
    "score": 55,
    "id": "f93567576105"
+  },
+  {
+   "title": "GPT-6 Astra covertly underperforms on safety research",
+   "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-05T07:44:30+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50376313",
+   "engagement": 242,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety",
+    "llm"
+   ],
+   "score": 54,
+   "id": "3c63b1bd263a"
   },
   {
    "title": "PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World",
@@ -393,6 +461,30 @@
    "id": "7a3b88c1988a"
   },
   {
+   "title": "Le Chonk brings the brains. Studio puts it to work.",
+   "url": "https://mistral.ai/news/build-with-studio/",
+   "source_id": "mistral",
+   "source_name": "Mistral AI News",
+   "category": "news",
+   "published": "2026-11-05T12:00:14+00:00",
+   "excerpt": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "business",
+    "agents"
+   ],
+   "score": 50,
+   "id": "1184d3a025fd"
+  },
+  {
    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
    "url": "https://huggingface.co/blog/phonon-tts",
    "source_id": "huggingface-blog",
@@ -536,6 +628,28 @@
    "id": "7390a66382ab"
   },
   {
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-05T19:35:16+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 45,
+   "id": "e8690f74b67f"
+  },
+  {
    "title": "Lemmings CSS Animation",
    "url": "https://markblah.github.io/lemmings/",
    "source_id": "hacker-news",
@@ -554,6 +668,205 @@
    "tags": [],
    "score": 44,
    "id": "a0c225aed9f5"
+  },
+  {
+   "title": "My psychophysics as a bilateral cochlear implant user",
+   "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-05T16:21:12+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50381033",
+   "engagement": 141,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "1955590be05d"
+  },
+  {
+   "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+   "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T19:05:31+00:00",
+   "excerpt": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more. The article Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm",
+    "business"
+   ],
+   "score": 40,
+   "id": "aa07334bae8f"
+  },
+  {
+   "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
+   "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T17:56:41+00:00",
+   "excerpt": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source",
+    "llm",
+    "mlops"
+   ],
+   "score": 40,
+   "id": "4ed48f2ce2fe"
+  },
+  {
+   "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+   "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T16:46:24+00:00",
+   "excerpt": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. Critics point to the small number of tasks per domain and uneven testing conditions. The article No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "agents",
+    "llm"
+   ],
+   "score": 40,
+   "id": "acede477944f"
+  },
+  {
+   "title": "Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models",
+   "url": "https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T16:06:31+00:00",
+   "excerpt": "Tencent has unveiled Hy4, its first multimodal language model that understands images and can operate software on its own. On the Artificial Analysis Intelligence Index, it scores 35 points, solid but behind Kimi K3.1 Pro. On hard math and complex image analysis, Hy4 still trails the best commercial models by a wide margin, according to Tencent itself. The article Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models appeared first on The Decoder .",
+   "authors": [
+    "Jonathan Kemper"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "agents",
+    "llm"
+   ],
+   "score": 40,
+   "id": "2bc904837d71"
+  },
+  {
+   "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+   "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T15:01:09+00:00",
+   "excerpt": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becoming interchangeable, and the value is shifting to the tools built around them. The article Meta buys AI coding startup Conductor as big tech races to lock in developers appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "business",
+    "agents"
+   ],
+   "score": 40,
+   "id": "af2a9da6a225"
+  },
+  {
+   "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+   "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T14:08:22+00:00",
+   "excerpt": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives. The article OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety",
+    "llm"
+   ],
+   "score": 40,
+   "id": "a5f4d404f381"
+  },
+  {
+   "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
+   "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T20:36:25+00:00",
+   "excerpt": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel, significantly more than its predecessor. The article OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "c2e3f368d27d"
   },
   {
    "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
@@ -602,6 +915,72 @@
    ],
    "score": 35,
    "id": "16de4ca3c25d"
+  },
+  {
+   "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
+   "url": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T14:37:46+00:00",
+   "excerpt": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure is built by partners like Oracle. Voters rejected new data centers in 40 out of 41 local ballot measures. The article After midterm rout, OpenAI tries to win over communities it needs for AI expansion appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "0280d7fe6c28"
+  },
+  {
+   "title": "Anthropic reverses course and pays for news content for the first time",
+   "url": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T14:09:05+00:00",
+   "excerpt": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections. The article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "1ef61d8ea6fa"
+  },
+  {
+   "title": "Apple slashes internal AI budgets, with deeper cuts still planned",
+   "url": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-05T14:03:14+00:00",
+   "excerpt": "Tech companies are cutting internal AI spending, and Apple is the latest to follow suit. The article Apple slashes internal AI budgets, with deeper cuts still planned appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "7a9bc9da6626"
   },
   {
    "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
@@ -1527,6 +1906,6 @@
    "id": "2f26e56ee188"
   }
  ],
- "generated_at": "2026-11-05T13:12:01.113987+00:00",
+ "generated_at": "2026-11-05T21:33:46.923284+00:00",
  "llm": "none"
 }
