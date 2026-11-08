@@ -2,6 +2,29 @@
  "date": "2026-11-08",
  "items": [
   {
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-08T10:22:04+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50411961",
+   "engagement": 281,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "infra"
+   ],
+   "score": 54,
+   "id": "5e9d3fd0e59c"
+  },
+  {
    "title": "Goodbye Claude, Hello Pi",
    "url": "https://caleb.software/posts/claude-to-pi.html",
    "source_id": "hacker-news",
@@ -46,6 +69,72 @@
    "id": "5186d80b7eef"
   },
   {
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-08T18:16:07+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50415628",
+   "engagement": 214,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 48,
+   "id": "68ff5ed661ee"
+  },
+  {
+   "title": "OpenAI raises $11B at a $1.25T valuation",
+   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-08T14:49:23+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50413822",
+   "engagement": 166,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 48,
+   "id": "1d660dc4ea7a"
+  },
+  {
+   "title": "Why I will not be using LLMs in my coding",
+   "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-08T12:14:10+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50412591",
+   "engagement": 96,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code"
+   ],
+   "score": 46,
+   "id": "70c6ac8d89e2"
+  },
+  {
    "title": "Swipeblocked: The phrases your iPhone won't suggest",
    "url": "https://swipeblocked.com/",
    "source_id": "hacker-news",
@@ -64,6 +153,31 @@
    "tags": [],
    "score": 41,
    "id": "894da36b06c6"
+  },
+  {
+   "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+   "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-08T14:23:00+00:00",
+   "excerpt": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "multimodal"
+   ],
+   "score": 40,
+   "id": "b5e076245ed3"
   },
   {
    "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
@@ -115,6 +229,28 @@
    ],
    "score": 40,
    "id": "f3600c82b54e"
+  },
+  {
+   "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+   "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-08T13:49:21+00:00",
+   "excerpt": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn against granting rights to AI systems. The article The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "df8052273099"
   },
   {
    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
@@ -240,6 +376,6 @@
    "id": "2ec7c1dc0cd1"
   }
  ],
- "generated_at": "2026-11-08T11:55:34.025922+00:00",
+ "generated_at": "2026-11-08T19:56:50.729321+00:00",
  "llm": "none"
 }
