@@ -1,7 +1,11 @@
 {
- "generated_at": "2026-11-08T19:56:50.729321+00:00",
+ "generated_at": "2026-11-09T13:52:51.118054+00:00",
  "llm": "none",
  "days": [
+  {
+   "date": "2026-11-09",
+   "count": 9
+  },
   {
    "date": "2026-11-08",
    "count": 16
@@ -48,13 +52,13 @@
   "deepmind": "ok (100)",
   "anthropic": "ok (286)",
   "mistral": "ok (94)",
-  "huggingface-blog": "ok (899)",
+  "huggingface-blog": "ok (900)",
   "mit-tech-review-ai": "ok (10)",
   "mit-news-ai": "ok (50)",
   "the-decoder": "ok (10)",
   "marktechpost": "ok (10)",
   "hf-daily-papers": "ok (30)",
   "arxiv": "ok (40)",
-  "hacker-news": "ok (8)"
+  "hacker-news": "ok (7)"
  }
 }
