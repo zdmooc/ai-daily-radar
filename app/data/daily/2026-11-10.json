@@ -27,6 +27,30 @@
    "id": "ffe8a09e969f"
   },
   {
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source_id": "deepmind",
+   "source_name": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-11-10T16:03:47+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50442303",
+   "engagement": 258,
+   "also_in": [
+    "Hacker News"
+   ],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 74,
+   "id": "fc6b6a56df7b"
+  },
+  {
    "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
    "url": "https://huggingface.co/papers/2611.12806",
    "source_id": "hf-daily-papers",
@@ -56,6 +80,30 @@
    ],
    "score": 61,
    "id": "1d02ca217557"
+  },
+  {
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "source_id": "deepmind",
+   "source_name": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-11-09T19:51:47+00:00",
+   "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "llm",
+    "safety"
+   ],
+   "score": 60,
+   "id": "7da1b2b4758f"
   },
   {
    "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
@@ -203,6 +251,29 @@
    "id": "6249004e8552"
   },
   {
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-10T18:01:15+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50443812",
+   "engagement": 163,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "agents"
+   ],
+   "score": 53,
+   "id": "5175b6a2b765"
+  },
+  {
    "title": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
    "url": "https://huggingface.co/papers/2611.11890",
    "source_id": "hf-daily-papers",
@@ -308,6 +379,26 @@
    "id": "46ecb159c153"
   },
   {
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-10T10:00:00+00:00",
+   "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "5ca4dc7b6d88"
+  },
+  {
    "title": "Closing the AI guidance gap in education",
    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
    "source_id": "openai",
@@ -326,6 +417,26 @@
    "tags": [],
    "score": 50,
    "id": "01a8528fa117"
+  },
+  {
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-10T07:00:00+00:00",
+   "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "3588ceed4155"
   },
   {
    "title": "Anthropic launches roadshow for proposed initial public offering",
@@ -412,6 +523,28 @@
    "id": "1b18e8c9acf7"
   },
   {
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-10T17:55:07+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50443716",
+   "engagement": 107,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 47,
+   "id": "7737e173e31a"
+  },
+  {
    "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
    "url": "https://news.ycombinator.com/item?id=50427934",
    "source_id": "hacker-news",
@@ -432,6 +565,50 @@
    ],
    "score": 46,
    "id": "e32955d19304"
+  },
+  {
+   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+   "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-10T00:00:00+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source"
+   ],
+   "score": 45,
+   "id": "724fae925148"
+  },
+  {
+   "title": "Decision Models in Hugging Face",
+   "url": "https://huggingface.co/blog/decision",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-10T00:00:00+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source"
+   ],
+   "score": 45,
+   "id": "3229de0d9192"
   },
   {
    "title": "The backlash about data centers might really just be about electricity",
@@ -582,6 +759,108 @@
    "id": "285f83056600"
   },
   {
+   "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+   "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T18:41:52+00:00",
+   "excerpt": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 80 percent depending on the task. The article Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "multimodal",
+    "infra"
+   ],
+   "score": 40,
+   "id": "75611a00ad61"
+  },
+  {
+   "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+   "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T18:19:13+00:00",
+   "excerpt": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, which split up complex tasks in real time. The article Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals",
+    "agents"
+   ],
+   "score": 40,
+   "id": "053da60fa0cf"
+  },
+  {
+   "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+   "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T17:11:10+00:00",
+   "excerpt": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "llm"
+   ],
+   "score": 40,
+   "id": "8ab9bda3b9d1"
+  },
+  {
+   "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+   "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T13:37:16+00:00",
+   "excerpt": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks binding sanctions or deadlines. The article Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety",
+    "llm"
+   ],
+   "score": 40,
+   "id": "3e6400074850"
+  },
+  {
    "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
    "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
    "source_id": "the-decoder",
@@ -730,6 +1009,78 @@
    "id": "057e22ab69c0"
   },
   {
+   "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+   "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T20:17:00+00:00",
+   "excerpt": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGPT. The article OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 35,
+   "id": "9198dc1328a3"
+  },
+  {
+   "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+   "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T19:48:40+00:00",
+   "excerpt": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place. The article Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "bb1492f15ad8"
+  },
+  {
+   "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+   "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T14:07:47+00:00",
+   "excerpt": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak spot. The article Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "80e69e4e8724"
+  },
+  {
    "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
    "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
    "source_id": "mit-news-ai",
@@ -752,6 +1103,31 @@
    ],
    "score": 35,
    "id": "f60cbf1284a6"
+  },
+  {
+   "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
+   "url": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-10T15:42:55+00:00",
+   "excerpt": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser The post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source",
+    "multimodal"
+   ],
+   "score": 30,
+   "id": "e533f7eb1ec8"
   },
   {
    "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
@@ -778,6 +1154,352 @@
    ],
    "score": 30,
    "id": "57b08011b119"
+  },
+  {
+   "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+   "url": "https://arxiv.org/abs/2611.12878",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:58:41+00:00",
+   "excerpt": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (modeled as a Markov Decision Process) transmits quantized estimates of a temporal-difference (TD) learning update direction to a server over a finite-capacity channel. Our goal is to investigate to what extent one can preserve the statistical convergence rates achievable when the channel has infinite capacity. To that end, we propose a new algorithm called…",
+   "authors": [
+    "Sreejeet Maity",
+    "Aritra Mitra"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12878",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12878",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra",
+    "evals",
+    "agents"
+   ],
+   "score": 30,
+   "id": "d57bfc24b104"
+  },
+  {
+   "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+   "url": "https://arxiv.org/abs/2611.12872",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:57:00+00:00",
+   "excerpt": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \\textbf{\\hivemem}, a multimodal memory framework that interleaves \\textbf{\\textsc{H}}or\\textbf{\\textsc{i}}zontal Memory Expansion with \\textbf{\\textsc{Ve}}rtical Evidence Composition. For horizontal…",
+   "authors": [
+    "Haozhen Zhang",
+    "Bohan Liu",
+    "Jianzhu Bao",
+    "Qingyuan Liu",
+    "Haodong Yue",
+    "Xiao Li"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12872",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12872",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "agents",
+    "rag"
+   ],
+   "score": 30,
+   "id": "4b1da564572c"
+  },
+  {
+   "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+   "url": "https://arxiv.org/abs/2611.12869",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:53:57+00:00",
+   "excerpt": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However, recent work has questioned whether this trend continues to hold for newer language models. Moreover, it has been shown that representation similarity metrics can be confounded by model depth and width, requiring appropriate baselines for interpretation. In this work, we first investigate where alignment emerges between unimodal models across model layers…",
+   "authors": [
+    "Julia Herbst",
+    "Simon Roschmann",
+    "Quentin Bouniot",
+    "Zeynep Akata"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12869",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12869",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety",
+    "multimodal"
+   ],
+   "score": 30,
+   "id": "b779c3da1bb6"
+  },
+  {
+   "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+   "url": "https://arxiv.org/abs/2611.12865",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:52:20+00:00",
+   "excerpt": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains feasible while some executable shortcuts earn more reward than every compliant strategy. Encoding these conflicts in task dynamics lets us generate diverse interactive environments at scale and derive compliance feedback from execution histories. In resource and reporting workflows, task optimization…",
+   "authors": [
+    "Xinjie Shen"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12865",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12865",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety",
+    "regulation",
+    "agents"
+   ],
+   "score": 30,
+   "id": "6d6f278dd679"
+  },
+  {
+   "title": "Is Persona Generalization Predictable?",
+   "url": "https://arxiv.org/abs/2611.12864",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:51:03+00:00",
+   "excerpt": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We discover a surprising \"on-the-line\" phenomenon in persona generalization: in-domain and out-of-domain persona rates across various fine-tuning hyperparameters follow an approximately probit-linear relationship, and the specific probit-linear relationship is surprisingly shared even across model families and model sizes, including Qwen and Llama. Training choices that leave the set of trainable…",
+   "authors": [
+    "Olina Mukherjee",
+    "Arnav Goel",
+    "Aditi Raghunathan",
+    "Jacob Mitchell Springer"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12864",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12864",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "mlops"
+   ],
+   "score": 30,
+   "id": "e16e718a37f4"
+  },
+  {
+   "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+   "url": "https://arxiv.org/abs/2611.12856",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:45:28+00:00",
+   "excerpt": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to author the executable workflow that coordinates them, shifting the design of system structure from developers to the model at run time. The quality of this organization therefore constitutes a distinct capability, yet existing benchmarks either measure end-to-end task completion or evaluate coordination under structures specified in advance. We formalize this capability as…",
+   "authors": [
+    "Zheng Jiang",
+    "Fang Niu",
+    "Bo Peng",
+    "Houde Qian",
+    "Wenyi Li",
+    "Deyao Hong"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12856",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12856",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "llm",
+    "evals"
+   ],
+   "score": 30,
+   "id": "96bda9a9097b"
+  },
+  {
+   "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
+   "url": "https://arxiv.org/abs/2611.12835",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:33:13+00:00",
+   "excerpt": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side partial observability, where models are evaluated mainly from final outcome, without checking the faithfulness of underlying reasoning, tool use, and environmental effects. Prior mitigations address this partial observability by predefined evaluator latent belief space or one-shot monitoring, which do not extend to free-form language space and vulnerable to stronger deceptions that evade simple…",
+   "authors": [
+    "Hanxiao Li",
+    "Shutong Liu",
+    "Yongjia Ma",
+    "Jiaming Ji",
+    "Juntao Dai",
+    "Shuning Zhang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12835",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12835",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "evals",
+    "mlops"
+   ],
+   "score": 30,
+   "id": "fe5d1b4cc039"
+  },
+  {
+   "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+   "url": "https://arxiv.org/abs/2611.12805",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:11:45+00:00",
+   "excerpt": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, and correspondence estimation, yet learning-based approaches face a severe bottleneck: ground-truth deformation fields are notoriously difficult to obtain for real data. We present 2D Gum-Net, an end-to-end architecture that predicts dense elastic deformation fields fully unsupervised. We transfer the Geometric Unsupervised Matching Network (Gum-Net), originally developed for 3D subtomogram alignment…",
+   "authors": [
+    "Aarya Bhave",
+    "Anushka Ajay Bhave"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12805",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12805",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "science",
+    "safety"
+   ],
+   "score": 30,
+   "id": "19c97f46f305"
+  },
+  {
+   "title": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
+   "url": "https://arxiv.org/abs/2611.12799",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:07:42+00:00",
+   "excerpt": "Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the best-validation checkpoint and discards the rest. We show that this is lossy: in GRPO training of LLM agents, the best-validation checkpoint fails on problems that earlier checkpoints from the same run had already solved, and the union of problems solved across checkpoints far exceeds any single one. The discarded checkpoints thus form a teacher pool obtained at no additional training cost, which on-policy distillation (OPD) can mine to recover the lost coverage…",
+   "authors": [
+    "Tingcheng Bian",
+    "Kangye Gong",
+    "Jinchang Luo",
+    "MingQuan Cheng",
+    "Feiran Liu",
+    "Ni Li"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12799",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12799",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "llm"
+   ],
+   "score": 30,
+   "id": "1a8e9f013b13"
+  },
+  {
+   "title": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
+   "url": "https://arxiv.org/abs/2611.12791",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T17:58:38+00:00",
+   "excerpt": "Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, training hyperparameter, and data ratio optimization. Here, we bridge this gap by proposing a universal, large language model (LLM)-based AutoML framework that jointly optimizes these configurations for the first time without the need for task-specific fine-tuning. We propose NCode, a unified numerical encoding scheme that translates diverse AutoML design choices into universal discrete sequences and…",
+   "authors": [
+    "Yuxuan Hu",
+    "Jihao Liu",
+    "Weikang Shi",
+    "Xijie Huang",
+    "Linda Wei",
+    "Mingjie Zhan"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12791",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12791",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "mlops"
+   ],
+   "score": 30,
+   "id": "24f6b5ee1eda"
+  },
+  {
+   "title": "Anchor Behavior, Not Parameters: Rehearsal-Free Continual Learning with a Single Shared Prompt",
+   "url": "https://arxiv.org/abs/2611.12777",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T17:50:05+00:00",
+   "excerpt": "Prompt-based continual learning adapts a frozen pre-trained vision transformer by tuning a small set of prompt tokens. Recently, one-prompt methods which share one single prompt across all tasks make this paradigm maximally parameter efficient. The open question is how a shared prompt can keep the knowledge of old classes while being updated for new ones. Existing methods protect old knowledge in parameter space, where they freeze task-specific prompts, expand new components, or sparsely gate which tokens receive gradients. However, this method sacrifices plasticity, yet the drift it still…",
+   "authors": [
+    "Duy-Cuong Bui",
+    "Trung-Anh Dang",
+    "Vincent Nguyen",
+    "Duc V. Le",
+    "Ngoc-Son Vu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12777",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12777",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 30,
+   "id": "d95bee64fafe"
+  },
+  {
+   "title": "LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion",
+   "url": "https://arxiv.org/abs/2611.12775",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T17:48:31+00:00",
+   "excerpt": "Log-based anomaly detection is increasingly dominated by large pretrained models, from BERT-scale encoders to 8B-parameter language models, which require GPUs at inference time and are difficult to deploy on the monitoring nodes where logs are produced. We present LogCDM, a compact detector that scores each log session using three complementary signals: the next-event surprise of a small causal Transformer, the distance between a graph-attention embedding of the session's own transition graph and that of a normal reference graph, and a transition-drift statistic that we show is exactly a…",
+   "authors": [
+    "Suryansh Talukdar",
+    "Taha Sarwat",
+    "Jin Soung Yoo"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12775",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12775",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra",
+    "rag",
+    "llm"
+   ],
+   "score": 30,
+   "id": "05946ed8440f"
   },
   {
    "title": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
@@ -827,6 +1549,272 @@
    "id": "cab30aa6aad3"
   },
   {
+   "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
+   "url": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-10T14:59:09+00:00",
+   "excerpt": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 25,
+   "id": "a3d7dfe3d6fa"
+  },
+  {
+   "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+   "url": "https://arxiv.org/abs/2611.12880",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:59:13+00:00",
+   "excerpt": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require millions of sequential steps, resulting in substantial wall-clock simulation time and poor hardware utilization. Deep learning offers an alternative by amortizing many integration steps into a single neural network forward pass, potentially enabling much faster simulation. However, existing supervised approaches typically…",
+   "authors": [
+    "Majdi Hassan",
+    "Marta Skreta",
+    "Dominique Beaini",
+    "Kirill Neklyudov"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12880",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12880",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "science"
+   ],
+   "score": 25,
+   "id": "ef4f62f49a4a"
+  },
+  {
+   "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+   "url": "https://arxiv.org/abs/2611.12852",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:44:37+00:00",
+   "excerpt": "Latent Diffusion Models dominate generative modeling but face two-stage training complexity and the inherent reconstruction limits of pre-trained autoencoders. Pixel-space Flow Matching offers a simplified end-to-end alternative yet often encounters training difficulties when using the standard $v$-prediction objective. Recent research attributes this difficulty to the off-manifold nature of noised targets, motivating a shift toward $x$-prediction. In this paper, we investigate this explanation through patch-wise Principal Component Analysis (PCA) and identify a bandwidth bottleneck. The…",
+   "authors": [
+    "Tianze Luo",
+    "Haofeng Huang",
+    "Yuan Yao"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12852",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12852",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "32988bb46688"
+  },
+  {
+   "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+   "url": "https://arxiv.org/abs/2611.12834",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:33:13+00:00",
+   "excerpt": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecasting systems be adopted, human builders will shoulder the work of building and evaluating them. In this paper, we explore what this work looks like with a qualitative interview study with 15 builders of forecasting bots, sampled from among successful participants in a recent AI forecasting competition. Our analysis surfaces the challenges around (1) tuning a bot to acquire factual research, (2)…",
+   "authors": [
+    "Priya Dhawka",
+    "Benjamin Wilson",
+    "Andrew Head"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12834",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12834",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code"
+   ],
+   "score": 25,
+   "id": "54a2bc9e76b4"
+  },
+  {
+   "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+   "url": "https://arxiv.org/abs/2611.12832",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:30:41+00:00",
+   "excerpt": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matrix multiplications on synthetic biographies with controlled exposure counts, on their own and mixed into web text. NVFP4 needs 1.32$\\times$ and 1.52$\\times$ as many exposures as BF16 to match its recall while validation loss differs by only 0.5% and 2%, and 1.26$\\times$ and 1.30$\\times$ when both models are evaluated with BF16 matrix multiplications. Under our primary readout, the exposure cost is…",
+   "authors": [
+    "Chang Lu",
+    "Mengjiao Zhang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12832",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12832",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 25,
+   "id": "5f49708696f5"
+  },
+  {
+   "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
+   "url": "https://arxiv.org/abs/2611.12820",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:22:19+00:00",
+   "excerpt": "One hundred known errors were planted into 10 open-access psychology papers, and the modified papers were then run through frontier models and two commercial AI review tools. The best single system caught 71 of the 100 errors, while the worst caught 30. Pooling every system's output caught 93. Models are only partly correlated in the errors they find, which makes ensembling a big lever for finding issues in papers. Seven errors could not be caught by any system, and all seven were omissions: information deleted from a paper rather than mistakes inserted into it. Refine.ink contributes more…",
+   "authors": [
+    "Paul Litvak"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12820",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12820",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals"
+   ],
+   "score": 25,
+   "id": "9a55941cedca"
+  },
+  {
+   "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+   "url": "https://arxiv.org/abs/2611.12817",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:21:18+00:00",
+   "excerpt": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsistent availability of clinical data and expert nodule annotations. This has hindered reproducibility, comparability, and independent assessment of AI tools. To address these gaps, we present LUCQUE, a novel, large, comprehensively annotated dataset derived from LDCT lung cancer screening in Québec, which is accessible for reliable AI evaluation. METHODS: LUCQUE was curated and is hosted on PARADIM, a…",
+   "authors": [
+    "Johanna Topalis",
+    "Yannick Lemaréchal",
+    "Gabriel Couture",
+    "Hanife Ersay",
+    "Loran Nas",
+    "Balthasar Schachtner"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12817",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12817",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals"
+   ],
+   "score": 25,
+   "id": "b75190e6976b"
+  },
+  {
+   "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+   "url": "https://arxiv.org/abs/2611.12816",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:19:57+00:00",
+   "excerpt": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introduces and compares two frameworks for extracting disassembly instructions from unstructured information sources, such as disassembly manuals. Our goal is to transform natural language text into a structured, curated and machine-readable format. We implemented and tested a rule-based Natural Language Processing (NLP) framework against a generative AI framework leveraging LLMs. The performance of…",
+   "authors": [
+    "Tim Schnieders",
+    "Tareq Maximilian Gabriel Ahrari",
+    "Oliver Petrovic",
+    "Christian Brecher"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12816",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12816",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 25,
+   "id": "2b0f4372451a"
+  },
+  {
+   "title": "Inversion-Free High-Dimensional Counterfactual Inference",
+   "url": "https://arxiv.org/abs/2611.12815",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:19:40+00:00",
+   "excerpt": "Counterfactual inference is the task of answering hypothetical \"what-if\" queries about a unit, given an observational dataset, modeling assumptions, and a causal graph. This enables a modeler to reason about hypothetical scenarios that cannot otherwise be answered without assumptions or a causal graph. The simpler case involves a causal graph with scalar 1-D variables that denote different attributes in the data-generation process. While the literature is clear in the 1-D case, extending this to settings with high-dimensional nodes (e.g., images) remains challenging. Conventionally, in the…",
+   "authors": [
+    "Saketh Vishnubhatla",
+    "Pingchuan Ma",
+    "Shu Wan",
+    "Alimohammad Beigi",
+    "Andre Harrison",
+    "Adrienne Raglin"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12815",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12815",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 25,
+   "id": "af007fdf2a33"
+  },
+  {
+   "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+   "url": "https://arxiv.org/abs/2611.12814",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:19:30+00:00",
+   "excerpt": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three footings: a clinician describing a patient, a caregiver describing a loved one, or a person describing themselves. Across 19 case vignettes and five questions, we collected 35,055 free-text responses, extracted every intervention named with a validated judge, and had 29 models rate the full option lists on a seven-point Likert scale for the same cases. Models largely recommend what they rate well…",
+   "authors": [
+    "Matthew Flathers",
+    "Jill Noorily",
+    "Phuong Anh Nguyen",
+    "Mark Kalinich",
+    "Mina Fallah",
+    "Victoria Lisowski"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12814",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12814",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "science"
+   ],
+   "score": 25,
+   "id": "73f2ef36e4cb"
+  },
+  {
    "title": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
    "url": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
    "source_id": "marktechpost",
@@ -849,8 +1837,211 @@
    ],
    "score": 25,
    "id": "932b02defe09"
+  },
+  {
+   "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+   "url": "https://arxiv.org/abs/2611.12884",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:59:40+00:00",
+   "excerpt": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study whether balanced training data is the unique optimal configuration for robust subpopulation generalization. We extend a Gaussian feature-model framework to theoretically characterize the performance landscape across general training subgroup distributions. We show that multiple…",
+   "authors": [
+    "Zhaoying Pan",
+    "Yipei Wang",
+    "Shenyu Lu",
+    "Xiaoqian Wang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12884",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12884",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "a805820721ed"
+  },
+  {
+   "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
+   "url": "https://arxiv.org/abs/2611.12871",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:56:15+00:00",
+   "excerpt": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sensitive to neighborhood scale, partitioning choices, or restrictive distributional assumptions. In this work, we introduce a new paradigm by formulating anomaly detection from a diversity perspective. We propose the $\\textit{Vendi Anomaly Score}$ (VAS), which detects anomalies by quantifying how much a sample changes the diversity of the dataset, as measured…",
+   "authors": [
+    "Amey Pasarkar",
+    "Adji Bousso Dieng"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12871",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12871",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "730569246faa"
+  },
+  {
+   "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+   "url": "https://arxiv.org/abs/2611.12825",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:25:42+00:00",
+   "excerpt": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learning (RL) due to severe credit assignment bottlenecks induced by sparse, delayed rewards. We introduce MaxIM (Maximally Informative Incremental Memory), a framework that formulates incremental summarization as a capacity-constrained, information-theoretic reward-shaping problem. Grounded in value suboptimality bounds, we show that bounding sequential information loss motivates…",
+   "authors": [
+    "Jihwan Jeong",
+    "Guy Tennenholtz",
+    "Yinlam Chow",
+    "Chih-Wei Hsu",
+    "Craig Boutilier"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12825",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12825",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "e6e09baa3641"
+  },
+  {
+   "title": "Smartphone-Enabled Depth-Aware Transillumination Imaging for Detection of Chicken Breast Fillet Myopathies in Chicken Fillets",
+   "url": "https://arxiv.org/abs/2611.12796",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T18:03:03+00:00",
+   "excerpt": "Woody Breast (WB) myopathy is a major quality defect in broiler chickens characterized by fibrosis, increased tissue hardness, and altered structural properties that affect product quality. Conventional palpation is subjective and labor-intensive, while many non-destructive methods require specialized equipment or substantial computational resources. This study developed a smartphone-based transillumination and 3D point-cloud framework for non-destructive WB severity classification. A total of 267 chicken breast fillets, including normal breast (NB, n = 87), mild WB (MWB, n = 85), and severe…",
+   "authors": [
+    "Chaitanya Pallerla",
+    "Ramesh Bahadur Bist",
+    "Yihong Feng",
+    "Yang Tian",
+    "Shiva Paudel",
+    "Casey M. Owens"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12796",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12796",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "fa9cc4686f04"
+  },
+  {
+   "title": "Learning Rate Decay Can Exponentially Accelerate SGD for Global Optimization of Nonconvex Functions",
+   "url": "https://arxiv.org/abs/2611.12769",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T17:41:08+00:00",
+   "excerpt": "Stochastic Gradient Descent (SGD) is a workhorse algorithm for continuous optimization. It is a folk belief among deep learning practitioners that learning rate decay in SGD substantially improves performance. However, it has remained unclear whether learning rate decay offers an asymptotic advantage for global nonconvex optimization. We answer this question in the affirmative by demonstrating a natural class of nonconvex functions for which, we prove that SGD with learning rate decay requires exponentially fewer gradient queries for global optimization than SGD with any fixed learning rate…",
+   "authors": [
+    "Guneykan Ozgul",
+    "Dylan Herman",
+    "Junhyung Lyle Kim",
+    "Shree Hari Sureshbabu",
+    "Shouvanik Chakrabarti"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12769",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12769",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "eaa4d177a504"
+  },
+  {
+   "title": "PORT: Preference Optimization via Robust Token-Level Reweighting",
+   "url": "https://arxiv.org/abs/2611.12763",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T17:38:16+00:00",
+   "excerpt": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference optimization methods primarily operate at the sequence level, implicitly treating entire responses as uniformly correct or incorrect. However, rejected responses may still contain informative reasoning steps, while preferred responses can include subtle errors. In this work, we propose…",
+   "authors": [
+    "Ding Zhu",
+    "Xiukun Wei",
+    "Tian Xie",
+    "Zhihui Zhu",
+    "Xueru Zhang",
+    "Mohammad Mahdi Khalili"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12763",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12763",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "c28bbcc393d3"
+  },
+  {
+   "title": "DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection",
+   "url": "https://arxiv.org/abs/2611.12760",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T17:37:36+00:00",
+   "excerpt": "Modern cyber threats commonly unfold as multi-step attacks comprising temporally and causally related phases. Current defenses commonly follow a detect first and correlate later paradigm. Intrusion detection systems classify events independently, while downstream systems reconstruct attack progression from the resulting alerts or audit records. In this context, learning-based detectors learn attack-step dependencies implicitly as statistical regularities in the data and cannot guarantee that their predictions follow the real attack progression. Conversely, correlation systems represent attack…",
+   "authors": [
+    "Sofia Burkow",
+    "Andrea Agiollo",
+    "Enkeleda Bardhi",
+    "Fernando Kuipers",
+    "Kaitai Liang",
+    "Georgios Smaragdakis"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12760",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12760",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "bab03609f2e1"
+  },
+  {
+   "title": "From Granger causality to causal structure in dynamical systems",
+   "url": "https://arxiv.org/abs/2611.12755",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-09T17:35:38+00:00",
+   "excerpt": "The idea of testing whether the past of one signal improves the prediction of another can be traced back to Wiener. It was Granger who formalized the concept. Granger causality has become one of the most widely used tools to infer directed interactions between the components of a system. The name however can be misleading: it detects predictive relations among the measured signals, not causal relations among the mechanisms that generate them. This article starts by reviewing recent advances in observation-space Granger analysis. It then follows a path to directed structure in latent dynamical…",
+   "authors": [
+    "Víctor Elvira"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12755",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.12755",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "708251d6f076"
   }
  ],
- "generated_at": "2026-11-10T13:27:58.028546+00:00",
+ "generated_at": "2026-11-10T21:25:02.717102+00:00",
  "llm": "none"
 }
