@@ -27,6 +27,87 @@
    "id": "ffe8a09e969f"
   },
   {
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "url": "https://huggingface.co/papers/2611.12806",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-08T19:00:00+00:00",
+   "excerpt": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data. To this end, we develop LingBot-Touch, a tactile foundation model characterized by the…",
+   "authors": [
+    "Bing Han",
+    "Yichuan Peng",
+    "Haoyu Dong",
+    "Yuanmeng Hu",
+    "Yongyi Jia",
+    "Fangjing Wang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12806",
+   "discussion_url": null,
+   "engagement": 90,
+   "also_in": [],
+   "arxiv_id": "2611.12806",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "science",
+    "llm"
+   ],
+   "score": 61,
+   "id": "1d02ca217557"
+  },
+  {
+   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+   "url": "https://huggingface.co/papers/2611.12886",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-08T19:00:00+00:00",
+   "excerpt": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. First, Ground-Drop-GRPO (GD-GRPO) trains spatial and temporal specialists with evidence-aware rewards…",
+   "authors": [
+    "Haozhi Yuan",
+    "Handong Li",
+    "Yifan Zhang",
+    "Qianshan Wei"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12886",
+   "discussion_url": null,
+   "engagement": 33,
+   "also_in": [],
+   "arxiv_id": "2611.12886",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "safety"
+   ],
+   "score": 59,
+   "id": "aaf794c3c091"
+  },
+  {
+   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source_id": "deepmind",
+   "source_name": "Google DeepMind Blog",
+   "category": "news",
+   "published": "2026-11-10T12:02:28+00:00",
+   "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 55,
+   "id": "f8c1a7370c13"
+  },
+  {
    "title": "ChatGPT Enterprise now available in AWS Marketplace",
    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
    "source_id": "openai",
@@ -91,6 +172,180 @@
    ],
    "score": 55,
    "id": "23b94c697622"
+  },
+  {
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "url": "https://huggingface.co/papers/2611.12762",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-08T19:00:00+00:00",
+   "excerpt": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended…",
+   "authors": [
+    "Weida Wang",
+    "Benteng Chen",
+    "Yigeng Jiang",
+    "Shuchen Pu",
+    "Weiping Shen",
+    "Zichao Liu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12762",
+   "discussion_url": null,
+   "engagement": 41,
+   "also_in": [],
+   "arxiv_id": "2611.12762",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals"
+   ],
+   "score": 54,
+   "id": "6249004e8552"
+  },
+  {
+   "title": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
+   "url": "https://huggingface.co/papers/2611.11890",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-08T19:00:00+00:00",
+   "excerpt": "Self-supervised learning in Vision Transformer models, such as DINO, enables robust visual perception without requiring labeled data by leveraging large-scale image datasets. However, these models lack a focusing mechanism during training, resulting in perceptual representations that are often ambiguous or overly similar. In this work, we introduce two visual focusing loss functions designed to establish correspondence between the model's attention and specific regions within images. Specifically, we leverage the multi-head attention mechanism within the model to selectively steer the model's…",
+   "authors": [
+    "Yuji Nozawa",
+    "Yu-Chieh Lin",
+    "Youyang Ng"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.11890",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.11890",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 52,
+   "id": "93b084d7a79e"
+  },
+  {
+   "title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
+   "url": "https://huggingface.co/papers/2611.12324",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-08T19:00:00+00:00",
+   "excerpt": "World models enable agents to plan and learn from imagined experience, but in an unfamiliar environment they must learn its mechanics from limited interaction. A mechanic is a rule for how an action or an interaction changes part of the environment. Each occurrence of a mechanic that the model observes is one exposure. We ask how many exposures a world model needs to predict the effects of a new environment's mechanics. We address this question on ARC-AGI-3, a benchmark of interactive games defined by their programs. We introduce MechEval, which labels 69 recurring mechanics across 20 games…",
+   "authors": [
+    "Ku Onoda",
+    "Haruto Kawano",
+    "Shota Takashiro",
+    "Kohei Hayashi"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.12324",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.12324",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "agents"
+   ],
+   "score": 52,
+   "id": "83204b466839"
+  },
+  {
+   "title": "InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure",
+   "url": "https://huggingface.co/papers/2611.11558",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-08T13:59:37+00:00",
+   "excerpt": "While Recursive Self-Improvement (RSI) accelerates isolated algorithm and kernel synthesis, distributed LLM training depends on tightly coupled launch settings, operator kernels, and communication schedules, where single edits often hit out-of-memory (OOM) boundaries, compiler conflicts, measurement jitter, or silent numerical drift. We present InfraRSI, the agentic harness that turns open-ended human commands into verified training optimizations via a five-stage workflow: init locks editable scope and a fixed task contract over workload, loss, and timing invariants to prevent reward hacking…",
+   "authors": [
+    "InfraRSI Team",
+    "Yuchuan Tian",
+    "Haocheng Mei",
+    "Ye Yuan",
+    "Chao Xu",
+    "Boxun Li"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.11558",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.11558",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "agents"
+   ],
+   "score": 52,
+   "id": "be9fa7624566"
+  },
+  {
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-10T12:00:00+00:00",
+   "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "46ecb159c153"
+  },
+  {
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-10T09:00:00+00:00",
+   "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "01a8528fa117"
+  },
+  {
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "source_id": "anthropic",
+   "source_name": "Anthropic",
+   "category": "news",
+   "published": "2026-11-10T00:00:00+00:00",
+   "excerpt": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "26b496ffaa34"
   },
   {
    "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -247,6 +502,66 @@
    "id": "7e4af76a8edc"
   },
   {
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-10T03:20:06+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50435660",
+   "engagement": 175,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 43,
+   "id": "458bb1a34baf"
+  },
+  {
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-09T22:19:12+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50433079",
+   "engagement": 133,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "5d3327229121"
+  },
+  {
+   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+   "url": "https://meowdisplay.app/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-09T18:39:22+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50429636",
+   "engagement": 110,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "f0a7364ef803"
+  },
+  {
    "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
    "url": "https://github.com/OmniJev/Flide",
    "source_id": "hacker-news",
@@ -265,6 +580,31 @@
    "tags": [],
    "score": 42,
    "id": "285f83056600"
+  },
+  {
+   "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+   "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-10T12:13:03+00:00",
+   "excerpt": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors. The IPO comes at a time when investors are growing increasingly skeptical of AI investments. The article Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business",
+    "infra"
+   ],
+   "score": 40,
+   "id": "8ef7190c4507"
   },
   {
    "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
@@ -390,6 +730,56 @@
    "id": "057e22ab69c0"
   },
   {
+   "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+   "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+   "source_id": "mit-news-ai",
+   "source_name": "MIT News — IA",
+   "category": "news",
+   "published": "2026-11-10T05:00:00+00:00",
+   "excerpt": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
+   "authors": [
+    "Anne Trafton | MIT News"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 35,
+   "id": "f60cbf1284a6"
+  },
+  {
+   "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
+   "url": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-10T06:36:10+00:00",
+   "excerpt": "Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task. The post Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "llm",
+    "code"
+   ],
+   "score": 30,
+   "id": "57b08011b119"
+  },
+  {
    "title": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
    "url": "https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/",
    "source_id": "marktechpost",
@@ -461,6 +851,6 @@
    "id": "932b02defe09"
   }
  ],
- "generated_at": "2026-11-09T23:51:57.228140+00:00",
+ "generated_at": "2026-11-10T13:27:58.028546+00:00",
  "llm": "none"
 }
