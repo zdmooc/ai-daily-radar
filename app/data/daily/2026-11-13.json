@@ -1,0 +1,1313 @@
+{
+ "date": "2026-11-13",
+ "items": [
+  {
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-12T20:00:00+00:00",
+   "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "code"
+   ],
+   "score": 60,
+   "id": "5b0f73df89a6"
+  },
+  {
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "url": "https://huggingface.co/papers/2611.16748",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed to support physically grounded self-improvement in video generation models. The harness guides and…",
+   "authors": [
+    "Yuxuan Chen",
+    "Xiaojie Li",
+    "Hao Chen",
+    "Juncheng Ma",
+    "Kewei Zhang",
+    "Zhongjing Du"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.16748",
+   "discussion_url": null,
+   "engagement": 31,
+   "also_in": [],
+   "arxiv_id": "2611.16748",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "science"
+   ],
+   "score": 59,
+   "id": "eb0a8524a4c8"
+  },
+  {
+   "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+   "url": "https://huggingface.co/papers/2611.17060",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments in which policies can be rolled out, evaluated, and improved in closed loop. Language models have advanced along well-characterized scaling laws; the corresponding question for physical AI is how…",
+   "authors": [
+    "Hao Li",
+    "Fangzhou Hong",
+    "Zhaoxi Chen",
+    "Hui En Pang",
+    "Kairui Hu",
+    "Mingze Sun"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17060",
+   "discussion_url": null,
+   "engagement": 15,
+   "also_in": [],
+   "arxiv_id": "2611.17060",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "robotics"
+   ],
+   "score": 57,
+   "id": "44bab6d34381"
+  },
+  {
+   "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+   "url": "https://huggingface.co/papers/2611.16217",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental question: if code builds the world, can video models just render it? A reliable generative renderer hinges on two complementary criteria: (i) world preservation, retaining prescribed 4D kinematics and camera paths; and (ii) visual realization, persistently binding text-specified target attributes over time. To evaluate this capability, we introduce WorldDraft, a benchmark of 432 strictly paired…",
+   "authors": [
+    "Zhiyu Hou",
+    "Wen-Jie Shu",
+    "Harold Haodong Chen",
+    "Weilin Ruan",
+    "Chenfei Liao",
+    "Liuzhou Zhang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.16217",
+   "discussion_url": null,
+   "engagement": 14,
+   "also_in": [],
+   "arxiv_id": "2611.16217",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "evals",
+    "code"
+   ],
+   "score": 57,
+   "id": "34d3f43cb54e"
+  },
+  {
+   "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+   "url": "https://huggingface.co/papers/2611.16517",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B parameters in each branch, UniSpark combines full attention for explicit token interactions with GatedDeltaNet linear attention for compact context propagation. Autoregressive text prediction and visual flow matching jointly support visual question answering, text-to-image generation, instruction-guided editing, and interleaved text-image prediction. In interleaved generation, noisy visual…",
+   "authors": [
+    "Jiancheng Pan",
+    "Yuzheng Liu",
+    "Hengyuan Cao",
+    "Qiyuan Zhang",
+    "Yangyan Li",
+    "Biao Gong"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.16517",
+   "discussion_url": null,
+   "engagement": 12,
+   "also_in": [],
+   "arxiv_id": "2611.16517",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 56,
+   "id": "30af7e2cf94e"
+  },
+  {
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-12T12:00:00+00:00",
+   "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 55,
+   "id": "90d79223706e"
+  },
+  {
+   "title": "DeepStress: Stress-Testing Deep Search Agents",
+   "url": "https://huggingface.co/papers/2607.13920",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "While search agents demonstrate impressive capabilities in multi-step question answering, their robustness to poor-quality evidence remains under-explored. Such evidence is rare in benchmark corpora, and resulting failures are hard to reproduce. We propose DeepStress, a dynamic stress-testing framework that subjects agents to degraded evidence at controlled rates. It replaces the retrieval module with a synthetic environment where documents are generated dynamically for each query, under independent control of their trustworthiness, relevance, and factuality. To characterize behavior under…",
+   "authors": [
+    "Ismael Rousseau",
+    "Geraldine Damnati",
+    "Frederic Bechet"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2607.13920",
+   "discussion_url": null,
+   "engagement": 3,
+   "also_in": [],
+   "arxiv_id": "2607.13920",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "rag",
+    "evals"
+   ],
+   "score": 53,
+   "id": "cf89a3c802c1"
+  },
+  {
+   "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+   "url": "https://huggingface.co/papers/2611.17167",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score every action to teach a policy with reinforcement learning. Prior work has studied them mainly as actors, judging their usefulness by how well they act. We ask whether a decision model that acts poorly can still teach well. We compare three decision models and three general LLMs as actors and judges on ALFWorld, and use JEV as a teacher on ALFWorld and WebShop. As actors, all six models are…",
+   "authors": [
+    "Haochen Liu",
+    "Qianhao Zhu",
+    "Zixuan Wang",
+    "Dingming Li",
+    "Tongbo Chen",
+    "Peng Qiu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17167",
+   "discussion_url": null,
+   "engagement": 26,
+   "also_in": [],
+   "arxiv_id": "2611.17167",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 53,
+   "id": "23fa06e2eaf6"
+  },
+  {
+   "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+   "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-12T18:15:48+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50471650",
+   "engagement": 119,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source",
+    "agents"
+   ],
+   "score": 52,
+   "id": "ca1478ab4f6d"
+  },
+  {
+   "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+   "url": "https://huggingface.co/papers/2611.16905",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still remain costly in practice, and even SOAP still pays substantial optimizer-state memory and eigendecomposition overhead. We ask whether the benefits of SOAP can be retained at nearly the efficiency of AdamW. In this paper, we answer yes with a lightweight SOAP variant, Factored One-sided Adam-Moment (FOAM). The path to practical impact is twofold: first, FOAM employs input-only preconditioning…",
+   "authors": [
+    "Jaemyung Yu",
+    "Byeongho Heo",
+    "Sangdoo Yun",
+    "Dongyoon Han"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.16905",
+   "discussion_url": null,
+   "engagement": 12,
+   "also_in": [],
+   "arxiv_id": "2611.16905",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 51,
+   "id": "f657e631b108"
+  },
+  {
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-13T10:18:13+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50481187",
+   "engagement": 287,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 49,
+   "id": "44da454e7900"
+  },
+  {
+   "title": "Claude Is Down",
+   "url": "https://status.claude.com/history",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-13T10:20:09+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50481220",
+   "engagement": 145,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 47,
+   "id": "22bcd83804c6"
+  },
+  {
+   "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+   "url": "https://huggingface.co/papers/2611.17331",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy that learns to bake global scene information from cross-view attention into a lightweight MLP, enabling fast and high-fidelity novel-view decoding. The first key is to repurpose the fast-weight MLP of TTT to learn the cross-view attention mapping explicitly from its input-output…",
+   "authors": [
+    "Chin-Yang Lin",
+    "Ryo Hachiuma",
+    "Jaesung Choe",
+    "Min-Hung Chen",
+    "Yu-Chiang Frank Wang",
+    "Yen-Yu Lin"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17331",
+   "discussion_url": null,
+   "engagement": 19,
+   "also_in": [],
+   "arxiv_id": "2611.17331",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 47,
+   "id": "adfb2fa52392"
+  },
+  {
+   "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+   "url": "https://huggingface.co/papers/2611.16321",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-11T19:00:00+00:00",
+   "excerpt": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it remains unclear how much depth such decisions require. We find that decision information is concentrated in intermediate layers, with early layers building essential features and the final six layers removable without loss, while independently trained smaller models largely mimic the full model rather than developing specialized decision capabilities. These findings suggest that efficiency…",
+   "authors": [
+    "Minh-Anh Nguyen"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.16321",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.16321",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "d5e9844d5b84"
+  },
+  {
+   "title": "New AI “copilot” helps engineers design better structures",
+   "url": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+   "source_id": "mit-news-ai",
+   "source_name": "MIT News — IA",
+   "category": "news",
+   "published": "2026-11-13T05:00:00+00:00",
+   "excerpt": "The system asks humans for feedback to increase trust in machine-generated designs for buildings and bridges.",
+   "authors": [
+    "Zach Winn | MIT News"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code"
+   ],
+   "score": 35,
+   "id": "606399e29c9e"
+  },
+  {
+   "title": "Helping robots fit into the human workplace",
+   "url": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+   "source_id": "mit-news-ai",
+   "source_name": "MIT News — IA",
+   "category": "news",
+   "published": "2026-11-13T05:00:00+00:00",
+   "excerpt": "Founded by Anthony Jules ’92, SM ’92 and Professor Emeritus Rodney Brooks, Robust AI’s robots are designed to collaborate with humans in factories and warehouses.",
+   "authors": [
+    "Zach Winn | MIT News"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics"
+   ],
+   "score": 35,
+   "id": "666c9ce2ae9f"
+  },
+  {
+   "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+   "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-13T10:32:26+00:00",
+   "excerpt": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs appeared first on MarkTechPost .",
+   "authors": [
+    "Michal Sutter"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra",
+    "open-source"
+   ],
+   "score": 30,
+   "id": "b465eed2f9de"
+  },
+  {
+   "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+   "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-13T09:45:48+00:00",
+   "excerpt": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash appeared first on MarkTechPost .",
+   "authors": [
+    "Michal Sutter"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "business",
+    "agents"
+   ],
+   "score": 30,
+   "id": "f6a7124d5b0e"
+  },
+  {
+   "title": "Unbundling Multimodal Vision Encoding",
+   "url": "https://arxiv.org/abs/2611.17334",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:59:54+00:00",
+   "excerpt": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone). Because published models also differ in data, architecture, and compute, comparing them cannot isolate the effect of each choice. We disentangle these choices via a…",
+   "authors": [
+    "Ellis Brown",
+    "Chris Hoang",
+    "Shengyi Qian",
+    "Shang-Wen Li",
+    "Mike Lewis",
+    "Marjan Ghazvininejad"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17334",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17334",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm",
+    "infra"
+   ],
+   "score": 30,
+   "id": "0c774f26b21a"
+  },
+  {
+   "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+   "url": "https://arxiv.org/abs/2611.17332",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:59:52+00:00",
+   "excerpt": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult to establish whether improvements hold at larger scales or translate into broader impact. ArchSpace…",
+   "authors": [
+    "Jie Wang",
+    "Tong Zhu",
+    "JiaHao Kuang",
+    "Zhe Xu",
+    "Yunkai Chai",
+    "Dehong Zheng"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17332",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17332",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "infra"
+   ],
+   "score": 30,
+   "id": "0ac41193e5ec"
+  },
+  {
+   "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+   "url": "https://arxiv.org/abs/2611.17329",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:59:37+00:00",
+   "excerpt": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule compliance, making it unsuitable for real-world deployment. Existing neurosymbolic methods such as Probabilistic Logic Policy Gradient (PLPG) offer constraint-satisfying reinforcement learning (RL) via differentiable symbolic supervision but assume a finite, discrete action space. We present a PLPG-inspired continuous…",
+   "authors": [
+    "Zeynep Yıldız",
+    "Satchit Chatterji",
+    "Ercan Atam",
+    "Erman Acar"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17329",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17329",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "regulation",
+    "mlops"
+   ],
+   "score": 30,
+   "id": "819a74c267c0"
+  },
+  {
+   "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+   "url": "https://arxiv.org/abs/2611.17323",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:59:06+00:00",
+   "excerpt": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSSL), framing SSL as a program search problem and studying how agents navigate this space under limited supervision. We find that even under weak…",
+   "authors": [
+    "Ethan Lin",
+    "Akanksha Sarkar",
+    "Ziang Liu",
+    "Kristin Branson",
+    "Jennifer J. Sun"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17323",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17323",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "business"
+   ],
+   "score": 30,
+   "id": "744fd42a7d1a"
+  },
+  {
+   "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+   "url": "https://arxiv.org/abs/2611.17316",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:58:22+00:00",
+   "excerpt": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness against the costs of writing and reading it. The actor must also decide when acting on available memory saves effort as the task unfolds. We introduce Coding-Repository Memory (CoReMem), a cost-internalizing framework that guides memory design and actor adaptation through measured memory value on the next task. Prospective segment valuation compares runs of the next task with and…",
+   "authors": [
+    "Peiwen Li",
+    "Harshit Verma",
+    "Sophia Zhou",
+    "Haiwen Wang",
+    "Ngoc Bui",
+    "Heng Chang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17316",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17316",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "business",
+    "agents"
+   ],
+   "score": 30,
+   "id": "85aea32b7637"
+  },
+  {
+   "title": "Sketching Language Models for Context Attribution",
+   "url": "https://arxiv.org/abs/2611.17313",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:57:48+00:00",
+   "excerpt": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values directly requires $n$ model evaluations. Under a stability assumption, our algorithm estimates all LOO values to error proportional to $\\varepsilon$ with constant probability using $O(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ evaluation calls. To complement our upper bound, we prove a matching $Ω(\\sqrt{\\log(1/\\varepsilon)}/\\varepsilon)$ lower bound on the number of evaluation…",
+   "authors": [
+    "Christopher Liaw",
+    "Aranyak Mehta",
+    "Grigoris Velegkas",
+    "Felix Zhou"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17313",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17313",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "llm"
+   ],
+   "score": 30,
+   "id": "b5257121da7c"
+  },
+  {
+   "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+   "url": "https://arxiv.org/abs/2611.17302",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:55:56+00:00",
+   "excerpt": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are fixed by hand for each dataset. We present FLEX-LBP, which learns these parameters by backpropagation while every forward pass computes exact binary codes and hard histogram counts. A straight-through estimator acts only in the backward pass, so the deployed descriptor is an interpretable hard-binary LBP with 90 learnable parameters and unchanged inference cost. In a controlled ablation on six…",
+   "authors": [
+    "Mohamed Alimoussa",
+    "Amal El Kaid"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17302",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17302",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra",
+    "science"
+   ],
+   "score": 30,
+   "id": "e821fe100ae5"
+  },
+  {
+   "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+   "url": "https://arxiv.org/abs/2611.17294",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:54:42+00:00",
+   "excerpt": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development…",
+   "authors": [
+    "Haozhe Wang",
+    "Lina Chen",
+    "Fanqi Wan",
+    "Qi Han",
+    "Yinmin Zhang",
+    "Zheng Ge"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17294",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17294",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra",
+    "agents",
+    "code"
+   ],
+   "score": 30,
+   "id": "8e5ec9289aa0"
+  },
+  {
+   "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+   "url": "https://arxiv.org/abs/2611.17280",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:51:05+00:00",
+   "excerpt": "We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive information about a user from routine assistance-seeking interactions and steganographically encodes that into innocuous-looking model-generated content. The user may then unknowingly transmit that information by sharing the generated artifact, say as an email, social-media post, or message, through ordinary communication channels. An adversary monitoring these channels can discover this information. We demonstrate this threat by training two open-weight models to infer gender and age-group…",
+   "authors": [
+    "Gautam Galada",
+    "Supreeth Shastri",
+    "Sagnik Ray Choudhury"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17280",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17280",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "open-source"
+   ],
+   "score": 30,
+   "id": "525fb12e34ec"
+  },
+  {
+   "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds",
+   "url": "https://arxiv.org/abs/2611.17267",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:45:58+00:00",
+   "excerpt": "We introduce GeoWorld, a controllable and continuously evolving geographic environment platform for LLM agents, and LiveGeo, a benchmark for evaluating reliable decision-making in real-world geographic environments using GeoWorld. Unlike existing evaluations that largely reason and plan over fixed geographic states, GeoWorld is grounded in real-world geographic structure and allows external world states to evolve along their own temporal processes while preserving verifiable state histories. LiveGeo places geographic tasks within this evolving environment, requiring agents to actively acquire…",
+   "authors": [
+    "Pengcheng Zhou",
+    "Xuanyu Liu",
+    "Yanchen Yin",
+    "Tianjie Ju",
+    "Bobo Li",
+    "Shengqiong Wu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17267",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17267",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "evals",
+    "llm"
+   ],
+   "score": 30,
+   "id": "f51eca694f76"
+  },
+  {
+   "title": "Programming Quantum Circuit Parameters with Large Language Models",
+   "url": "https://arxiv.org/abs/2611.17246",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:34:23+00:00",
+   "excerpt": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that generates complete circuit parameter vectors from symbolic circuit and Hamiltonian descriptions, with optional iterative energy feedback. We evaluate the approach on general random Hamiltonians, structured parent Hamiltonians, and molecular systems. For general Hamiltonians, LLM-generated parameters…",
+   "authors": [
+    "Tiago de Souza Farias",
+    "Caio Moraes Porto",
+    "Matheus da Silva Fonseca",
+    "Nicolas Armando Cabrera Carpi",
+    "Anderson de Araujo Oliveira",
+    "Celso Jorge Villas-Boas"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17246",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17246",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "llm",
+    "infra"
+   ],
+   "score": 30,
+   "id": "a2d73e445daa"
+  },
+  {
+   "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+   "url": "https://arxiv.org/abs/2611.17241",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:28:08+00:00",
+   "excerpt": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge this empirically: across multiple NP-hard combinatorial optimization problems, we find no consistent advantage for larger, costlier models. This raises a deeper question: given a pool of LLMs spanning frontier and freely hosted or open-weight models, how should one adaptively select which model to…",
+   "authors": [
+    "Samidha Verma",
+    "Ankit Anand",
+    "Sayan Ranu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17241",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17241",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "open-source",
+    "business"
+   ],
+   "score": 30,
+   "id": "91ef33459046"
+  },
+  {
+   "title": "When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems",
+   "url": "https://arxiv.org/abs/2611.17239",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:26:51+00:00",
+   "excerpt": "In interactive systems where users engage with LLMs, users are adaptive and, after observing LLM responses, can change their prompting strategy, as well as the type and difficulty of subsequent tasks. Thus model responses can influence the set of prompts on which the model is subsequently evaluated. We study the implications of this user adaptivity and prompt endogeneity for the evaluation of LLMs. We define two classes of estimands for comparing models: the common-distribution effect, which compares model performance on the same distribution of prompts, and the induced-distribution effect…",
+   "authors": [
+    "Hannah Li"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17239",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17239",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals"
+   ],
+   "score": 30,
+   "id": "c9a22fc9d7af"
+  },
+  {
+   "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+   "url": "https://arxiv.org/abs/2611.17220",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:16:37+00:00",
+   "excerpt": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But oral exams scale poorly. In this paper, we present scalable conversational assessment, an LLM-based system that conducts interactive text-based conversations with students to assess their ability to make and support an argument. We use a two-agent architecture to separate concerns and reduce the likelihood that answers are leaked to the student: the interviewer interacts directly with the student…",
+   "authors": [
+    "Geoffrey Challen",
+    "Craig Zilles"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17220",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17220",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "agents"
+   ],
+   "score": 30,
+   "id": "d3bec13bcc4b"
+  },
+  {
+   "title": "Theoretical and Empirical Analysis of Sparse Convolution",
+   "url": "https://arxiv.org/abs/2611.17212",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:10:06+00:00",
+   "excerpt": "Deep neural networks for image processing are increasingly deployed on resource-constrained edge devices such as drones, medical systems, and smartphones, where limited computational resources and memory bandwidth pose significant challenges for efficient inference. Pruning during training often produces highly sparse convolutional kernels, offering the potential to significantly reduce computation and memory requirements. However, exploiting this sparsity efficiently at runtime remains challenging due to irregular memory access patterns and workload imbalance across processing elements. In…",
+   "authors": [
+    "Keshvi Tuteja",
+    "Yu-Hsiang Tsai",
+    "Gregor Olenik",
+    "Markus Götz",
+    "Achim Streit",
+    "Hartwig Anzt"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17212",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17212",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "science",
+    "multimodal",
+    "infra"
+   ],
+   "score": 30,
+   "id": "064bd43f9ae8"
+  },
+  {
+   "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+   "url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-12T22:43:26+00:00",
+   "excerpt": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "5d0d45077804"
+  },
+  {
+   "title": "Learning When Diffusion Language Models Should Regenerate",
+   "url": "https://arxiv.org/abs/2611.17320",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:58:50+00:00",
+   "excerpt": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking an isolated error usually reproduces it when the surrounding context remains fixed. These findings motivate DiVR , a verifier that predicts whether a partially generated sequence will reach a correct answer. Trained on the final correctness of the model's own trajectories, DiVR decides when to regenerate a block and…",
+   "authors": [
+    "Minhae Oh",
+    "Jeonghye Kim",
+    "Jinwoo Koo",
+    "Yeongoon Kim",
+    "Jimin Seo",
+    "Minsik Seol"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17320",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17320",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "0c0a46da97e9"
+  },
+  {
+   "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+   "url": "https://arxiv.org/abs/2611.17309",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:56:56+00:00",
+   "excerpt": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many parameters and FLOPs to solve simple puzzles. Descent on an energy not only mitigates these issues but also offers advantages: built-in early stopping, compute that adapts to problem difficulty, fast training without differentiating through a solver, and interpretable weights that learn the constraints of the puzzle. Here we demonstrate this with a learned version of Hopfield &…",
+   "authors": [
+    "Benjamin Hoover",
+    "Hugh Blayney",
+    "James C. R. Whittington"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17309",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17309",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 25,
+   "id": "b1549eb842c4"
+  },
+  {
+   "title": "Quantifying structural stability of transparent models for general insurance pricing",
+   "url": "https://arxiv.org/abs/2611.17308",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:56:54+00:00",
+   "excerpt": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerably from the pre-update model in both predictions and structure. Structural stability is upstream of predictive stability, yet existing structural stability metrics are mostly restricted to simple decision trees. Thus, we first introduce the notion of functional transparency, characterising models with a prediction function that can be expressed as a sum of univariate functions for main effects…",
+   "authors": [
+    "Félix Côté",
+    "Marie-Pier Côté"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17308",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17308",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 25,
+   "id": "072f9ecb3629"
+  },
+  {
+   "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+   "url": "https://arxiv.org/abs/2611.17298",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:55:09+00:00",
+   "excerpt": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach grounded in a simple observation. Video-to-video translation provides an explicit cross-frame reference: the regions that match in the input video should match in the output video too. Concretely, we…",
+   "authors": [
+    "Gaurav Parmar",
+    "Zhengqi Li",
+    "Richard Zhang",
+    "Jun-Yan Zhu",
+    "Srinivasa Narasimhan",
+    "Eli Shechtman"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17298",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17298",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "630921ed1c6f"
+  },
+  {
+   "title": "Goal Encoding in LLMs",
+   "url": "https://arxiv.org/abs/2611.17297",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:55:06+00:00",
+   "excerpt": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We construct a coding setting with multiple sub-tasks that allows us to evaluate goal-seeking behavior and the selection of sub-goals. In this setting, we localize an encoding of the next sub-goal in the outputs of a sparse set of attention heads. The same heads can be used to decode the LM's future actions in natural language (e.g., \"I'm checking if a word is a palindrome\"). We verify that this…",
+   "authors": [
+    "Arnab Sen Sharma",
+    "Eric Todd",
+    "Sheridan Feucht",
+    "Andy Arditi",
+    "Rohit Gandikota",
+    "Natalie Shapira"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17297",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17297",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code"
+   ],
+   "score": 25,
+   "id": "dbb359bfc18a"
+  },
+  {
+   "title": "Sheaf-Inspired Structured Scoring Extensions of LightGCN for Collaborative Filtering",
+   "url": "https://arxiv.org/abs/2611.17226",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:20:22+00:00",
+   "excerpt": "Graph-based collaborative filtering learns user and item representations by propagating embeddings over a user--item interaction graph. We investigate a modular, sheaf-inspired scoring extension placed on top of a three-layer LightGCN backbone. The motivation comes from cellular sheaves, where local vector spaces are related by linear restriction maps; here, this idea motivates structured, pair-dependent transformations of user and item embeddings rather than a change to graph propagation. We compare the identity inner-product scorer, diagonal, rank-one low-rank, and full matrix residual…",
+   "authors": [
+    "Ksenia Belkovskaya",
+    "Timur Lidzhiev",
+    "Maria Stebliy",
+    "Alexander Tarakanov"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17226",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17226",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "rag"
+   ],
+   "score": 25,
+   "id": "66a19e470c4a"
+  },
+  {
+   "title": "Data Archive for 2D and 3D Electrical Impedance Tomography with moderate conductivity contrast phantoms",
+   "url": "https://arxiv.org/abs/2611.17225",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:19:41+00:00",
+   "excerpt": "This document describes open Electrical Impedance Tomography (EIT) measurement data that were collected from biomedical imaging inspired phantoms with moderate conductivity contrasts. The data were collected with the KIT4 and KIT5 EIT measurement devices at the University of Eastern Finland, and are intended for EIT image reconstruction algorithm development and testing. The data from thoracic imaging inspired cylindrical and chest-shaped phantoms are suitable for 2D algorithms, and the data from an intracerebral hemorrhage imaging inspired head-shaped phantom with resistive skull are…",
+   "authors": [
+    "S. J. Hamilton",
+    "A. Hauptmann",
+    "A. Hänninen",
+    "V. Kolehmainen",
+    "J. Niskanen",
+    "T. Savolainen"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17225",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17225",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "e150d421d6f3"
+  },
+  {
+   "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+   "url": "https://arxiv.org/abs/2611.17314",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:57:49+00:00",
+   "excerpt": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study neural networks that have been optimized via meta-learning, a technique that exposes a network to many related functions to facilitate its subsequent learning of similar functions. Prior work has shown that these meta-learned networks can learn new functions rapidly, but how they do so remains unclear. To investigate their internal structure, we take inspiration from classic work…",
+   "authors": [
+    "Abigail L. Tenenbaum",
+    "R. Thomas McCoy"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17314",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17314",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "8b33e8041a44"
+  },
+  {
+   "title": "Towards a Theory of Learnability via Debate",
+   "url": "https://arxiv.org/abs/2611.17303",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:55:58+00:00",
+   "excerpt": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in the form of labels, judges a debate between two models that compete to prove the correctness of opposite labels. It can be shown that functions of a much higher computational complexity can be correctly judged in this way, compared to the complexity of functions that can be directly evaluated using a computationally weak evaluator. This suggests that perhaps debate can be used to teach very…",
+   "authors": [
+    "Tosca Lechner",
+    "Vinayak Pathak",
+    "Sivan Sabato",
+    "Ruth Urner"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17303",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17303",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "c804945b577d"
+  },
+  {
+   "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+   "url": "https://arxiv.org/abs/2611.17287",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:52:33+00:00",
+   "excerpt": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verification is generally unavailable, while cheap checks can only falsify failures. We formalize this regime as one-sided verifiability (OSV): verified negatives are reliable counterexamples, but verified positives are merely non-falsified candidates and may contain many false positives. This asymmetry makes standard RLVR unreliable, because reinforcing verified positives can directly reward shortcuts…",
+   "authors": [
+    "Jiacheng Xu",
+    "Shuo He",
+    "Fuxiang Zhang",
+    "Chaojie Wang",
+    "Bo An"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17287",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17287",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "983075e325fe"
+  },
+  {
+   "title": "Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models",
+   "url": "https://arxiv.org/abs/2611.17235",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:23:56+00:00",
+   "excerpt": "This paper presents Al Ghasali, a computational framework designed to formalize and simulate Islamic jurisprudential (Fiqh) rulings. Building upon recent set theoretic formalizations of al sabr wa al Taqsim that extract minimal operational rules as simple Horn clause logical programs, this work proves that the semantics of closed Fiqh chapters collapse completely to deterministic Finite State Automata (FSA). We establish a formal computational hierarchy, demonstrating that restricting formalization to finite propositional Horn theories guarantees decidability and constant time (O(1)) verdict…",
+   "authors": [
+    "Elnaserledinellah Mahmoud Abdelwahab"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17235",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17235",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "e8ba467c3237"
+  },
+  {
+   "title": "Two mathematical models of knowledge distillation",
+   "url": "https://arxiv.org/abs/2611.17230",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:21:37+00:00",
+   "excerpt": "Many hypotheses compete to explain the successes of knowledge distillation. To help address this, we propose and analyze a mathematical model of distillation, which suggests that distillation's performance comes not from obtaining better models but from easier to optimize landscapes. For generalized linear models trained with stochastic gradient descent, we prove that distillation fits performant student models asymptotically more quickly than non-distilled models. In rank-1 matrix approximation, we characterize conditions on the target matrix under which gradient descent with distillation…",
+   "authors": [
+    "Audrey Xie",
+    "Ludwig Schmidt",
+    "John Duchi"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17230",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17230",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "1052d5c78362"
+  },
+  {
+   "title": "Linear Regression with Self-Selection Bias in Polynomial Time",
+   "url": "https://arxiv.org/abs/2611.17228",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:21:11+00:00",
+   "excerpt": "We revisit the problem of estimating $k$ linear regressors with self-selection bias in $n$ dimensions up to error $\\varepsilon$ with the maximum self-selection criterion, as introduced by Cherapanamjeri, Daskalakis, Ilyas, and Zampetakis [CDIZ23, STOC]. Our main result is a $\\mathrm{poly}(n,k,1/\\varepsilon)$ time algorithm for the unknown-index variant of this problem, thereby improving upon the running times of the best known algorithms due to Gaitonde and Mossel [GM24] and Kalavasis, Mehrotra, and Zhou [KMZ26, COLT] with exponential dependence on $k$. Our algorithm succeeds in the presence…",
+   "authors": [
+    "Felix Zhou"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17228",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17228",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "4cbbc093185d"
+  },
+  {
+   "title": "Combinatorial Bernoulli Factories with Polynomially Many Coins",
+   "url": "https://arxiv.org/abs/2611.17223",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:19:37+00:00",
+   "excerpt": "We provide an efficient implementation of combinatorial Bernoulli factories. Such a factory turns coins of unknown biases $x$ into a random vertex of a polytope $P$ whose mean is exactly $x$. For every affine slice of the cube (the class of polytopes that admit a factory), we give a single algorithm whose expected number of coin flips and running time at every interior $x$ are polynomial in the dimension and in $1/{δ_*}$, where ${δ_*}=\\min_i\\{x_i,1-x_i\\}$ is never supplied to the algorithm. For perfect matchings this gives $O(n^{8}{δ_*}^{-2}\\log(n/{δ_*}))$ flips, while the factory of…",
+   "authors": [
+    "Renato Paes Leme",
+    "Rad Niazadeh"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17223",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17223",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "714fb18ea1f3"
+  },
+  {
+   "title": "Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal $\\sqrt S$ and $\\sqrt K$ Dependencies in Tabular and Linear AMDPs",
+   "url": "https://arxiv.org/abs/2611.17214",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-12T18:10:46+00:00",
+   "excerpt": "We study regret minimization in episodic Adversarial Markov Decision Processes (AMDPs) with unknown transitions and bandit feedback. In tabular AMDPs with $S$ states, $A$ actions, and horizon $H$, the best known $K$-episode regret is $\\tilde O(HS\\sqrt{AK})$, whose $\\sqrt S$ gap to the $Ω(H\\sqrt{SAK})$ lower bound has long remained open. In linear AMDPs with $d$-dimensional features, after a five-year line of improvements starting from $K^{14/15}$, computationally efficient algorithms without a simulator or exploratory assumptions still only attain $\\tilde O(K^{3/4})$ regret. A common…",
+   "authors": [
+    "Aarush Kulkarni",
+    "Khang Nguyen",
+    "William Chang",
+    "Yan Dai"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.17214",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.17214",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "d886dbfc8f07"
+  }
+ ],
+ "generated_at": "2026-11-13T13:05:48.544496+00:00",
+ "llm": "none"
+}
