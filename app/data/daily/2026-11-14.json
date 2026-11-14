@@ -24,6 +24,51 @@
    "id": "d1318183fe17"
   },
   {
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-14T14:09:25+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50497155",
+   "engagement": 109,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops",
+    "infra"
+   ],
+   "score": 52,
+   "id": "8f2daa11c505"
+  },
+  {
+   "title": "The Claude Delusion",
+   "url": "https://www.netmeister.org/blog/claude-delusion.html",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-14T13:36:17+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50496921",
+   "engagement": 133,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 47,
+   "id": "1cd6c3ec19d7"
+  },
+  {
    "title": "Claude Meetings",
    "url": "https://claude.com/resources/articles/claude-meetings",
    "source_id": "hacker-news",
@@ -68,6 +113,26 @@
    "id": "a9dc79e6aa5b"
   },
   {
+   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+   "url": "https://gitlab.com/snipedbywifi/terminactory",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-14T14:05:54+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50497132",
+   "engagement": 108,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "5bfa2e37b7da"
+  },
+  {
    "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
    "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
    "source_id": "hacker-news",
@@ -86,6 +151,56 @@
    "tags": [],
    "score": 41,
    "id": "b0984d45fde6"
+  },
+  {
+   "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+   "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-14T19:05:17+00:00",
+   "excerpt": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business",
+    "infra"
+   ],
+   "score": 40,
+   "id": "3a53f4732b0a"
+  },
+  {
+   "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+   "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-14T16:48:01+00:00",
+   "excerpt": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals"
+   ],
+   "score": 40,
+   "id": "d82d2c1dae8d"
   },
   {
    "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
@@ -164,6 +279,55 @@
    "id": "7bfee235c168"
   },
   {
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-14T16:42:56+00:00",
+   "excerpt": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "a5dca2d386f6"
+  },
+  {
+   "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+   "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-14T16:45:48+00:00",
+   "excerpt": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "llm"
+   ],
+   "score": 30,
+   "id": "3754a2a7dd16"
+  },
+  {
    "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
    "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
    "source_id": "marktechpost",
@@ -214,6 +378,6 @@
    "id": "c0bbffee7458"
   }
  ],
- "generated_at": "2026-11-14T12:10:20.650729+00:00",
+ "generated_at": "2026-11-14T20:03:57.989940+00:00",
  "llm": "none"
 }
