@@ -2,6 +2,48 @@
  "date": "2026-11-15",
  "items": [
   {
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-15T12:14:06+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50506376",
+   "engagement": 160,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "rag"
+   ],
+   "score": 48,
+   "id": "950ac38f23f2"
+  },
+  {
+   "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+   "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-15T03:05:54+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50503588",
+   "engagement": 81,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 41,
+   "id": "dbfc348e99df"
+  },
+  {
    "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
    "url": "https://news.ycombinator.com/item?id=50494696",
    "source_id": "hacker-news",
@@ -73,6 +115,30 @@
    "id": "6fc6bc2d3ff2"
   },
   {
+   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+   "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-15T15:42:03+00:00",
+   "excerpt": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton. The article Anthropic's Claude Fable 5.2 doesn't generate images, it paints them appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "65ecef2327a0"
+  },
+  {
    "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
    "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
    "source_id": "the-decoder",
@@ -121,6 +187,6 @@
    "id": "c91a7de9e7aa"
   }
  ],
- "generated_at": "2026-11-15T12:43:07.510500+00:00",
+ "generated_at": "2026-11-15T20:33:15.649844+00:00",
  "llm": "none"
 }
