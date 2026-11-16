@@ -1,0 +1,401 @@
+{
+ "date": "2026-11-17",
+ "items": [
+  {
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "url": "https://openai.com/index/strengthening-online-child-safety",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T17:00:00+00:00",
+   "excerpt": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50520804",
+   "engagement": 95,
+   "also_in": [
+    "Hacker News"
+   ],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 66,
+   "id": "b1c71d07875a"
+  },
+  {
+   "title": "Our first phase of embedded assessments",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T08:00:00+00:00",
+   "excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety"
+   ],
+   "score": 55,
+   "id": "ebd9eb949639"
+  },
+  {
+   "title": "Advancing computer-use agents for healthcare teams",
+   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T06:00:00+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 55,
+   "id": "b0ded74e06b0"
+  },
+  {
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T06:00:00+00:00",
+   "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 55,
+   "id": "cfcc7acb02e9"
+  },
+  {
+   "title": "The open-source movement wants Jensen Huang back",
+   "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-16T18:38:47+00:00",
+   "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+   "authors": [
+    "James O'Donnell"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source",
+    "infra"
+   ],
+   "score": 50,
+   "id": "9ccf8665576a"
+  },
+  {
+   "title": "Broadening access to AI for scientists",
+   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T17:00:00+00:00",
+   "excerpt": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "f26f2a4dfd6b"
+  },
+  {
+   "title": "Building trustworthy AI by fencing it in, not predicting it",
+   "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-16T16:04:28+00:00",
+   "excerpt": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+   "authors": [
+    "Sudhi Sinha"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "safety"
+   ],
+   "score": 50,
+   "id": "b2955c38ff71"
+  },
+  {
+   "title": "Building AI that can work across the enterprise",
+   "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-16T13:00:00+00:00",
+   "excerpt": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+   "authors": [
+    "MIT Technology Review Insights"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business",
+    "agents",
+    "regulation"
+   ],
+   "score": 50,
+   "id": "11cf973c0d59"
+  },
+  {
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "url": "https://openai.com/index/science-at-the-frontier",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T12:00:00+00:00",
+   "excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "f891bd93f3d2"
+  },
+  {
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T00:00:00+00:00",
+   "excerpt": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "3899b6e8ee3c"
+  },
+  {
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "url": "https://huggingface.co/blog/openrouter",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-16T00:00:00+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source"
+   ],
+   "score": 45,
+   "id": "853b24ff0d6e"
+  },
+  {
+   "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+   "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-16T18:52:55+00:00",
+   "excerpt": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "code",
+    "science"
+   ],
+   "score": 40,
+   "id": "ebff97034b29"
+  },
+  {
+   "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+   "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-16T16:56:04+00:00",
+   "excerpt": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source. The article Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices appeared first on The Decoder .",
+   "authors": [
+    "Jonathan Kemper"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "open-source"
+   ],
+   "score": 40,
+   "id": "daa2f3055cf9"
+  },
+  {
+   "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+   "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-16T15:25:48+00:00",
+   "excerpt": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories. The article Anthropic says the key to agent memory is knowing what to forget, not how much to store appeared first on The Decoder .",
+   "authors": [
+    "Jonathan Kemper"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "llm"
+   ],
+   "score": 40,
+   "id": "ab086a66f465"
+  },
+  {
+   "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+   "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-16T19:42:13+00:00",
+   "excerpt": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and ran them on its own. The article Google warns that fully automated cyberattacks have arrived and will get worse fast appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 35,
+   "id": "885a2252df28"
+  },
+  {
+   "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+   "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-16T19:19:56+00:00",
+   "excerpt": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible. The article OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "75df91af27d8"
+  },
+  {
+   "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+   "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-16T16:10:22+00:00",
+   "excerpt": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. The article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder .",
+   "authors": [
+    "Jonathan Kemper"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 35,
+   "id": "8806a70ae484"
+  }
+ ],
+ "generated_at": "2026-11-16T23:50:39.275995+00:00",
+ "llm": "none"
+}
