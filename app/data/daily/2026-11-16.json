@@ -1,0 +1,205 @@
+{
+ "date": "2026-11-16",
+ "items": [
+  {
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "url": "https://openai.com/index/lvmh-media-division-partnership",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T09:00:00+00:00",
+   "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 55,
+   "id": "91e58e2ea930"
+  },
+  {
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "url": "https://openai.com/index/the-kings-trust-and-openai",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-16T00:00:00+00:00",
+   "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 55,
+   "id": "e3915f7e4cf0"
+  },
+  {
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-15T22:00:01+00:00",
+   "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 55,
+   "id": "87d7014c15ee"
+  },
+  {
+   "title": "Our new blog for science",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-15T22:00:00+00:00",
+   "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "4b0fc5b701ff"
+  },
+  {
+   "title": "How to make almost anything",
+   "url": "https://pub.cba.mit.edu/863.26/site/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-16T05:50:37+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50514470",
+   "engagement": 453,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 45,
+   "id": "d9a15b4078d3"
+  },
+  {
+   "title": "Tell HN: HN is being scraped for emails to scam",
+   "url": "https://news.ycombinator.com/item?id=50513451",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-16T02:53:30+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50513451",
+   "engagement": 108,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "0907fbf8de48"
+  },
+  {
+   "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+   "url": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-16T10:39:41+00:00",
+   "excerpt": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first on MarkTechPost .",
+   "authors": [
+    "Michal Sutter"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 25,
+   "id": "7afedf3465a1"
+  },
+  {
+   "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+   "url": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-16T09:44:17+00:00",
+   "excerpt": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "da52cf43de2b"
+  },
+  {
+   "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+   "url": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-16T09:08:37+00:00",
+   "excerpt": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTechPost .",
+   "authors": [
+    "Michal Sutter"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 25,
+   "id": "d83394486a34"
+  }
+ ],
+ "generated_at": "2026-11-16T13:37:34.401620+00:00",
+ "llm": "none"
+}
