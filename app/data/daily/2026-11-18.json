@@ -1,0 +1,384 @@
+{
+ "date": "2026-11-18",
+ "items": [
+  {
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-17T17:45:00+00:00",
+   "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50535230",
+   "engagement": 985,
+   "also_in": [
+    "Hacker News"
+   ],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "code",
+    "agents"
+   ],
+   "score": 82,
+   "id": "549a77347d5e"
+  },
+  {
+   "title": "Astra for Law leads in legal intelligence",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-17T00:00:00+00:00",
+   "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "business"
+   ],
+   "score": 60,
+   "id": "0604bc2b50fc"
+  },
+  {
+   "title": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-17T08:00:00+00:00",
+   "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 50,
+   "id": "c6c361c53bc4"
+  },
+  {
+   "title": "Research Reports",
+   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-17T14:39:46+00:00",
+   "excerpt": "To access a report, click on the corresponding image below.",
+   "authors": [
+    "MIT Technology Review"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 45,
+   "id": "98ef486c7d4e"
+  },
+  {
+   "title": "MAI Code 2 and Code 2 Flash",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-17T18:25:13+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50535885",
+   "engagement": 240,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 44,
+   "id": "23791fed6fa0"
+  },
+  {
+   "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+   "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-17T20:30:50+00:00",
+   "excerpt": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk. The article OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals"
+   ],
+   "score": 40,
+   "id": "eea4039d51a0"
+  },
+  {
+   "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+   "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-17T16:55:47+00:00",
+   "excerpt": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Health and Cigna Healthcare are already deploying the technology. The article AI agents are starting to fill out medical forms and file insurance requests in place of human staff appeared first on The Decoder .",
+   "authors": [
+    "Alan Truly"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "science",
+    "agents",
+    "llm"
+   ],
+   "score": 40,
+   "id": "c45e75136865"
+  },
+  {
+   "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+   "url": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-17T14:57:02+00:00",
+   "excerpt": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet. The article Isomorphic Labs raises $5 billion in its second mega-round within six months appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business",
+    "science"
+   ],
+   "score": 40,
+   "id": "f7e4a9ce098e"
+  },
+  {
+   "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+   "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-17T14:54:10+00:00",
+   "excerpt": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "open-source",
+    "mlops"
+   ],
+   "score": 40,
+   "id": "64497aa5406e"
+  },
+  {
+   "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+   "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-17T16:47:21+00:00",
+   "excerpt": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware shortage through industrial-scale distillation of US AI models. The article The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 35,
+   "id": "5a76136e8f2d"
+  },
+  {
+   "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+   "url": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-17T14:59:50+00:00",
+   "excerpt": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield wants governments to classify the problem as a preventable public health emergency. The article Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "science"
+   ],
+   "score": 35,
+   "id": "de54dba0191d"
+  },
+  {
+   "title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+   "url": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-17T22:52:04+00:00",
+   "excerpt": "Perplexity added Multiagent to Computer, an effort level above Ultra where a lead agent runs up to 16 agents on Claude, GPT and Gemini models that share findings and check each other’s work. The post Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work appeared first on MarkTechPost .",
+   "authors": [
+    "Michal Sutter"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "llm"
+   ],
+   "score": 30,
+   "id": "c028ef26047b"
+  },
+  {
+   "title": "Putting a spotlight on AI, society, and humanity",
+   "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+   "source_id": "mit-news-ai",
+   "source_name": "MIT News — IA",
+   "category": "news",
+   "published": "2026-11-17T20:40:00+00:00",
+   "excerpt": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+   "authors": [
+    "Danna Lorch | School of Humanities, Arts, and Social Sciences"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "f38228c9ef56"
+  },
+  {
+   "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+   "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-17T15:02:03+00:00",
+   "excerpt": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models. The article OpenAI opens its cybersecurity tool Daybreak to NATO and European governments appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "e1a87f9f921d"
+  },
+  {
+   "title": "OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API",
+   "url": "https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-17T22:07:30+00:00",
+   "excerpt": "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on November 17, 2026. Astra's API price drops 20% to $8/$40 per million tokens, and it ranks second on the Artificial Analysis Intelligence Index. The post OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 25,
+   "id": "635b12a6eec2"
+  },
+  {
+   "title": "Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained",
+   "url": "https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-17T20:49:45+00:00",
+   "excerpt": "Zero data retention applies to specific AI endpoints, not whole vendors. This guide explains the 2 standard API designs for data retention, who manages deletion in each, and 6 checks for developers. The post Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "fcd5880c8a2d"
+  }
+ ],
+ "generated_at": "2026-11-17T23:08:30.590983+00:00",
+ "llm": "none"
+}
