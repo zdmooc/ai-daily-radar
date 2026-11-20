@@ -1,7 +1,11 @@
 {
- "generated_at": "2026-11-19T22:45:28.570442+00:00",
+ "generated_at": "2026-11-20T13:59:54.453230+00:00",
  "llm": "none",
  "days": [
+  {
+   "date": "2026-11-20",
+   "count": 57
+  },
   {
    "date": "2026-11-19",
    "count": 74
@@ -88,11 +92,11 @@
   "evals": "Évaluation et benchmarks"
  },
  "sources": {
-  "openai": "ok (1414)",
+  "openai": "ok (1418)",
   "deepmind": "ok (100)",
-  "anthropic": "ok (289)",
+  "anthropic": "ok (290)",
   "mistral": "ok (94)",
-  "huggingface-blog": "ok (913)",
+  "huggingface-blog": "ok (914)",
   "mit-tech-review-ai": "ok (10)",
   "mit-news-ai": "ok (50)",
   "the-decoder": "ok (10)",
