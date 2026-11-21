@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-21T13:27:41.280669+00:00",
+ "generated_at": "2026-11-21T21:07:29.368848+00:00",
  "llm": "none",
  "days": [
   {
    "date": "2026-11-21",
-   "count": 10
+   "count": 13
   },
   {
    "date": "2026-11-20",
@@ -107,6 +107,6 @@
   "marktechpost": "ok (10)",
   "hf-daily-papers": "ok (30)",
   "arxiv": "ok (40)",
-  "hacker-news": "ok (12)"
+  "hacker-news": "ok (7)"
  }
 }
