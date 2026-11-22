@@ -2,6 +2,50 @@
  "date": "2026-11-22",
  "items": [
   {
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence",
+   "source_id": "openai",
+   "source_name": "OpenAI News",
+   "category": "news",
+   "published": "2026-11-22T00:00:00+00:00",
+   "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50601525",
+   "engagement": 354,
+   "also_in": [
+    "Hacker News"
+   ],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 70,
+   "id": "de5cd1a6d51d"
+  },
+  {
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-22T13:56:58+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50599762",
+   "engagement": 225,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 49,
+   "id": "3c4f4993adca"
+  },
+  {
    "title": "Pandex – Official European Law for AI Agents, over MCP",
    "url": "https://www.pandex.io",
    "source_id": "hacker-news",
@@ -42,6 +86,96 @@
    "tags": [],
    "score": 44,
    "id": "38c61351fe0d"
+  },
+  {
+   "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+   "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-22T15:42:40+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50600677",
+   "engagement": 139,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 42,
+   "id": "19599299ebea"
+  },
+  {
+   "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+   "url": "https://arxiv.org/abs/2606.14068",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-22T09:18:36+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50597743",
+   "engagement": 87,
+   "also_in": [],
+   "arxiv_id": "2606.14068",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 41,
+   "id": "1005bc8b78aa"
+  },
+  {
+   "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+   "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-22T15:15:48+00:00",
+   "excerpt": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but they lose track as autonomous developers. The article AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace appeared first on The Decoder .",
+   "authors": [
+    "Jonathan Kemper"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "agents"
+   ],
+   "score": 40,
+   "id": "ea4ec8bb42c1"
+  },
+  {
+   "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+   "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-22T14:20:28+00:00",
+   "excerpt": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable chatbot business through developer tools. The article Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog appeared first on The Decoder .",
+   "authors": [
+    "Jonathan Kemper"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "agents"
+   ],
+   "score": 40,
+   "id": "141d3e3e6383"
   },
   {
    "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
@@ -114,6 +248,31 @@
    ],
    "score": 35,
    "id": "0cbda05d55dc"
+  },
+  {
+   "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+   "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-22T18:37:57+00:00",
+   "excerpt": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra",
+    "multimodal"
+   ],
+   "score": 30,
+   "id": "f8d855c8071b"
   },
   {
    "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
@@ -213,6 +372,6 @@
    "id": "3fb4d028a772"
   }
  ],
- "generated_at": "2026-11-22T13:19:53.002935+00:00",
+ "generated_at": "2026-11-22T21:14:56.673955+00:00",
  "llm": "none"
 }
