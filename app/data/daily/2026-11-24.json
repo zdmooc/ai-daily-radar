@@ -2,6 +2,37 @@
  "date": "2026-11-24",
  "items": [
   {
+   "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+   "url": "https://huggingface.co/papers/2611.31201",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear. We present Embo-Harness, a framework for systematically studying frontier-model-as-policy harnesses. We investigate four components of the robotic agentic loop, namely, prompting, planning, action execution, and tool use, and distill six…",
+   "authors": [
+    "Xiao-Ming Wu",
+    "Kang Liao",
+    "Yuexiao Ma",
+    "Taolin Zhang",
+    "Mingqian Zhou",
+    "Nuo Chen"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31201",
+   "discussion_url": null,
+   "engagement": 88,
+   "also_in": [],
+   "arxiv_id": "2611.31201",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "robotics",
+    "multimodal"
+   ],
+   "score": 61,
+   "id": "285717d7ef3e"
+  },
+  {
    "title": "Finding faster quantum algorithms with agents and formal verification",
    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
    "source_id": "deepmind",
@@ -48,6 +79,180 @@
    "id": "680b35173b97"
   },
   {
+   "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
+   "url": "https://huggingface.co/papers/2611.30662",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "We present WeMM-Ecom, a family of multimodal large language models that deliver frontier e-commerce capabilities while achieving state-of-the-art general-purpose performance at their respective scales. The family spans five sizes, from a 0.8B dense model to a 35B mixture-of-experts model with 3B active parameters. Our training pipeline begins with two-stage continued pre-training that progressively raises the proportion of e-commerce data within a diverse multimodal data mixture, followed by hybrid-thinking post-training that combines on-policy distillation and reinforcement learning to…",
+   "authors": [
+    "Binhui Xie",
+    "Jinmin Li",
+    "Haomiao Tang",
+    "Guangting Wang",
+    "Song Jin",
+    "Jianwei Zhu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30662",
+   "discussion_url": null,
+   "engagement": 54,
+   "also_in": [],
+   "arxiv_id": "2611.30662",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "business"
+   ],
+   "score": 60,
+   "id": "efcc189b36ed"
+  },
+  {
+   "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
+   "url": "https://huggingface.co/papers/2611.31198",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric knowledge by orchestrating a small library of hand-crafted search and visual tools. However, the library is laborious to create and maintain, and frozen when new query types, evidence formats, and failure modes are encountered in the wild. Human practitioners, by contrast, cope with insufficient tools by fashioning new ones from familiar parts and reusing them across tasks. Inspired by this, we propose ToolSmith, an automatic tool-generation framework that grows…",
+   "authors": [
+    "Rui Sun",
+    "Junhua Huang",
+    "Luca Zancato",
+    "Md Mofijul Islam",
+    "Kai-Wei Chang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31198",
+   "discussion_url": null,
+   "engagement": 4,
+   "also_in": [
+    "arXiv (cs.AI, cs.CL, cs.LG)"
+   ],
+   "arxiv_id": "2611.31198",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "agents"
+   ],
+   "score": 59,
+   "id": "bd80667ccbfc"
+  },
+  {
+   "title": "World Models as Native Latent Action Models",
+   "url": "https://huggingface.co/papers/2611.30898",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Large and diverse video sources, such as egocentric human video and heterogeneous robot recordings, carry rich dynamics but come either without actions or without a shared action space. Latent action models (LAMs) can recover these dynamics, but they train their inverse- and forward-dynamics models (IDM, FDM) from scratch, trading off pixel reconstruction against latent capacity and accuracy. Pretrained video world models natively generate high-fidelity dynamics, yet represent them densely, entangled across all layers. Viewing the world model as a LAM, we show that these dynamics can be…",
+   "authors": [
+    "Qinyue Li",
+    "Weijie Qiao",
+    "Qingyi Tao",
+    "Zerui Gong",
+    "Zhe Yang",
+    "Quanzhou Li"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30898",
+   "discussion_url": null,
+   "engagement": 23,
+   "also_in": [],
+   "arxiv_id": "2611.30898",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "robotics"
+   ],
+   "score": 58,
+   "id": "73ee7218f249"
+  },
+  {
+   "title": "ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild",
+   "url": "https://huggingface.co/papers/2611.30597",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Learning robot manipulation from egocentric human videos requires accurate metric 3D hand motion. Recent methods leverage pretrained video diffusion model (VDM) priors to recover occluded hands directly from full-frame videos, but their appearance-based depth regression generalizes poorly to unseen cameras. In this work, we propose ViDiHand2, a geometry-driven framework that reformulates VDM-based hand depth estimation from direct regression into fine-grained geometric constraint solving. Specifically, we introduce Fine-Grained Geometric Lifting and Clip-Level Ray Fitting, which recover…",
+   "authors": [
+    "Yuxi Wang",
+    "Yufei Liu",
+    "Chengkai Jin",
+    "Qingyue Chen",
+    "Wenqi Ouyang",
+    "Tianyi Wei"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30597",
+   "discussion_url": null,
+   "engagement": 20,
+   "also_in": [],
+   "arxiv_id": "2611.30597",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "robotics"
+   ],
+   "score": 57,
+   "id": "979203ab3710"
+  },
+  {
+   "title": "UUBench: Understanding the Unspoken toward Full-Duplex Multimodal Interaction",
+   "url": "https://huggingface.co/papers/2611.30157",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Effective real-time, full-duplex multimodal interaction requires systems to understand not only what users say, but also the communicative needs conveyed through prosody, facial expressions, gestures, and context, and to generate audiovisual responses that appropriately address those needs. Existing evaluations offer limited insight into whether systems translate an understanding of such unspoken needs into effective responses. We introduce UUBench, a benchmark for assessing how well multimodal interactive systems Understand the Unspoken intent and address users' implicit communicative needs…",
+   "authors": [
+    "Ye Pan",
+    "Chenfei Liao",
+    "Bin Ren",
+    "Hanqian Li",
+    "Haocong He",
+    "Jialei Chen"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30157",
+   "discussion_url": null,
+   "engagement": 14,
+   "also_in": [],
+   "arxiv_id": "2611.30157",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "evals"
+   ],
+   "score": 57,
+   "id": "23f025ba7606"
+  },
+  {
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-24T12:40:15+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50627340",
+   "engagement": 472,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "agents"
+   ],
+   "score": 56,
+   "id": "ef8096d74f5d"
+  },
+  {
    "title": "OpenAI and Cisco introduce Shirudo",
    "url": "https://openai.com/index/introducing-shirudo",
    "source_id": "openai",
@@ -70,6 +275,181 @@
    "id": "1d0c151fefed"
   },
   {
+   "title": "WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models",
+   "url": "https://huggingface.co/papers/2611.31126",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Vision-language-action (VLA) models leverage pretrained vision-language representations for instruction-conditioned robot control, yet their understanding of task-relevant 3D relations and how these relations evolve during manipulation remains largely implicit. To address this challenge, we introduce WeaveVLA, a framework that enhances VLA action generation by explicitly modeling task-relevant relative 3D relations and maintaining relational context across observations. WeaveVLA employs a task-conditioned sparse graph neural network to encode relative 3D relations among objects, the gripper…",
+   "authors": [
+    "Zien Wang",
+    "Yuhao Pan",
+    "Yunfeng Fan",
+    "Nan Cheng",
+    "Xin Xia",
+    "Wenchao Xu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31126",
+   "discussion_url": null,
+   "engagement": 7,
+   "also_in": [],
+   "arxiv_id": "2611.31126",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "robotics"
+   ],
+   "score": 55,
+   "id": "0cec707569a3"
+  },
+  {
+   "title": "ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation",
+   "url": "https://huggingface.co/papers/2611.31053",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Long-horizon embodied tasks involve physical dependencies that may only become clear through interaction. As task understanding deepens, past trials can reveal new information for adaptation and transfer. However, coarse progress feedback cannot identify which physical preconditions held, leaving search unguided, while task-specific optimization easily overfits to individual scenes, making cross-task transfer brittle. We introduce ReWeave, a framework that jointly optimizes an embodied agent harness and an emergent physical task topology from interaction without updating policy weights…",
+   "authors": [
+    "Yicheng Xu",
+    "Wencan Jiang",
+    "Zihao Zhu",
+    "Keru Zhou",
+    "Chang Zhou",
+    "Li Liu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31053",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.31053",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "agents"
+   ],
+   "score": 52,
+   "id": "31b23dddd70a"
+  },
+  {
+   "title": "WorldLatent: A Unified 4D Latent Space for World Perception and Generation",
+   "url": "https://huggingface.co/papers/2611.31209",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Generative Pre-Training (GPT) represents a profound milestone in natural language processing, serving as the foundation for most of today's state-of-the-art large language models. By casting diverse understanding and generation problems into a shared token representation, GPT enables a single architecture and unified optimization loop to master heterogeneous tasks across massive corpora, giving rise to powerful foundation models for natural language. In contrast, 4D spatiotemporal vision lacks a common representational protocol: perception (such as depth and camera estimation) and generation…",
+   "authors": [
+    "Jingxi Chen",
+    "Yujia Chen",
+    "Cornelia Fermuller",
+    "Yiannis Aloimonos",
+    "Wen-Sheng Chu",
+    "Du Tran"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31209",
+   "discussion_url": null,
+   "engagement": 1,
+   "also_in": [],
+   "arxiv_id": "2611.31209",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "multimodal",
+    "mlops"
+   ],
+   "score": 51,
+   "id": "ef6ff80f3a74"
+  },
+  {
+   "title": "DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations",
+   "url": "https://huggingface.co/papers/2611.30495",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Human demonstrations provide a rich source of bimanual dexterous skills, yet transferring them to robot hands remains challenging. Existing methods primarily optimize object trajectory tracking, often overlooking how human hands interact with the object. Even with accurate tracking, robots may contact incorrect object parts or slide their fingers, resulting in unstable manipulation. We present DexDuet, a framework that learns contact-preserving bimanual dexterity from a single human demonstration. DexDuet employs two interaction rewards to preserve human hand-object configurations and…",
+   "authors": [
+    "Haoran Zhang",
+    "Haokai Ding",
+    "Han Zhou",
+    "Zuxing Lu",
+    "Heng Zhang",
+    "Xingxing Zuo"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30495",
+   "discussion_url": null,
+   "engagement": 11,
+   "also_in": [],
+   "arxiv_id": "2611.30495",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics"
+   ],
+   "score": 51,
+   "id": "f108a0a41ca3"
+  },
+  {
+   "title": "MMMem: Self-Improving Agents with Task-Aware Multimodal Experience Consolidation",
+   "url": "https://huggingface.co/papers/2611.30287",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "AI agents accumulate conversations, images, and documents through long-term interactions with users. Answering later questions often requires connecting evidence across these records, yet the resulting understanding is rarely retained, allowing mistakes to recur on related questions. Existing multimodal memory methods largely focus on storing and retrieving records, with limited mechanisms for learning from completed tasks and consolidating task-specific experience. We therefore propose MMMem, a task-aware multimodal memory framework that extracts and consolidates experience from completed…",
+   "authors": [
+    "Yuxuan Chen",
+    "Changwei Lv",
+    "Yunfei Li",
+    "Zhongjing Du",
+    "Kehui Tan",
+    "Zijun Liao"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30287",
+   "discussion_url": null,
+   "engagement": 1,
+   "also_in": [],
+   "arxiv_id": "2611.30287",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "agents"
+   ],
+   "score": 51,
+   "id": "1a0a811ca8f1"
+  },
+  {
+   "title": "Raising the stakes for enterprise networks with AI modernization",
+   "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "source_id": "mit-tech-review-ai",
+   "source_name": "MIT Technology Review — IA",
+   "category": "news",
+   "published": "2026-11-24T15:15:16+00:00",
+   "excerpt": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+   "authors": [
+    "MIT Technology Review Insights"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business",
+    "agents"
+   ],
+   "score": 50,
+   "id": "a1954c7a4413"
+  },
+  {
    "title": "Connected intelligence for in-house legal",
    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
    "source_id": "openai",
@@ -88,6 +468,114 @@
    "tags": [],
    "score": 50,
    "id": "f8a4e02f4212"
+  },
+  {
+   "title": "Can Latent Reasoning Drive LLM Outputs Without a Trace?",
+   "url": "https://huggingface.co/papers/2611.31015",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "LLMs typically solve complex tasks with chain-of-thought (CoT) reasoning, which is also the main tool for monitoring them for misaligned behavior. However, standard transformers can also solve tasks with complete latent reasoning (CLR), carrying out the whole task internally and outputting only the final answer. Theory bounds the depth of CLR, the number of sequential steps it can carry out, and recent work measured it to be shallow. In this work, we ask whether CLR is deep enough for a model to pursue a hidden objective that requires reasoning. Such a model would generate a CoT that appears…",
+   "authors": [
+    "Tomer Ashuach",
+    "Zorik Gekhman",
+    "Avi Caciularu",
+    "Ori Ram",
+    "Jonathan Herzig"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31015",
+   "discussion_url": null,
+   "engagement": 3,
+   "also_in": [],
+   "arxiv_id": "2611.31015",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 48,
+   "id": "46b9944b601f"
+  },
+  {
+   "title": "MORSE: Optimizing Streaming Memory Design via Open-World Auto-Research",
+   "url": "https://huggingface.co/papers/2611.30011",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "A streaming video system must decide in a single pass what evidence to retain under bounded frame storage, before it knows which details a future question will require. Recent recursive self-improvement methods automate the design of the harness that stores and retrieves this evidence. They revise the harness in response to failures, but the editor must still devise each repair from its prior knowledge and a predefined set of tools. A failure that recurs across videos, however, may point to a problem that prior work has already addressed. We introduce MORSE (Memory Optimization with Recursive…",
+   "authors": [
+    "Ce Zhang",
+    "Jianshu Zhang",
+    "Jinxi He",
+    "Xiyuan Yang",
+    "Pan Wang",
+    "Han Liu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30011",
+   "discussion_url": null,
+   "engagement": 3,
+   "also_in": [],
+   "arxiv_id": "2611.30011",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 48,
+   "id": "0f6309e496bb"
+  },
+  {
+   "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-24T13:23:47+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50627836",
+   "engagement": 130,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "business"
+   ],
+   "score": 47,
+   "id": "e628c0b2649e"
+  },
+  {
+   "title": "From Rewarding What Models Say to How They Think: Attention Process Reward Model for LLM Reinforcement Learning",
+   "url": "https://huggingface.co/papers/2611.30627",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-22T19:00:00+00:00",
+   "excerpt": "Reinforcement learning (RL) has become an important component in large language models (LLMs). However, existing RL approaches focus on final outputs or textual solution trajectories, leading to coarse-grained rewards and unreliable reasoning. Such paradigms focus mainly on what the model outputs while overlooking how the model internally reasons. Therefore, can we reward how a model thinks internally rather than merely what it says? We first reveal the problem of textual reward aliasing in existing reward modeling approaches. Motivated by this, we propose the Attention Process Reward Model…",
+   "authors": [
+    "Kairong Han",
+    "Nuanqiao Shan",
+    "Ziyu Zhao",
+    "Xinpeng Dong",
+    "Zijing Hu",
+    "Dian Jin"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.30627",
+   "discussion_url": null,
+   "engagement": 1,
+   "also_in": [],
+   "arxiv_id": "2611.30627",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 46,
+   "id": "035f013cb0dc"
   },
   {
    "title": "VP ≠ VNP over Every Field",
@@ -128,6 +616,31 @@
    "tags": [],
    "score": 42,
    "id": "81ecb7742efe"
+  },
+  {
+   "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+   "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-24T11:26:23+00:00",
+   "excerpt": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "agents"
+   ],
+   "score": 40,
+   "id": "92c709b4dedf"
   },
   {
    "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
@@ -248,6 +761,101 @@
    "id": "ca38829e7312"
   },
   {
+   "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+   "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-24T14:02:31+00:00",
+   "excerpt": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership is eroding. The article Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety"
+   ],
+   "score": 35,
+   "id": "4f2a19111d34"
+  },
+  {
+   "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+   "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-24T12:30:49+00:00",
+   "excerpt": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees. The article German researchers call for computer science to reinvent itself as \"Computer and AI Science\" appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety"
+   ],
+   "score": 35,
+   "id": "4d4f41c75086"
+  },
+  {
+   "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+   "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-24T14:28:41+00:00",
+   "excerpt": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Lean code is \"full of garbage.\" He still stands by the math. The article Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout appeared first on The Decoder .",
+   "authors": [
+    "Manuel Uth"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "ee3ae02f2750"
+  },
+  {
+   "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+   "url": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-24T14:16:53+00:00",
+   "excerpt": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches. The post OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "open-source"
+   ],
+   "score": 30,
+   "id": "5ce3cacfb8a6"
+  },
+  {
    "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
    "url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
    "source_id": "marktechpost",
@@ -320,8 +928,775 @@
    ],
    "score": 30,
    "id": "491d92908257"
+  },
+  {
+   "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+   "url": "https://arxiv.org/abs/2611.31240",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:59:52+00:00",
+   "excerpt": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understanding and trajectory prediction. Our analysis of Taylor importance in Alpamayo-1.5-10B shows that reasoning and trajectory objectives assign different importance to the same vision-language model (VLM) structures. In the action expert, MLP channels exhibit more stable importance rankings across denoising steps than query…",
+   "authors": [
+    "Seongchan Kim",
+    "Soowon Son",
+    "Sangoh Kim",
+    "Hyunah Ko",
+    "Eunbeen Hong",
+    "Hyunkoo Lee"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31240",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31240",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "agents",
+    "multimodal"
+   ],
+   "score": 30,
+   "id": "eb8a38eaefca"
+  },
+  {
+   "title": "Let Vision-Language Models Generate Images through Their Representations",
+   "url": "https://arxiv.org/abs/2611.31237",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:59:32+00:00",
+   "excerpt": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowledge, but making this knowledge effectively accessible to visual generation remains nontrivial. We find that a central challenge lies in the heterogeneous visual representations used for understanding and generation. To address this challenge, we introduce Integral, which converts a pretrained vision-language model…",
+   "authors": [
+    "JB Kim",
+    "Byungwoo Jeon",
+    "Kyungmin Lee",
+    "Hyeonmo Kang",
+    "Cheonbok Park",
+    "Shinyoung Joo"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31237",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31237",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 30,
+   "id": "1134e58908d0"
+  },
+  {
+   "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+   "url": "https://arxiv.org/abs/2611.31233",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:59:13+00:00",
+   "excerpt": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the usual suspect. Yet removing it post hoc degrades retrieval on every CLIP checkpoint we test. We introduce a paired statistic that identifies directions where the two towers agree more on hard negatives than on matched pairs. Mildly attenuating these directions improves retrieval while largely preserving the gap. We…",
+   "authors": [
+    "Hani Alomari",
+    "Md Atabuzzaman",
+    "Chris Thomas"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31233",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31233",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "rag",
+    "code"
+   ],
+   "score": 30,
+   "id": "0bd52c4adc55"
+  },
+  {
+   "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+   "url": "https://arxiv.org/abs/2611.31228",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:58:52+00:00",
+   "excerpt": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the model to repair its error?). We evaluated four open-weights models (Qwen2.5-7B, Llama-3.1-8B, Mistral-7B, and Phi-4, 14.7B) across 15,200 math benchmark attempts, isolating 2,017 reasoning errors within…",
+   "authors": [
+    "Daniel Theron"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31228",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31228",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals",
+    "agents"
+   ],
+   "score": 30,
+   "id": "b393b469e736"
+  },
+  {
+   "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
+   "url": "https://arxiv.org/abs/2611.31223",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:57:32+00:00",
+   "excerpt": "Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches often focus on intent management and orchestration, leaving the adaptation of underlying network optimization and control functions largely unaddressed. This article proposes a triadic agentic AI framework that co-designs intent management and intent fulfillment through three agents: an interpreter, powered by a language model, that translates and refines intents into machine-readable…",
+   "authors": [
+    "Burak Demirel",
+    "Yu Wang",
+    "Pablo Soldati"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31223",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31223",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "llm"
+   ],
+   "score": 30,
+   "id": "45b9e77eabff"
+  },
+  {
+   "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+   "url": "https://arxiv.org/abs/2611.31215",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:55:44+00:00",
+   "excerpt": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and videos, also seek in space when the evidence is not handed to them? We present ActSpace-Bench, a benchmark of 994 questions across 234 exploration episodes in 72 real-scanned indoor scenes, where a model starts from a single view, navigates real captured frames, and must gather evidence before answering. To assess whether such exploration is purposeful, we…",
+   "authors": [
+    "Xiwei Liu",
+    "Yulong Li",
+    "Xuhui Li",
+    "Xinlin Zhuang",
+    "Zhixiang Lu",
+    "Haolin Yang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31215",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31215",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "evals"
+   ],
+   "score": 30,
+   "id": "8f6d890f6989"
+  },
+  {
+   "title": "Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model",
+   "url": "https://arxiv.org/abs/2611.31212",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:55:29+00:00",
+   "excerpt": "High-resolution flood forecasting with full two-dimensional shallow water equation (SWE) solvers remains computationally expensive, even on GPUs. We develop a conditional denoising diffusion probabilistic model (DDPM) that forecasts the evolution of 30 m water-depth fields over a four-day horizon for the Des Plaines River watershed, Illinois. The model is trained on SynxFlow SWE simulations of 113 historical storms observed across twelve Midwestern states (2003-2024), each under three antecedent-wetness scenarios, and can optionally be conditioned on coarse 100 m or 150 m hydrodynamic…",
+   "authors": [
+    "Omar Sallam",
+    "David Coe",
+    "Jeremy Feinstein",
+    "Hugo Torres",
+    "Sofia Sahagun Covarrubias",
+    "Eugene Yan"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31212",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31212",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "science",
+    "infra"
+   ],
+   "score": 30,
+   "id": "d0e93f743936"
+  },
+  {
+   "title": "Know When to Abstain: Conformal Confidence Estimation for Text-to-SQL",
+   "url": "https://arxiv.org/abs/2611.31190",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:42:54+00:00",
+   "excerpt": "Text-to-SQL systems often return queries that execute successfully but answer the wrong question. Detecting these errors at deployment is hard because execution correctness is defined against a gold query, which exists only in labeled data. We formulate confidence estimation for Text-to-SQL as probabilistic query validation under a latent correctness variable that is observable at calibration time through gold-SQL execution and latent at deployment. Our estimator separates generation from validation. A generator LLM writes and executes the query, and a different critic LLM judges the query…",
+   "authors": [
+    "Avinash Kumar Singh",
+    "Bhaskarjit Sarmah",
+    "Stefano Pasquali"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31190",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31190",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops",
+    "llm"
+   ],
+   "score": 30,
+   "id": "b082f4c7f7d6"
+  },
+  {
+   "title": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
+   "url": "https://arxiv.org/abs/2611.31185",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:38:53+00:00",
+   "excerpt": "Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL initializations, yet overall accuracy gains do not identify which underlying functional capabilities improve or interact during training. We introduce CO-GRAFT, a reward-agnostic interventional attribution framework in which an RL-trained agent and its pre-RL initialization jointly generate a single trajectory under closed-loop execution with live retrieval. Each policy controls a mutually exclusive subset of four functional roles: intermediate reasoning…",
+   "authors": [
+    "Ramraj Chandradevan",
+    "Sayontan Ghosh",
+    "Vinoth Selvendran"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31185",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31185",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "rag",
+    "llm"
+   ],
+   "score": 30,
+   "id": "413e3d1eadc2"
+  },
+  {
+   "title": "Precision-Aware Learning Rate Transfer Across Block Count in LLM Post-Training",
+   "url": "https://arxiv.org/abs/2611.31166",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:27:57+00:00",
+   "excerpt": "The post-training of pretrained large language models, including supervised finetuning (SFT), direct preference optimization (DPO), and reinforcement learning with verifiable reward (RLVR), is very sensitive to the learning rate, and tuning it through grid search is costly in both computation and memory. In this work, we propose \\textbf{TipSweep}, a method to transfer the learning rate across the number of trainable transformer blocks. To do so efficiently, we search for the best learning rate by training only the last $k_0$ blocks (in our experiments, typically $k_0=1$), and provide scaling…",
+   "authors": [
+    "Nan Chen",
+    "Soledad Villar",
+    "Soufiane Hayou"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31166",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31166",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "mlops"
+   ],
+   "score": 30,
+   "id": "e4331bb04851"
+  },
+  {
+   "title": "SPROUT: Predicting Objective-Grounded Prompt Utility for Efficient Text-to-Image Preference Tuning",
+   "url": "https://arxiv.org/abs/2611.31163",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:24:33+00:00",
+   "excerpt": "Preference tuning of text-to-image diffusion models spends most of its compute generating candidate images, yet training prompts are typically sampled uniformly at random, wasting compute generating images that provide too little signal for model alignment. To best utilize the available compute, we study prompt selection, where at each iteration we identify the most useful prompts for preference tuning. We separate prompt selection into a utility score, an estimator of that utility score, and batch selection. Within this framework, we propose Selection by PRedicting Objective-grounded UTility…",
+   "authors": [
+    "Kangping Hu",
+    "Akshay Mehra",
+    "Stephen Mussmann"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31163",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31163",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "infra",
+    "safety"
+   ],
+   "score": 30,
+   "id": "30f8f10ee847"
+  },
+  {
+   "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
+   "url": "https://arxiv.org/abs/2611.31225",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:58:27+00:00",
+   "excerpt": "Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning (SSL), where distilled data must preserve the information needed to learn representations that remain consistent across augmentations. To bridge this gap, we introduce Mutual Information Prototype Alignment (MIPA), an efficient SSL dataset distillation approach that optimizes synthetic images to preserve augmentation-invariant information. Specifically, MIPA…",
+   "authors": [
+    "Mohammad Hossein Moslemi",
+    "Mahdi Beitollahi",
+    "Zhimin Mei",
+    "Jiale Cai",
+    "Bissan Ghaddar",
+    "Boyu Wang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31225",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31225",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety"
+   ],
+   "score": 25,
+   "id": "3d853903af06"
+  },
+  {
+   "title": "LeJEPA Features Are Not Isotropic, and Should Not Be",
+   "url": "https://arxiv.org/abs/2611.31216",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:56:04+00:00",
+   "excerpt": "The SIGReg term in LeJEPA regularizes features to have an isotropic Gaussian distribution. Our first result is to show that this regularizer, in practice, cannot achieve its goal. We design a modified regularizer to enforce the objective better. This leads to slightly improved performance. For example, on ImageNet-100, our modified regularizer reaches the final accuracy of SIGReg in 1.3$\\times$ fewer epochs. Our second result argues that self-supervised encoders should not have isotropic Gaussian features. We show that the alignment term in LeJEPA conflicts with SIGReg, because it couples the…",
+   "authors": [
+    "Richeek Das",
+    "Pratik Chaudhari"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31216",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31216",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety"
+   ],
+   "score": 25,
+   "id": "76c284c68489"
+  },
+  {
+   "title": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates",
+   "url": "https://arxiv.org/abs/2611.31211",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:55:06+00:00",
+   "excerpt": "Physics simulation outputs increasingly come from solvers that no expert inspects, such as third-party packages in automated pipelines, programs written by large language models (LLMs), and learned surrogates. In earlier work on cardiac pulsed field ablation, we proposed that solvers return a certificate with their answers. The certificate consists of an admissible potential and an exactly charge-conserving current, and a small independent checker turns it into guaranteed error bounds against a written specification of the physics. Here, the same checker verifies the outputs of other solvers…",
+   "authors": [
+    "Konstantinos Dovelos"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31211",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31211",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "science"
+   ],
+   "score": 25,
+   "id": "ded6c06140dd"
+  },
+  {
+   "title": "Needwise: Generation-Free Conversational Recommendation from Need-Level Typed Decisions",
+   "url": "https://arxiv.org/abs/2611.31175",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:32:04+00:00",
+   "excerpt": "Conversational recommenders must rank items against needs that catalogs record only in part, while users add, withdraw and reverse needs and switch between requests. LLM rankers re-read the dialogue at every turn: they are slow, and their ordering does not show which needs an item meets. We show that a conversational recommender can be built from typed decisions instead: named questions over fixed options, answered with option probabilities rather than generated text. On each turn, one typed request maps the message onto the catalog's fields, keeps what no field expresses in the user's words…",
+   "authors": [
+    "Sungchul Kim",
+    "Weixiao Huang",
+    "Mekala Raja Sekhar Reddy",
+    "Amrutha Srinivasan"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31175",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31175",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 25,
+   "id": "adc309f5afdd"
+  },
+  {
+   "title": "Analyzing and Improving FlowMap Distillation of Autoregressive Video Models",
+   "url": "https://arxiv.org/abs/2611.31164",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:24:33+00:00",
+   "excerpt": "FlowMap distillation offers a natural route to few-step generative modeling by directly learning a teacher's denoising trajectories. Yet for autoregressive (AR) video generation, existing few-step models still rely on distribution matching distillation (DMD) to remain competitive, sacrificing sample diversity and requiring a large bidirectional teacher. In this work, we analyze what limits standalone AR FlowMap distillation and introduce two complementary guidance mechanisms to close this gap: (1) anti-drifting guidance, which helps the AR teacher correct drifted student rollouts by training…",
+   "authors": [
+    "Yong-Hyun Park",
+    "Guande He",
+    "Joon Hyeok Kim",
+    "Hansheng Chen",
+    "Kaifan Yu",
+    "Chaoqi Luo"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31164",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31164",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "f59363074c52"
+  },
+  {
+   "title": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
+   "url": "https://arxiv.org/abs/2611.31160",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:23:16+00:00",
+   "excerpt": "Designing what an agent should optimize can be as difficult as optimizing the agent itself. Existing language-model-based reward-generation methods typically refine objectives for predefined tasks and couple the decision of what to explore with the synthesis of how to implement it, potentially narrowing the resulting behavioral repertoire. We introduce Habitats, a framework for open-ended evolution of executable agent objectives. Habitats maintains a population of reward-policy pairs and evaluates every policy under every population reward, producing a cross-fitness matrix that exposes…",
+   "authors": [
+    "Nicolas Bolouri",
+    "Gaya Mehenni",
+    "Daniel Toyama"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31160",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31160",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 25,
+   "id": "b5a67b1f81df"
+  },
+  {
+   "title": "SRCWDNet: Semantic-Relational Cross-Window Dual-Graph Network for Multi-Label Remote Sensing Scene Classification",
+   "url": "https://arxiv.org/abs/2611.31135",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:06:09+00:00",
+   "excerpt": "Multi-label remote sensing scene classification remains a challenging task due to complex spatial-spectral patterns, extreme class imbalance, and inter-label dependencies that are often insufficiently modeled. To address these challenges, we introduce a Semantic-Relational Cross-Window Dual-Graph Network (SRCWDNet), which integrates three key modules: (1) a Cross-Window Attention module that captures local and global visual context through learnable global tokens; (2) a Dual Label-Graph module that adaptively combines statistical co-occurrence graphs and learned semantic-embedding graphs to…",
+   "authors": [
+    "Fareeha Amir"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31135",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31135",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "rag"
+   ],
+   "score": 25,
+   "id": "f6f53220a8fb"
+  },
+  {
+   "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
+   "url": "https://arxiv.org/abs/2611.31227",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:58:32+00:00",
+   "excerpt": "Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover relatively few cellular contexts. Predicting perturbation responses in unseen cell types and identifying perturbed genes from their transcriptional effects therefore remain challenging. Here, we show that both tasks can be addressed through a common linear decomposition of transcriptional responses into shared and perturbation-specific components. Building on this principle, we…",
+   "authors": [
+    "Abhishek Sharma",
+    "Aleksej Zelezniak"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31227",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31227",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "b0183778fd81"
+  },
+  {
+   "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
+   "url": "https://arxiv.org/abs/2611.31222",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:57:26+00:00",
+   "excerpt": "Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a text-prompted 3D segmentation model that segments findings described in a chest CT report. CTLink was trained on 4123 noncontrast chest CT scans with 9547 segmented report findings, including ReXGroundingCTv2, a newly annotated dataset of 1134 scans and 1895 findings with every instance of each finding segmented. On the 200 ReXGroundingCT validation scans, CTLink achieved a hit rate of 0.816, an…",
+   "authors": [
+    "Mohammed Baharoon",
+    "Sung Eun Kim",
+    "Mahmoud Hussain Alabbad",
+    "Lucas Bijnens",
+    "Ali Piracha",
+    "Reem Alwasiah"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31222",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31222",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "fa4445e477f5"
+  },
+  {
+   "title": "Matching Under Metric Privacy",
+   "url": "https://arxiv.org/abs/2611.31208",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:53:25+00:00",
+   "excerpt": "We study how to represent and randomize points in $d$-dimensional Euclidean space to obtain accurate bipartite matchings under metric privacy. Given $n$ private and $n$ public points, we analyze local mechanisms that randomize each private point or its distances to the public points. Using the public points' affine span, we construct a smaller representation that preserves all matching costs. When a trusted server receives the private points, we establish privacy and utility guarantees for Gumbel matching, which randomizes edge costs and releases only the assignment. Through upper bounds and…",
+   "authors": [
+    "Hongyi B. Hu",
+    "Dung Nguyen",
+    "M. Amin Rahimian"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31208",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31208",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "1d6a9b074b98"
+  },
+  {
+   "title": "Learning Neurovascular Codes for EEG-to-fMRI Synthesis",
+   "url": "https://arxiv.org/abs/2611.31194",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:45:35+00:00",
+   "excerpt": "In this paper, we introduce Neurovascular Codes as shared EEG representations for fMRI generation. We first train a separate EEG encoder to predict each fMRI signal, learning target-specific temporal and spectral features from the same EEG window. After training, we freeze the encoders and project their concatenated hidden features into a shared neurovascular code. Conditioned on this code, stochastic interpolant transforms Gaussian noise into a vector of fMRI signals, allowing different responses to be sampled for the same EEG window. We evaluate our approach on eight public simultaneous…",
+   "authors": [
+    "Yiming Sun",
+    "Yifan Wang",
+    "Aosong Feng",
+    "Yijia Ma",
+    "Ben Cheng",
+    "Xurui Wang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31194",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31194",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "f4d44b1e11fc"
+  },
+  {
+   "title": "Reducing Order Sensitivity in Decision Models",
+   "url": "https://arxiv.org/abs/2611.31174",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:31:54+00:00",
+   "excerpt": "Decision models are emerging as fast components of larger AI systems. Yet recent decision models, such as Jev, process options sequentially, leading to different predictions based on their ordering. Across ten open- and closed-source decision models, we find that \\emph{order-sensitivity} is pervasive, causing substantial accuracy degradation and unreliable decision-making. These effects become more pronounced as the number of options grows and can compound across multi-step decisions. To address this problem, we systematically compare eight methods for mitigating order sensitivity in terms of…",
+   "authors": [
+    "Bodong Liu",
+    "Dongyoung Go",
+    "Sofian Zalouk",
+    "Kilian Q. Weinberger"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31174",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31174",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "7ba9816a302f"
+  },
+  {
+   "title": "EEG Decoding in Context: A Framework for Tuning-Free EEG Foundation Models",
+   "url": "https://arxiv.org/abs/2611.31171",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:30:53+00:00",
+   "excerpt": "Electroencephalography (EEG) decoding is a central route toward brain-computer interfaces for communication, rehabilitation, cognitive assessment, and neurological monitoring. Recent EEG foundation models have substantially advanced reusable signal representations, but their downstream use still typically requires a task-specific decoder, gradient-based adaptation, and validation-driven model selection. We investigate a complementary foundation-model paradigm based on in-context learning: labeled EEG recordings define the decoding task as context, and new recordings are predicted without…",
+   "authors": [
+    "Hao-Run Cai",
+    "Si-Yang Liu",
+    "Han-Jia Ye",
+    "Hairong Zheng"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31171",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31171",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "f58147cb3aaa"
+  },
+  {
+   "title": "When Does Overriding the Majority Vote Help?",
+   "url": "https://arxiv.org/abs/2611.31165",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:26:09+00:00",
+   "excerpt": "When should additional reasoning or verification replace a majority-vote answer? We call such a replacement an override. We examine two obstacles: the availability of correct alternatives and the reliability of methods that produce or select them. We compare additional reasoning, executed programs, and cross-model reasoning on 150 competition-mathematics questions with three open reasoning models. Starting from a majority vote over 16 responses, we measure how often overrides occur and how many errors they correct or introduce across agreement thresholds. When the vote is incorrect, the…",
+   "authors": [
+    "Terry Ma",
+    "Aidan Zhang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31165",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31165",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "16d5910c15a0"
+  },
+  {
+   "title": "Attention Latent Feedback",
+   "url": "https://arxiv.org/abs/2611.31154",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:21:05+00:00",
+   "excerpt": "During autoregressive decoding, the deeper representations of the previous token have already been computed, yet shallow layers at the current token cannot read them directly because standard self-attention connects positions only at the same depth. We introduce Attention Latent Feedback (ALF), an architecture that allows every sublayer to attend to the outputs of the deeper layers at the previous position. Training unrolls this cross-position recurrence into two parallel passes, whereas decoding remains single-pass using cached previous-token states. Across mixture-of-experts models with up…",
+   "authors": [
+    "Xuyuan Xiong",
+    "Siyu Chen",
+    "Mengzhao Chen",
+    "Yue Su",
+    "Zhuoran Yang",
+    "Ping Luo"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31154",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31154",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "43911d212de5"
+  },
+  {
+   "title": "Optimal Regret Lower Bounds in Matrix Games",
+   "url": "https://arxiv.org/abs/2611.31149",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:17:28+00:00",
+   "excerpt": "We study learning in two-player zero-sum games, also known as matrix games, in which two players with $m$ and $n$ actions repeatedly select mixed strategies for $T$ rounds. The learning dynamics based on optimistic Hedge guarantee regrets of $O(\\log(mn))$, which improve to $O(\\sqrt{\\log m\\log n})$ if each player knows the number of actions of the opponent, whereas matching regret lower bounds have been known only for specific learning dynamics. We prove that, for every deterministic learning dynamic, there exists a payoff matrix for which the maximum individual regret is $Ω(\\sqrt{\\log m\\log…",
+   "authors": [
+    "Taira Tsuchiya"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31149",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31149",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "35238da4b241"
+  },
+  {
+   "title": "Deneb-Vritra: Descriptions, Edges and Names Examined by Blocking Via Restoring Token Representations and Attention",
+   "url": "https://arxiv.org/abs/2611.31139",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:09:20+00:00",
+   "excerpt": "Laya is a 421M-parameter encoder that answers a question about a text in one pass: each answer option, written as a name plus a description, gets a marker token, and one score is read from the network at each marker. We first confirm that such models can follow an option's name when it contradicts the description; the question is where in the network this happens. We locate it. On 951 synthetic questions we move each name onto another option's description and count how often the model picks the option with the right name (the name shortcut): 53% for the released checkpoint, 59% for our…",
+   "authors": [
+    "Mohammed Nayeem Khan",
+    "Akhil P",
+    "Shahina Shaik"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31139",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31139",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "8ae311179201"
+  },
+  {
+   "title": "Serialization and the Character-System: Measuring Narrative Concentration in French Fiction (1800--1940)",
+   "url": "https://arxiv.org/abs/2611.31133",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-23T18:04:11+00:00",
+   "excerpt": "Every novel divides a finite quantity of narrative attention among its characters, and whether the shape of that division, between a narrative organized around a single figure and one spread across a crowd, has a history is far less settled than the abundance of critical commentary on protagonists might suggest. We operationalize Woloch's notion of the character-system, the distribution of narrative attention across a novel's cast structured by the tension between \"the one\" and \"the many\", as the inequality (Gini coefficient) of the PageRank distribution over a character network. We trace…",
+   "authors": [
+    "Jean Barré",
+    "Antoine Bourgois",
+    "Thierry Poibeau"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.31133",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.31133",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "3f723027f4bc"
   }
  ],
- "generated_at": "2026-11-24T02:34:17.707333+00:00",
+ "generated_at": "2026-11-24T15:52:43.282459+00:00",
  "llm": "none"
 }
