@@ -2,6 +2,459 @@
  "date": "2026-11-26",
  "items": [
   {
+   "title": "Mixture-of-Loops Transformer",
+   "url": "https://huggingface.co/papers/2611.34923",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from…",
+   "authors": [
+    "Lianghui Zhu",
+    "Shijie Wang",
+    "Xinggang Wang",
+    "Jinze Bai",
+    "Bo Wang",
+    "Xiang Bai"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34923",
+   "discussion_url": null,
+   "engagement": 56,
+   "also_in": [
+    "arXiv (cs.AI, cs.CL, cs.LG)"
+   ],
+   "arxiv_id": "2611.34923",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 60,
+   "id": "ed63df2f978e"
+  },
+  {
+   "title": "DocSEAM: Bidirectional Cross-Page Encoding for Multi-Page Document Understanding",
+   "url": "https://huggingface.co/papers/2611.34420",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Multi-page document vision-language models encode each page independently, creating a feature-level discontinuity at page boundaries: visual tokens are formed without access to content on adjacent pages, and the language model must reason over these page representations formed in isolation. We introduce DocSEAM (Document Selective Enrichment via Anchored Masking), a lightweight module inserted between a pretrained vision encoder and the language model that injects the inductive bias of local cross-page context into visual representations. For each page, DocSEAM forms a local triplet with its…",
+   "authors": [
+    "Hoang-Nhat Nguyen",
+    "Chen Change Loy"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34420",
+   "discussion_url": null,
+   "engagement": 26,
+   "also_in": [],
+   "arxiv_id": "2611.34420",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 58,
+   "id": "933ce93c95b0"
+  },
+  {
+   "title": "DexEngine: Scaling Human Demonstrations into Physically Executable Whole-Robot Data",
+   "url": "https://huggingface.co/papers/2611.33579",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "A growing body of recent work addresses the retargeting of human hand-object demonstrations to robotic hands. To train whole-robot policies, however, the retargeted motions must be kinematically feasible and physically executable, and be produced efficiently at scale. We present DexEngine, a simulation pipeline that turns human manipulation data into train-ready, physically executable arm-hand trajectories. DexEngine first places each clip's hand-object motion where the arms can reach it, finds an arm motion that follows the human hands, and then corrects the motion in physics simulation with…",
+   "authors": [
+    "Wongyun Yu",
+    "Honggeun Kim",
+    "Donguk Lee",
+    "Minchan Kim",
+    "Kyoung Whan Choe",
+    "Minsu Cho"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.33579",
+   "discussion_url": null,
+   "engagement": 17,
+   "also_in": [],
+   "arxiv_id": "2611.33579",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "science"
+   ],
+   "score": 57,
+   "id": "97c7798719c0"
+  },
+  {
+   "title": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
+   "url": "https://huggingface.co/papers/2611.34466",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "AI wearables, such as smart glasses, extend the context available to agents beyond digital environments to users' physical surroundings. With these devices, computer tasks can originate from users' ongoing activities rather than solely from explicit instructions. Through first-person observations, agents can identify objects and activities relevant to user requests and ground digital tasks in the surrounding context. We call this interaction paradigm Ego Use. However, first-person observations are limited by the wearer's viewpoint and may provide incomplete or ambiguous evidence of ongoing…",
+   "authors": [
+    "Yurun Chen",
+    "Biao Yi",
+    "Qihang Yu",
+    "Keting Yin",
+    "Shengyu Zhang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34466",
+   "discussion_url": null,
+   "engagement": 17,
+   "also_in": [],
+   "arxiv_id": "2611.34466",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "evals"
+   ],
+   "score": 57,
+   "id": "c8cbdf1c26db"
+  },
+  {
+   "title": "iMFPO: Improving Mean Flow Policy Optimization with Drift-Aware Velocity Alignment for Embodied Control",
+   "url": "https://huggingface.co/papers/2611.33922",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Flow-based generative policies offer expressive action modeling for embodied control, yet achieving efficient one-step generation under reward-driven policy optimization remains challenging. In particular, evolving action distributions during online reinforcement learning may introduce inconsistencies between instantaneous-velocity learning and interval-averaged action generation. To address this challenge, we propose iMFPO, a one-step generative policy optimization framework with decoupled velocity learning and drift-aware velocity alignment. A shared interval-conditioned actor supports…",
+   "authors": [
+    "Lisiyu Pan",
+    "Ting Huang",
+    "Zeyu Zhang",
+    "Hao Tang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.33922",
+   "discussion_url": null,
+   "engagement": 9,
+   "also_in": [],
+   "arxiv_id": "2611.33922",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "safety",
+    "robotics"
+   ],
+   "score": 56,
+   "id": "a8d9106c28d4"
+  },
+  {
+   "title": "Letting Models Manage Their Own Context: Where We Stand",
+   "url": "https://huggingface.co/papers/2611.34147",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Agent harnesses today manage context on the model's behalf: when the window fills, the harness triggers a compaction that summarizes the history. We study the alternative, model-driven context management, in which the model itself decides when and what to compact through a context API. We gave models control over their own context in \\nooa, NVIDIA's open source agent harness, and compared the two strategies on document research and machine learning engineering across context budgets from 8K to 512K tokens. Models that use the context API effectively reach higher accuracy, often with fewer…",
+   "authors": [
+    "Alessio Devoto",
+    "Avinash Vem",
+    "Tara Safavi",
+    "Sanjay Kariyappa",
+    "Yu-Hsuan Tseng",
+    "Paul Furgale"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34147",
+   "discussion_url": null,
+   "engagement": 5,
+   "also_in": [],
+   "arxiv_id": "2611.34147",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "open-source",
+    "infra"
+   ],
+   "score": 54,
+   "id": "4dad8a331d9f"
+  },
+  {
+   "title": "DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering",
+   "url": "https://huggingface.co/papers/2611.34671",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Scaling robot learning requires demonstrations that combine realistic visual observations with reliable action supervision. Simulation-based synthesis faces a substantial visual gap relative to real environments, while video-only generation struggles to maintain physically consistent interactions and provide aligned action labels. We present DemoFoundry, an automated framework that couples coding agents with generative rendering to synthesize photorealistic and physically grounded robot demonstrations. Coding agents both construct aligned real--proxy video pairs from existing robot episodes…",
+   "authors": [
+    "Ruixiang Wang",
+    "Xinyue Yao",
+    "Xuanning Zhou",
+    "Yueci Deng",
+    "Yongyi Su",
+    "Kui Jia"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34671",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.34671",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "code",
+    "agents"
+   ],
+   "score": 52,
+   "id": "28ee13df0fd0"
+  },
+  {
+   "title": "LiveVAE: Causal Window Attention Makes Efficient Streaming Video VAE",
+   "url": "https://huggingface.co/papers/2611.34912",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "While video diffusion models have grown faster and increasingly streamable, the video VAE remains a primary latency bottleneck across interactive generation and editing pipelines. Existing VAEs and their acceleration methods rely mainly on heavy convolutions or full frame attention, and most focus only on decoding, leaving encoding costly for streaming conditional generation and editing. This raises a natural question: Do video VAE encoding and decoding actually require such global spatiotemporal modeling? By analyzing the effective receptive fields of pretrained video VAEs, we find that both…",
+   "authors": [
+    "Jiachen An",
+    "Sijie Zhao",
+    "Le Li",
+    "Hongyu Liu",
+    "Zhiyuan Li",
+    "Tianyu Yang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34912",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.34912",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "business"
+   ],
+   "score": 52,
+   "id": "dcde431fd6b4"
+  },
+  {
+   "title": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers",
+   "url": "https://huggingface.co/papers/2611.34929",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Diffusion models have shown strong potential for image matting by transferring generative priors learned from large-scale pretraining. However, existing approaches largely rely on latent diffusion models, whose compressed representations and VAE-based reconstruction introduce a mismatch with the high-frequency precision required for matting. We present PixelMatte, a framework that adapts pretrained pixel-space diffusion transformers for high-fidelity image matting. We show that strong image-conditioned matting capabilities can be acquired even from a pure text-to-image model without paired…",
+   "authors": [
+    "Baihan Yang",
+    "Xin Lin",
+    "Yufan Wei",
+    "Baiang Li",
+    "Yuheng Liu",
+    "Juanxi Tian"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34929",
+   "discussion_url": null,
+   "engagement": 16,
+   "also_in": [],
+   "arxiv_id": "2611.34929",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 52,
+   "id": "73fa92836050"
+  },
+  {
+   "title": "Puzzling-Bench: Evaluating Language Models on 23,777 Human-Written Puzzles with Community-Verified Answers",
+   "url": "https://huggingface.co/papers/2611.34331",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "We introduce Puzzling-Bench, a benchmark of 23,777 puzzles with community-verified answers drawn from the Puzzling Stack Exchange archive (2014-2026): riddles, ciphers, logic grids, lateral-thinking problems, wordplay and recreational mathematics, a third of them with images. Every puzzle carries the answer accepted by its author, a short reference answer taken from it (LLM-extracted for the evaluation sets and checked on a 50-puzzle human review), the author's own hints, community tags and a creation date, so that the benchmark supports hint ablations, category analysis and a rolling…",
+   "authors": [
+    "Abhinav Sharma",
+    "Li Li",
+    "Chien Van Nguyen",
+    "Sai Karthik Navuluru",
+    "Bo Ni",
+    "Xiangbo Gao"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34331",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.34331",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "llm"
+   ],
+   "score": 52,
+   "id": "065a821872e0"
+  },
+  {
+   "title": "Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures",
+   "url": "https://huggingface.co/papers/2611.33925",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Robot world models are increasingly used to evaluate and plan policies, yet robot training data are dominated by successful demonstrations. Off the happy path, when a grasp is misaligned or mistimed and the object is pushed, tilted, or slips, their predictions break down. Across five pretrained action-conditioned models, object-motion error is at most 10.4% lower than that of a static baseline that copies the first frame, and two models are worse than this baseline. We present WorldReforge, which teaches world models what happens when manipulation goes wrong. We construct the Reforge dataset…",
+   "authors": [
+    "Zhiyue Zhao",
+    "Mingyu Liu",
+    "Bolin Zhang",
+    "Liyang Li",
+    "Guangyu Huang",
+    "Canyu Zhao"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.33925",
+   "discussion_url": null,
+   "engagement": 12,
+   "also_in": [],
+   "arxiv_id": "2611.33925",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics"
+   ],
+   "score": 51,
+   "id": "ead8adba581c"
+  },
+  {
+   "title": "SPARC: Geometry-Guided Attention Pruning for Long-Horizon Camera-Controlled Video Generation",
+   "url": "https://huggingface.co/papers/2611.34064",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "We present SPARC, a geometry-guided attention pruning framework that turns the native self-attention of pretrained video diffusion transformers into a unified mechanism for camera control and persistent scene memory. Our key insight is that attention connectivity can simultaneously serve as geometric conditioning for camera control and spatial addressing for historical memory retrieval. Motivated by the asymmetric contextual requirements of reconstructing observed content and synthesizing novel regions, SPARC restricts observed tokens to geometrically corresponding historical tokens and local…",
+   "authors": [
+    "Zesong Yang",
+    "Weikai Chen",
+    "Liyuan Cui",
+    "Yuan Li",
+    "Jiaxin Huang",
+    "Lutao Jiang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34064",
+   "discussion_url": null,
+   "engagement": 1,
+   "also_in": [],
+   "arxiv_id": "2611.34064",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "rag"
+   ],
+   "score": 51,
+   "id": "f466e3a4bb10"
+  },
+  {
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-26T11:37:17+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals"
+   ],
+   "score": 50,
+   "id": "02a088434703"
+  },
+  {
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-26T05:05:36+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops",
+    "infra"
+   ],
+   "score": 50,
+   "id": "d3aa48daa62d"
+  },
+  {
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-26T03:36:58+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50651117",
+   "engagement": 383,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 50,
+   "id": "244a3e8cb4f1"
+  },
+  {
+   "title": "SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator",
+   "url": "https://huggingface.co/papers/2611.34750",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "LLM agents have made remarkable progress in robot manipulation, yet they suffer from expensive inference, dense step-by-step control, and tool bottlenecks. We introduce SOLVE, a training-free, versatile and efficient agent policy: a multimodal LLM agent writes a sparse, ordered sequence of 6-DoF end-effector keyposes per call, observes the result, and writes the next, while a motion planner interpolates between them. The agent decides the number and spacing of keyposes for both fast long-range motion and fine-grained manipulation. This granularity matches the sparsity of teleoperated…",
+   "authors": [
+    "Xiang Li",
+    "Hongyu Zhou",
+    "Ya-Li Li",
+    "Tao Li",
+    "Rui Zhang",
+    "Junjie Lai"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34750",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34750",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "llm",
+    "robotics"
+   ],
+   "score": 50,
+   "id": "f51797751e09"
+  },
+  {
    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
    "source_id": "deepmind",
@@ -20,6 +473,128 @@
    "tags": [],
    "score": 50,
    "id": "f14a6f6dfd19"
+  },
+  {
+   "title": "Bare Metal Qwen",
+   "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-25T22:15:34+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50648365",
+   "engagement": 195,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 48,
+   "id": "a1356d98cece"
+  },
+  {
+   "title": "When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL",
+   "url": "https://huggingface.co/papers/2611.34777",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Group-based reinforcement learning with verifiable rewards often yields all-fail groups on long-horizon agent tasks: every sampled trajectory receives zero reward, leaving group-relative methods without a reward-based policy gradient. A common remedy supplies complete solutions from a stronger model, but full trajectories are expensive and expose the learner to long off-policy histories. We introduce SPLICE, which constructs local training targets from failed current-policy trajectories online. For each all-fail group, a proposal model selects a splice point in a current-policy trajectory and…",
+   "authors": [
+    "Haowen Hou",
+    "Yicheng Liu",
+    "Zhen Huang",
+    "Jiaqi Wang"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34777",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.34777",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 47,
+   "id": "91c3a5b7824d"
+  },
+  {
+   "title": "Collect for Coverage, Replay with Evidence: Adaptive and Efficient On-Policy Distillation for Long-Horizon Agents",
+   "url": "https://huggingface.co/papers/2611.34756",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "Fully online on-policy distillation (OPD) is costly for long-horizon agents because each update depends on fresh environment rollouts. Prefix replay offers an efficient alternative by sampling current-student responses from stored histories, reducing idle time for long-tail rollouts and allowing each collected trajectory to support multiple updates. However, our analysis of the complete prefix replay pipeline identifies two limitations in long-horizon settings. In trajectory collection, teacher-only trajectories miss student-induced histories, while broader history coverage can reduce teacher…",
+   "authors": [
+    "Haowen Hou",
+    "Gen Li",
+    "Ruilin Li",
+    "Yicheng Liu",
+    "Zhen Huang",
+    "Shuai Dong"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34756",
+   "discussion_url": null,
+   "engagement": 2,
+   "also_in": [],
+   "arxiv_id": "2611.34756",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 47,
+   "id": "99f4b5fc4d5e"
+  },
+  {
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-26T09:44:23+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50653477",
+   "engagement": 88,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 46,
+   "id": "6f6a6b07f17a"
+  },
+  {
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-26T00:00:00+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 45,
+   "id": "c01600d41603"
   },
   {
    "title": "Where scientists draw the line on AI agents",
@@ -186,6 +761,30 @@
    "id": "86a92119212e"
   },
   {
+   "title": "A Mesh for Every Moment",
+   "url": "https://huggingface.co/papers/2611.34939",
+   "source_id": "hf-daily-papers",
+   "source_name": "Hugging Face Daily Papers",
+   "category": "research",
+   "published": "2026-11-24T19:00:00+00:00",
+   "excerpt": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing dynamic Gaussian splatting methods either model appearance alone or target isolated objects segmented by foreground masks, and all of them recover meshes by TSDF fusion or Poisson reconstruction, whose fixed grids limit the detail they can capture. At the core of MEMO is a per-Gaussian motion model inspired by Gaussian processes, which represents each Gaussian's position and rotation over time as…",
+   "authors": [
+    "Roy Or-El",
+    "Jeong Joon Park",
+    "Ira Kemelmacher-Shlizerman"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34939",
+   "discussion_url": null,
+   "engagement": 1,
+   "also_in": [],
+   "arxiv_id": "2611.34939",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 41,
+   "id": "30bb6195909a"
+  },
+  {
    "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
    "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
    "source_id": "the-decoder",
@@ -236,6 +835,54 @@
    "id": "3a2027e26944"
   },
   {
+   "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+   "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-26T11:30:06+00:00",
+   "excerpt": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already using the system. Microsoft recommends deception techniques like honeypots and faked success signals as defenses, but how long those will hold up against agents that learn and adapt remains an open question. The article Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks…",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 35,
+   "id": "fa2f0df7cd76"
+  },
+  {
+   "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+   "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-26T11:21:16+00:00",
+   "excerpt": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands of B300 chips, while one cloud executive describes \"chaos\", Loans and major deals are now on the line for Southeast Asia's data centers. The article Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 35,
+   "id": "19fd120ee363"
+  },
+  {
    "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
    "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
    "source_id": "the-decoder",
@@ -282,8 +929,825 @@
    ],
    "score": 35,
    "id": "32865a308770"
+  },
+  {
+   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-26T13:41:07+00:00",
+   "excerpt": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrastructure in space, but Boston Consulting Group estimates costs will stay well above ground-based data centers for now. The article FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040 appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "a72a6281d079"
+  },
+  {
+   "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+   "url": "https://arxiv.org/abs/2611.34942",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:59:57+00:00",
+   "excerpt": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions, we…",
+   "authors": [
+    "Yalin E. Sagduyu",
+    "Tugba Erpek"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34942",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34942",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra",
+    "code"
+   ],
+   "score": 30,
+   "id": "e2475e3ce869"
+  },
+  {
+   "title": "Can image generation help visual reasoning? An empirical study",
+   "url": "https://arxiv.org/abs/2611.34935",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:59:31+00:00",
+   "excerpt": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten tasks. Two unified models, BAGEL and Janus-Pro-7B, each lose accuracy on eight tasks. On VSTAR, adding a generated image to the same planning hint lowers accuracy by 10.47 points. Repeated image…",
+   "authors": [
+    "Xueyang Yu",
+    "Yifan Jing",
+    "Taiming Lu",
+    "Linrong Cai",
+    "Zhipeng Cai",
+    "Yunyang Xiong"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34935",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34935",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 30,
+   "id": "069f270d3401"
+  },
+  {
+   "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+   "url": "https://arxiv.org/abs/2611.34934",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:59:28+00:00",
+   "excerpt": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We evaluate an ex-production OpenAI monitor as a case study and find that measured false negative rate is highly sensitive to both the method used to generate attack policies and the level of optimisation applied within that method. This rate ranged from 0.5\\% to 20.8\\% across optimisation levels of a single method (reinforcement learning), and from 6.4\\% to 23.0\\% across methods at their best…",
+   "authors": [
+    "Charlie Griffin",
+    "Oliver Makins",
+    "Asa Cooper Stickland",
+    "Alessandro Abate",
+    "Yarin Gal",
+    "Abby D'Cruz"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34934",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34934",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops",
+    "agents"
+   ],
+   "score": 30,
+   "id": "09146c2649a5"
+  },
+  {
+   "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+   "url": "https://arxiv.org/abs/2611.34930",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:59:13+00:00",
+   "excerpt": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents. We introduce BioScore, a benchmark that quantifies how well an image encoder captures cell identities, with spatial transcriptomics of the same tissue as the reference. A sparse autoencoder splits the encoder's patch embeddings into sparse features, which we cluster into a fixed number of groups. BioScore then measures, for each of 52 cell identities defined…",
+   "authors": [
+    "Paul Vilars",
+    "Vincent Quoc-Huy Trinh",
+    "Maria Vakalopoulou",
+    "Dimitris Samaras",
+    "Stergios Christodoulidis",
+    "Mahdi S. Hosseini"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34930",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34930",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "rag",
+    "science"
+   ],
+   "score": 30,
+   "id": "8e48b3b7e2ba"
+  },
+  {
+   "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+   "url": "https://arxiv.org/abs/2611.34920",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:58:42+00:00",
+   "excerpt": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated profiles of goals, knowledge, and permissions, adapting to the agent's speech and tool outcomes. Across 20 domains, 100 scenarios vary group size, acoustics, and follow-up demands to form 800 cases (408…",
+   "authors": [
+    "Qihao Lin",
+    "Guanxu Chen",
+    "Shuhang Zheng",
+    "Xiaoya Lu",
+    "Jingyi Yang",
+    "Terumi Chiba"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34920",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34920",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "evals",
+    "multimodal"
+   ],
+   "score": 30,
+   "id": "4fc8c7fc8237"
+  },
+  {
+   "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+   "url": "https://arxiv.org/abs/2611.34899",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:51:36+00:00",
+   "excerpt": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly on compressed latent-space representations rather than on the original Sentinel-1 imagery, this approach directly addresses the data gravity bottleneck that increasingly constrains operational EO processing, in line with the objectives of the Embed2Scale project. In particular, linear and non-linear probing of compressed embeddings, latent space representations of synthetic aperture radar (SAR)…",
+   "authors": [
+    "Rikard Vinge",
+    "Miguel A. Belenguer-Plomer",
+    "Isabelle Wittmann",
+    "Octavian Dumitru",
+    "Michele Lazzarini",
+    "Sergio Albani"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34899",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34899",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "rag",
+    "llm"
+   ],
+   "score": 30,
+   "id": "085156c8c1ea"
+  },
+  {
+   "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+   "url": "https://arxiv.org/abs/2611.34881",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:39:28+00:00",
+   "excerpt": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on their typical neighbors rather than the objects' own visual features, which we call typicality bias. While extensively studied in the pre-Transformer era, it has often been assumed that architectural and scale improvements would naturally solve it, and a systematic diagnostic across the modern vision stack remains absent. We provide such a diagnostic framework. We measure…",
+   "authors": [
+    "Siddhartha Gairola",
+    "Jiahao Xie",
+    "Anna Kukleva",
+    "Francesco Locatello",
+    "Bernt Schiele"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34881",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34881",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 30,
+   "id": "8c2a107c8b37"
+  },
+  {
+   "title": "How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches",
+   "url": "https://arxiv.org/abs/2611.34875",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:37:06+00:00",
+   "excerpt": "Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether the extra edits are needed, what they are, or where they come from. We introduce Delta Residue Attribution (DRA), which replays agent trajectories, traces every block (unit) of the final patch to the step that wrote it, reverts each unit, and reruns the task tests to decide whether the unit is needed. We apply DRA to 7,660 resolved GitHub Copilot CLI trajectories from 18 frontier models on SWE-bench Verified (6,728) and DeepSWE (932), and grade developer patches using the same…",
+   "authors": [
+    "Aakash Goel",
+    "Benjamin Steenhoek",
+    "Yu Hu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34875",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34875",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents",
+    "code"
+   ],
+   "score": 30,
+   "id": "85cd581be252"
+  },
+  {
+   "title": "Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation",
+   "url": "https://arxiv.org/abs/2611.34870",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:34:46+00:00",
+   "excerpt": "Merging RDF serializations creates ordering conflicts and misses semantic ones. We describe and evaluate a three-way merge in which the schema defines a conflict: set algebra combines canonical triples, and a slot is contended only where a SHACL shape bounds its cardinality and both sides' changes cannot stand within that bound. Unbounded predicates union; contended slots go to a person. The same shapes graph validates the result. We do not claim the first three-way merge for RDF. Our contribution is an implementation in a production multi-agent store and an evaluation against a…",
+   "authors": [
+    "Steve Brown"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34870",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34870",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "agents"
+   ],
+   "score": 30,
+   "id": "f77fe86fc576"
+  },
+  {
+   "title": "A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom",
+   "url": "https://arxiv.org/abs/2611.34868",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:33:07+00:00",
+   "excerpt": "Large Language Models (LLMs) are increasingly integrated into telecommunications for customer service, network analytics, and operational support. While offering efficiency and innovation, their deployment raises critical privacy, security, and ethical challenges due to the uniquely sensitive and longitudinal nature of telecom data. This paper presents a survey of LLM risks and safeguards in telecom context. Our survey introduces a telecom-specific taxonomy linking privacy, security, and ethics with use cases and outlines open research challenges such as longitudinal data privacy…",
+   "authors": [
+    "Joy Bose",
+    "Srinivas Adyapak"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34868",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34868",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops",
+    "llm",
+    "business"
+   ],
+   "score": 30,
+   "id": "bb8b99b12afa"
+  },
+  {
+   "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+   "url": "https://arxiv.org/abs/2611.34864",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:30:43+00:00",
+   "excerpt": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additional speed-selection module at deployment. Several offline speedup methods have focused on identifying segments that require less precision and assigning predefined speedup factors to the segments. However, even within a single segment, a speedup factor suitable for steady motion may be too high when precise alignment is required. To this end, this paper presents RePace, an offline reasoning…",
+   "authors": [
+    "Insup Lee",
+    "Hojin Jeon",
+    "Sunguk Shin",
+    "Seoungbin Bae",
+    "Taekwan Kim",
+    "Jinwoo Shin"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34864",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34864",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "mlops",
+    "safety"
+   ],
+   "score": 30,
+   "id": "dc9d54eb39fc"
+  },
+  {
+   "title": "Focus Only on What's Important: Training-Free Focus Maps for Frozen Vision Transformers in Long-Video Object Segmentation",
+   "url": "https://arxiv.org/abs/2611.34863",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:30:28+00:00",
+   "excerpt": "Vision transformers are strong but costly image encoders for video object segmentation. Training-free token merging cuts compute uniformly across the frame, including on tracked objects. We give a frozen DINOv3 ViT inside a trained Cutie head a training-free focus map: full resolution where the segmenter expects its objects and coarser merging elsewhere. Protecting only the previous frame's mask works on short clips but fails on long videos, where fast motion pushes targets outside the margin and into background merging, locking in loss. Our policy instead takes the union of velocity-shifted…",
+   "authors": [
+    "Harsha Karipineni",
+    "Rajesh Reddy Chintha"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34863",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34863",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "infra"
+   ],
+   "score": 30,
+   "id": "bbe056472ef5"
+  },
+  {
+   "title": "BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding",
+   "url": "https://arxiv.org/abs/2611.34862",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:29:36+00:00",
+   "excerpt": "We introduce BOP-Refer, the first benchmark for monocular 3D and 2D grounding of everyday and industrial objects sourced from 9 diverse BOP datasets. We pair images from these datasets with VLM-generated and human-verified referring expressions, and derive accurate ground-truth 3D and 2D bounding boxes of the referred objects from their 3D models and 6DoF pose annotations. Our systematic evaluation of 17 frontier VLMs across the major proprietary and open-weight families (Gemini, GPT, Claude, Qwen, Gemma) shows that the best model, Gemini 4 Carbon, reaches 72.6% AP_IoU2D in 2D but only 12.4%…",
+   "authors": [
+    "Tomas Hodan",
+    "Vineet Bhat",
+    "Martin Sundermeyer",
+    "Jonathan Tremblay",
+    "Yash Patel",
+    "Médéric Fourmy"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34862",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34862",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals",
+    "open-source"
+   ],
+   "score": 30,
+   "id": "e3206e9ee123"
+  },
+  {
+   "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+   "url": "https://arxiv.org/abs/2611.34852",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:25:30+00:00",
+   "excerpt": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia and uses sampled subgraphs to generate research queries and evidence-grounded rubrics. Each rubric…",
+   "authors": [
+    "Han Huang",
+    "Yuchen Yan",
+    "Xingyu Wu",
+    "Yijun Li",
+    "Chao Deng",
+    "Jie Liu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34852",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34852",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "evals",
+    "agents"
+   ],
+   "score": 30,
+   "id": "2a02bc10222b"
+  },
+  {
+   "title": "Probing Visual Idiosyncrasies in Text-to-Image Models",
+   "url": "https://arxiv.org/abs/2611.34843",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:20:18+00:00",
+   "excerpt": "Text-to-Image (T2I) models turn short text descriptions into images, and the leading models now produce images of comparable visual quality. Whether their outputs still carry model-specific characteristics matters for attribution, for model comparison beyond aggregate quality, and for evaluations that assume anonymity. We ask whether images from frontier T2I models can still be classified by source, and which visual properties make this possible. Here we show that a standard ResNet-50 identifies the source of an image among HiDream-O1-Dev, FLUX.2-dev, HunyuanImage-3.0, and Qwen-Image-2512…",
+   "authors": [
+    "Yongqian Peng",
+    "Hongjie Li",
+    "Yichao Zhou",
+    "Chi Zhang",
+    "Yixin Zhu"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34843",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34843",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal",
+    "llm"
+   ],
+   "score": 30,
+   "id": "eab8822a3c68"
+  },
+  {
+   "title": "Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection",
+   "url": "https://arxiv.org/abs/2611.34825",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:08:01+00:00",
+   "excerpt": "LLM routing aims to choose, for each prompt, which model in a portfolio is most likely to answer correctly. This only makes sense when the benchmark contains enough prompt-specific variation for different models to be best on different inputs. On coarse-scored LLM benchmarks, however, many models often tie for the best score, and the single best model may already leave little room for improvement. We therefore propose a routeability-first audit, instantiated as RAP and RouteabilityBench, a runnable claim-verification package. The audit is retrospective: it runs once the benchmark-portfolio…",
+   "authors": [
+    "Yihang Lu",
+    "Denica Kjorvezir",
+    "Ana Gjorgjevikj",
+    "Carola Doerr",
+    "Tome Eftimov"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34825",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34825",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm",
+    "evals"
+   ],
+   "score": 30,
+   "id": "6be744769982"
+  },
+  {
+   "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video",
+   "url": "https://arxiv.org/abs/2611.34894",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:47:56+00:00",
+   "excerpt": "How an object deforms when it hits the ground reveals what it is made of. From a single real video of a drop, we estimate a deformable object's density-normalized stiffness $E/ρ$, and its yield stress $σ_Y/ρ$ when the impact causes plastic deformation, with a feed-forward predictor trained only in simulation. Real videos carry no material labels, so such predictors are developed and validated on synthetic data alone. We show that synthetic validation ranks their geometric inputs in the wrong order. Material acts through 3D deformation, and tracklets lifted to 3D with estimated depth are…",
+   "authors": [
+    "Ziyue Peng",
+    "Yanxi Hu",
+    "Junyoung Kim",
+    "Andrew Chen",
+    "Jin Yang",
+    "Chandrajit L. Bajaj"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34894",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34894",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "multimodal"
+   ],
+   "score": 25,
+   "id": "d16d23cd5d68"
+  },
+  {
+   "title": "From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events",
+   "url": "https://arxiv.org/abs/2611.34858",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:27:48+00:00",
+   "excerpt": "Autoregressive transformers trained on tokenized tabular event streams are a simple and strong baseline for predicting financial events such as fraud. Yet institutions do not act on probabilities; they act on decisions whose consequences are asymmetric and heteroscedastic: the cost of a missed high-value fraud and that of a wrongly declined small purchase are not the same. The standard bridge is post-hoc Bayes-optimal thresholding of calibrated probabilities under a cost matrix. We ask whether fine-tuning the model to the decision objective can do better. We fine-tune the same pretrained…",
+   "authors": [
+    "Ashkan Golgoon",
+    "Giacomo Domeniconi",
+    "Samuel Atkins",
+    "Sergio Servantez",
+    "Zain Khandwala"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34858",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34858",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops"
+   ],
+   "score": 25,
+   "id": "2395f6e11978"
+  },
+  {
+   "title": "Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk",
+   "url": "https://arxiv.org/abs/2611.34840",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:18:53+00:00",
+   "excerpt": "We study risk-sensitive reinforcement learning in finite discounted infinite-horizon Markov Decision Processes with recursive entropic risk measures (ERM), parameterized by $β\\neq 0$. We consider both risk-averse ($β>0$) and risk-seeking ($β<0$) settings. We consider the offline RL setting, where the agent is provided with a fixed dataset and wishes to learn a near-optimal policy using this dataset. We introduce a model-based algorithm, called ERM Value Iteration Lower Confidence Bound (ERM-VI-LCB) and derive a PAC-type bound on its sample complexity. We also establish a corresponding lower…",
+   "authors": [
+    "Amirparsa Bahrami",
+    "Oliver Mortensen",
+    "Mohammad Sadegh Talebi"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34840",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34840",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 25,
+   "id": "2634edf0f7de"
+  },
+  {
+   "title": "Repairing the Trustworthiness of Distilled Language Models",
+   "url": "https://arxiv.org/abs/2611.34831",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:12:20+00:00",
+   "excerpt": "Knowledge distillation enables the deployment of large language models through smaller student models, but the compression process can introduce regressions in trustworthiness even when downstream performance is preserved. Repairing such failures is challenging because the original distillation corpus is often unavailable, while direct preference optimization may alter capabilities inherited from the teacher. We propose a targeted repair framework based on the proximal Bregman response function (PBRF) that addresses both limitations. We estimate the curvature required for PBRF using a…",
+   "authors": [
+    "Kumar Shubham",
+    "Devendra Vyas",
+    "Vidushi Agarwal",
+    "Jayin Khanna",
+    "Prathosh AP"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34831",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34831",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops"
+   ],
+   "score": 25,
+   "id": "a095e7ad1fcd"
+  },
+  {
+   "title": "Tokenisation is not in APX",
+   "url": "https://arxiv.org/abs/2611.34938",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:59:38+00:00",
+   "excerpt": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets. We further show that, even over unary alphabets, direct tokenisation is APX-hard, and thus admits no polynomial-time approximation scheme.",
+   "authors": [
+    "Violeta Kastreva",
+    "Philip Whittington",
+    "Dennis Komm",
+    "Tiago Pimentel"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34938",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34938",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "c13b6a740038"
+  },
+  {
+   "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+   "url": "https://arxiv.org/abs/2611.34928",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:59:11+00:00",
+   "excerpt": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It then generates deliberately distinct alternative candidates for highly ranked steps using reference-answer guidance and a meta-thought…",
+   "authors": [
+    "Lukas Aichberger",
+    "Adam Golinski",
+    "Arno Blaas",
+    "Arwen Bradley",
+    "Jacob Springer",
+    "Mehrdad Farajtabar"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34928",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34928",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "b39c0011c08f"
+  },
+  {
+   "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+   "url": "https://arxiv.org/abs/2611.34887",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:45:35+00:00",
+   "excerpt": "Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategies range from axis-parallel and oblique splits based on feature values to proximity-based splits using exemplar instances and more complex hybrid approaches. However, no single method has emerged as universally superior. In this work, we present two key contributions to the construction of greedy…",
+   "authors": [
+    "Cristiano Landi",
+    "Alessio Cascione",
+    "Riccardo Guidotti"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34887",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34887",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "5679e8b1a07d"
+  },
+  {
+   "title": "Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines",
+   "url": "https://arxiv.org/abs/2611.34859",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:28:20+00:00",
+   "excerpt": "The Guidelines 02/2026 on anonymisation of the European Data Protection Board (EDPB), published for consultation in July 2026, assess anonymity relative to the entities that may access data. They bring AI models into scope and call for testing, but do not say how a re-identification test should be designed or validated, or how far its result counts as evidence. Building on our reply to the consultation, we describe a framework based on a secure processing environment whose outputs are reviewed before release (an airlock), and distinguish forms of release and three types of evidence: formal…",
+   "authors": [
+    "Rickard Brännvall",
+    "Henrik Forsgren",
+    "Erik Ylipää",
+    "Aslak Felin",
+    "Michael Popoff",
+    "Susanne Stenberg"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34859",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34859",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "2233f69383f8"
+  },
+  {
+   "title": "Put the World Back: Timestamps Matter in Time Series Reasoning",
+   "url": "https://arxiv.org/abs/2611.34848",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:23:07+00:00",
+   "excerpt": "Large language models (LLMs) are increasingly applied to time series reasoning. However, current evaluations often give models events in chronological order and already matched to the time series. This makes it unclear whether models use timestamps to connect events with observations or simply take shortcuts. To expose this ambiguity, we reformulate time series reasoning from a world-to-series projection perspective, viewing timestamps as explicit indices that connect numerical observations and external events to shared world states. We identify three structures that timestamps can make…",
+   "authors": [
+    "Tingrui Huang",
+    "Yuanyuan Deng",
+    "Qingren Yao",
+    "Joaquin Vanschoren",
+    "Mykola Pechenizkiy",
+    "Songgaojun Deng"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34848",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34848",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "0d1e8eb171fc"
+  },
+  {
+   "title": "Knowledge-Base Gradient Descent: Self-Structuring Learning through Question Answering",
+   "url": "https://arxiv.org/abs/2611.34841",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:19:02+00:00",
+   "excerpt": "We consider the problem of constructing knowledge bases for applications based on large language models, in which the structure of a knowledge base determines how an application can retrieve and connect the information needed to answer a question. We study Self-Structuring Learning, a setting in which questions and expected answers guide the construction of a persistent knowledge base whose editable structure can be a graph schema or the organization of linked knowledge documents. We propose Knowledge-Base Gradient Descent, which diagnoses discrepancies between expected answers and responses…",
+   "authors": [
+    "Masahiro Kato"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34841",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34841",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "1f76442b6576"
+  },
+  {
+   "title": "Proverbs As A Window On Collective Prescriptions",
+   "url": "https://arxiv.org/abs/2611.34832",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:12:23+00:00",
+   "excerpt": "Proverbs, as repositories of traditional wisdom, have informed human reasoning for millennia. Yet the collective prescriptions they encode have remained largely unquantified. We introduce a computational framework to analyze nearly 50,000 English-language proverbs. Using large language models, validated against human judgments, we map the topical landscape of proverbs, assess their prescriptive power, and quantify their recommendations on key dimensions of human judgment and behavior. We find that most proverbs are prescriptive, offering guidance in domains under individual control, such as…",
+   "authors": [
+    "Tomás Lejarraga",
+    "Dirk U. Wulff",
+    "Ralph Hertwig"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34832",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34832",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "5620e7372457"
+  },
+  {
+   "title": "Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models",
+   "url": "https://arxiv.org/abs/2611.34830",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:11:49+00:00",
+   "excerpt": "World models predict how an environment responds to actions, so that candidate actions can be evaluated before execution. Executed actions, or decisions, taken in this manner are only as reliable as the model's predictive capabilities, and predictions in turn are only reliable within the model's experience. Epistemic uncertainty (EU) is the signal that marks where that experience ends. In this work we offer an extensive empirical study on how training objectives and architectures shape epistemic uncertainty of world models. More precisely, we present a controlled comparison of post-hoc EU…",
+   "authors": [
+    "Simon Baur",
+    "Wojciech Samek",
+    "Jackie Ma"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34830",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34830",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "dbe06e9a4c47"
+  },
+  {
+   "title": "Gradient TD($λ$) for Non-Linear Function Approximation",
+   "url": "https://arxiv.org/abs/2611.34826",
+   "source_id": "arxiv",
+   "source_name": "arXiv (cs.AI, cs.CL, cs.LG)",
+   "category": "research",
+   "published": "2026-11-25T18:08:06+00:00",
+   "excerpt": "Temporal difference (TD) learning is central to reinforcement learning. Many methods use semi-gradient TD, which may diverge, or develop algorithms with mean-squared Bellman or TD-error objectives that are difficult to analyze. Gradient TD algorithms overcome these challenges by using projection of the value function and present convergent off-policy algorithms. However, the algorithm for $λ$-return was limited to linear function approximation. Here, we extend the same to non-linear function approximation, which is desirable since many strong modern function approximators are complex and…",
+   "authors": [
+    "Sujeet Lahane"
+   ],
+   "pdf_url": "https://arxiv.org/pdf/2611.34826",
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": "2611.34826",
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 20,
+   "id": "cf2a2d56580d"
   }
  ],
- "generated_at": "2026-11-25T23:46:28.579425+00:00",
+ "generated_at": "2026-11-26T15:12:24.583623+00:00",
  "llm": "none"
 }
