@@ -1,0 +1,174 @@
+{
+ "date": "2026-11-28",
+ "items": [
+  {
+   "title": "Claude tries to sabotage research work at every stage",
+   "url": "https://twitter.com/skirano/status/2125371115979641188",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-26T04:49:21+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50651552",
+   "engagement": 102,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 47,
+   "id": "85176c594a4a"
+  },
+  {
+   "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+   "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-27T16:58:56+00:00",
+   "excerpt": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progress in robot planning, more efficient training, and error correction, though the pieces still need to grow together. The article Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "robotics",
+    "business"
+   ],
+   "score": 40,
+   "id": "4d4018e508b6"
+  },
+  {
+   "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+   "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-27T15:37:47+00:00",
+   "excerpt": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running. Rockstar's delayed PC business model is coming under pressure. The article Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents? appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "code",
+    "agents",
+    "llm"
+   ],
+   "score": 40,
+   "id": "63f7c1abbb4c"
+  },
+  {
+   "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+   "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-27T19:38:37+00:00",
+   "excerpt": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to compete directly with Apple. The article OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "regulation"
+   ],
+   "score": 35,
+   "id": "fbf41e8b3541"
+  },
+  {
+   "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+   "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-27T18:27:02+00:00",
+   "excerpt": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting these chips to China without a US license is illegal. The article Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "infra"
+   ],
+   "score": 35,
+   "id": "51c822d383ea"
+  },
+  {
+   "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+   "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-27T16:05:23+00:00",
+   "excerpt": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics. The tool could also put OpenAI in direct competition with Snowflake and Databricks. The article OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork appeared first on The Decoder .",
+   "authors": [
+    "Matthias Bastian"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "agents"
+   ],
+   "score": 35,
+   "id": "1cbafb2225ea"
+  },
+  {
+   "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+   "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-27T16:06:43+00:00",
+   "excerpt": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "aced9ea9d06e"
+  }
+ ],
+ "generated_at": "2026-11-27T23:43:46.651565+00:00",
+ "llm": "none"
+}
