@@ -24,6 +24,70 @@
    "id": "1d45997e4997"
   },
   {
+   "title": "Claude sabotaging SOTA ML research tasks",
+   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-27T08:28:08+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50664325",
+   "engagement": 177,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 48,
+   "id": "138e1e18872d"
+  },
+  {
+   "title": "\"What's Claude's Fursona?\" and Other Questions",
+   "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-27T04:56:18+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50662933",
+   "engagement": 102,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "llm"
+   ],
+   "score": 47,
+   "id": "0256b11e8366"
+  },
+  {
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
+   "url": "http://themouseless.dev/vim/",
+   "source_id": "hacker-news",
+   "source_name": "Hacker News",
+   "category": "community",
+   "published": "2026-11-26T14:44:22+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": "https://news.ycombinator.com/item?id=50655868",
+   "engagement": 242,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 44,
+   "id": "1833d9d99e85"
+  },
+  {
    "title": "OpenAI may be in cost control mode",
    "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
    "source_id": "hacker-news",
@@ -62,6 +126,26 @@
    "tags": [],
    "score": 43,
    "id": "1f02c916626f"
+  },
+  {
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "url": "https://huggingface.co/blog/video-trainium3",
+   "source_id": "huggingface-blog",
+   "source_name": "Hugging Face Blog",
+   "category": "news",
+   "published": "2026-11-27T00:00:00+00:00",
+   "excerpt": "",
+   "authors": [],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 40,
+   "id": "2d7f8b4f8454"
   },
   {
    "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
@@ -113,6 +197,28 @@
    "id": "5320f5d21a09"
   },
   {
+   "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+   "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+   "source_id": "the-decoder",
+   "source_name": "The Decoder",
+   "category": "news",
+   "published": "2026-11-27T14:57:25+00:00",
+   "excerpt": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The article SAP plans to cut at least 10,000 jobs as it pivots to AI appeared first on The Decoder .",
+   "authors": [
+    "Maximilian Schreiner"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [],
+   "score": 30,
+   "id": "bad7b4e320a3"
+  },
+  {
    "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
    "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
    "source_id": "marktechpost",
@@ -158,8 +264,56 @@
    "tags": [],
    "score": 30,
    "id": "0b68c1bfb12f"
+  },
+  {
+   "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+   "url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-27T03:43:35+00:00",
+   "excerpt": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "regulation"
+   ],
+   "score": 25,
+   "id": "8732f28410ce"
+  },
+  {
+   "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+   "url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+   "source_id": "marktechpost",
+   "source_name": "MarkTechPost",
+   "category": "news",
+   "published": "2026-11-27T03:31:30+00:00",
+   "excerpt": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%. The post Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache appeared first on MarkTechPost .",
+   "authors": [
+    "Asif Razzaq"
+   ],
+   "pdf_url": null,
+   "discussion_url": null,
+   "engagement": 0,
+   "also_in": [],
+   "arxiv_id": null,
+   "summary": "",
+   "summary_kind": "excerpt",
+   "tags": [
+    "mlops"
+   ],
+   "score": 25,
+   "id": "12c96cbbfed0"
   }
  ],
- "generated_at": "2026-11-26T23:59:08.703195+00:00",
+ "generated_at": "2026-11-27T15:03:43.610733+00:00",
  "llm": "none"
 }
